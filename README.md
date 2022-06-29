@@ -8,7 +8,8 @@
 <!-- ![](https://github-readme-stats.vercel.app/api?username=yiliang114&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yiliang114&layout=compact) -->
 
-<h3 align="left"> :zap: Recent Activity </h3>
+### :zap: Recent Activity
+
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#11347](https://github.com/eclipse-theia/theia/issues/11347) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
 2. 🗣 Commented on [#11296](https://github.com/eclipse-theia/theia/issues/11296) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
