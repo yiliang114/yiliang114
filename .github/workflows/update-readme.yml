@@ -1,0 +1,23 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  # https://github.com/athul/waka-readme
+  # update-readme:
+  #   name: Update this repo's README
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - uses: athul/waka-readme@master
+  #       with:
+  #         WAKATIME_API_KEY: ${{ secrets.secrets.GITHUB_TOKEN }}
