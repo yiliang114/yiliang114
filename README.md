@@ -11,11 +11,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#11369](https://github.com/eclipse-theia/theia/issues/11369) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
-2. 🗣 Commented on [#11347](https://github.com/eclipse-theia/theia/issues/11347) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
-3. 🗣 Commented on [#11296](https://github.com/eclipse-theia/theia/issues/11296) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
-4. 💪 Opened PR [#11347](https://github.com/eclipse-theia/theia/pull/11347) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
-5. ❗️ Opened issue [#11346](https://github.com/eclipse-theia/theia/issues/11346) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
+1. 💪 Opened PR [#11370](https://github.com/eclipse-theia/theia/pull/11370) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
+2. ❗️ Opened issue [#11369](https://github.com/eclipse-theia/theia/issues/11369) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
+3. 🗣 Commented on [#11347](https://github.com/eclipse-theia/theia/issues/11347) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
+4. 🗣 Commented on [#11296](https://github.com/eclipse-theia/theia/issues/11296) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
+5. 💪 Opened PR [#11347](https://github.com/eclipse-theia/theia/pull/11347) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
 <!--END_SECTION:activity-->
 
 <br />
