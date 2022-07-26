@@ -18,11 +18,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#155310](https://github.com/microsoft/vscode/pull/155310) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. 🗣 Commented on [#11427](https://github.com/eclipse-theia/theia/issues/11427) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
-3. 💪 Opened PR [#11427](https://github.com/eclipse-theia/theia/pull/11427) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
-4. ❗️ Opened issue [#11425](https://github.com/eclipse-theia/theia/issues/11425) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
-5. 🗣 Commented on [#11382](https://github.com/eclipse-theia/theia/issues/11382) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
+1. 💪 Opened PR [#689](https://github.com/microsoft/vscode-extension-samples/pull/689) in [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples)
+2. 💪 Opened PR [#155310](https://github.com/microsoft/vscode/pull/155310) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. 🗣 Commented on [#11427](https://github.com/eclipse-theia/theia/issues/11427) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
+4. 💪 Opened PR [#11427](https://github.com/eclipse-theia/theia/pull/11427) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
+5. ❗️ Opened issue [#11425](https://github.com/eclipse-theia/theia/issues/11425) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
 
 <!--END_SECTION:activity-->
 
