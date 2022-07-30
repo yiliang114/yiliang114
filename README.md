@@ -18,11 +18,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#54](https://github.com/program-in-chinese/vscode_english_chinese_dictionary/issues/54) in [program-in-chinese/vscode_english_chinese_dictionary](https://github.com/program-in-chinese/vscode_english_chinese_dictionary)
-2. 🗣 Commented on [#103](https://github.com/tw93/MiaoYan/issues/103) in [tw93/MiaoYan](https://github.com/tw93/MiaoYan)
-3. ❗️ Opened issue [#103](https://github.com/tw93/MiaoYan/issues/103) in [tw93/MiaoYan](https://github.com/tw93/MiaoYan)
-4. 🗣 Commented on [#65](https://github.com/yiliang114/yiliang114.github.io/issues/65) in [yiliang114/yiliang114.github.io](https://github.com/yiliang114/yiliang114.github.io)
-5. ❗️ Opened issue [#65](https://github.com/yiliang114/yiliang114.github.io/issues/65) in [yiliang114/yiliang114.github.io](https://github.com/yiliang114/yiliang114.github.io)
+1. 🎉 Merged PR [#26](https://github.com/yiliang114/vue-thanos-snap/pull/26) in [yiliang114/vue-thanos-snap](https://github.com/yiliang114/vue-thanos-snap)
+2. 🎉 Merged PR [#27](https://github.com/yiliang114/vue-thanos-snap/pull/27) in [yiliang114/vue-thanos-snap](https://github.com/yiliang114/vue-thanos-snap)
+3. 🎉 Merged PR [#22](https://github.com/yiliang114/vue-thanos-snap/pull/22) in [yiliang114/vue-thanos-snap](https://github.com/yiliang114/vue-thanos-snap)
+4. 🎉 Merged PR [#28](https://github.com/yiliang114/vue-thanos-snap/pull/28) in [yiliang114/vue-thanos-snap](https://github.com/yiliang114/vue-thanos-snap)
+5. 🎉 Merged PR [#29](https://github.com/yiliang114/vue-thanos-snap/pull/29) in [yiliang114/vue-thanos-snap](https://github.com/yiliang114/vue-thanos-snap)
 
 <!--END_SECTION:activity-->
 
