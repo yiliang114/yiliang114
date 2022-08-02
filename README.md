@@ -19,10 +19,10 @@
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#11494](https://github.com/eclipse-theia/theia/issues/11494) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
-2. 💪 Opened PR [#11494](https://github.com/eclipse-theia/theia/pull/11494) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
-3. 💪 Opened PR [#1044](https://github.com/microsoft/vscode-languageserver-node/pull/1044) in [microsoft/vscode-languageserver-node](https://github.com/microsoft/vscode-languageserver-node)
-4. 🗣 Commented on [#103](https://github.com/tw93/MiaoYan/issues/103) in [tw93/MiaoYan](https://github.com/tw93/MiaoYan)
-5. 🎉 Merged PR [#26](https://github.com/yiliang114/vue-thanos-snap/pull/26) in [yiliang114/vue-thanos-snap](https://github.com/yiliang114/vue-thanos-snap)
+2. 🗣 Commented on [#11494](https://github.com/eclipse-theia/theia/issues/11494) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
+3. 💪 Opened PR [#11494](https://github.com/eclipse-theia/theia/pull/11494) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
+4. 💪 Opened PR [#1044](https://github.com/microsoft/vscode-languageserver-node/pull/1044) in [microsoft/vscode-languageserver-node](https://github.com/microsoft/vscode-languageserver-node)
+5. 🗣 Commented on [#103](https://github.com/tw93/MiaoYan/issues/103) in [tw93/MiaoYan](https://github.com/tw93/MiaoYan)
 
 <!--END_SECTION:activity-->
 
