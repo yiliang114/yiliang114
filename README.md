@@ -18,11 +18,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#103](https://github.com/tw93/MiaoYan/issues/103) in [tw93/MiaoYan](https://github.com/tw93/MiaoYan)
-2. 🎉 Merged PR [#26](https://github.com/yiliang114/vue-thanos-snap/pull/26) in [yiliang114/vue-thanos-snap](https://github.com/yiliang114/vue-thanos-snap)
-3. 🎉 Merged PR [#27](https://github.com/yiliang114/vue-thanos-snap/pull/27) in [yiliang114/vue-thanos-snap](https://github.com/yiliang114/vue-thanos-snap)
-4. 🎉 Merged PR [#22](https://github.com/yiliang114/vue-thanos-snap/pull/22) in [yiliang114/vue-thanos-snap](https://github.com/yiliang114/vue-thanos-snap)
-5. 🎉 Merged PR [#28](https://github.com/yiliang114/vue-thanos-snap/pull/28) in [yiliang114/vue-thanos-snap](https://github.com/yiliang114/vue-thanos-snap)
+1. 💪 Opened PR [#1044](https://github.com/microsoft/vscode-languageserver-node/pull/1044) in [microsoft/vscode-languageserver-node](https://github.com/microsoft/vscode-languageserver-node)
+2. 🗣 Commented on [#103](https://github.com/tw93/MiaoYan/issues/103) in [tw93/MiaoYan](https://github.com/tw93/MiaoYan)
+3. 🎉 Merged PR [#26](https://github.com/yiliang114/vue-thanos-snap/pull/26) in [yiliang114/vue-thanos-snap](https://github.com/yiliang114/vue-thanos-snap)
+4. 🎉 Merged PR [#27](https://github.com/yiliang114/vue-thanos-snap/pull/27) in [yiliang114/vue-thanos-snap](https://github.com/yiliang114/vue-thanos-snap)
+5. 🎉 Merged PR [#22](https://github.com/yiliang114/vue-thanos-snap/pull/22) in [yiliang114/vue-thanos-snap](https://github.com/yiliang114/vue-thanos-snap)
 
 <!--END_SECTION:activity-->
 
