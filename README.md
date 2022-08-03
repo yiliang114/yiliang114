@@ -20,9 +20,9 @@
 
 1. 🗣 Commented on [#11494](https://github.com/eclipse-theia/theia/issues/11494) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
 2. 🗣 Commented on [#11494](https://github.com/eclipse-theia/theia/issues/11494) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
-3. 💪 Opened PR [#11494](https://github.com/eclipse-theia/theia/pull/11494) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
-4. 💪 Opened PR [#1044](https://github.com/microsoft/vscode-languageserver-node/pull/1044) in [microsoft/vscode-languageserver-node](https://github.com/microsoft/vscode-languageserver-node)
-5. 🗣 Commented on [#103](https://github.com/tw93/MiaoYan/issues/103) in [tw93/MiaoYan](https://github.com/tw93/MiaoYan)
+3. 🗣 Commented on [#11494](https://github.com/eclipse-theia/theia/issues/11494) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
+4. 💪 Opened PR [#11494](https://github.com/eclipse-theia/theia/pull/11494) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
+5. 💪 Opened PR [#1044](https://github.com/microsoft/vscode-languageserver-node/pull/1044) in [microsoft/vscode-languageserver-node](https://github.com/microsoft/vscode-languageserver-node)
 
 <!--END_SECTION:activity-->
 
