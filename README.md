@@ -18,11 +18,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#11494](https://github.com/eclipse-theia/theia/issues/11494) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
+1. 💪 Opened PR [#158431](https://github.com/microsoft/vscode/pull/158431) in [microsoft/vscode](https://github.com/microsoft/vscode)
 2. 🗣 Commented on [#11494](https://github.com/eclipse-theia/theia/issues/11494) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
 3. 🗣 Commented on [#11494](https://github.com/eclipse-theia/theia/issues/11494) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
 4. 🗣 Commented on [#11494](https://github.com/eclipse-theia/theia/issues/11494) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
-5. 💪 Opened PR [#11494](https://github.com/eclipse-theia/theia/pull/11494) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
+5. 🗣 Commented on [#11494](https://github.com/eclipse-theia/theia/issues/11494) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
 
 <!--END_SECTION:activity-->
 
