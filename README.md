@@ -18,11 +18,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#11629](https://github.com/eclipse-theia/theia/pull/11629) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
-2. 🗣 Commented on [#11618](https://github.com/eclipse-theia/theia/issues/11618) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
+1. 💪 Opened PR [#32](https://github.com/opensumi/ide-startup-lite/pull/32) in [opensumi/ide-startup-lite](https://github.com/opensumi/ide-startup-lite)
+2. 💪 Opened PR [#11629](https://github.com/eclipse-theia/theia/pull/11629) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
 3. 🗣 Commented on [#11618](https://github.com/eclipse-theia/theia/issues/11618) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
-4. ❗️ Opened issue [#11618](https://github.com/eclipse-theia/theia/issues/11618) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
-5. 💪 Opened PR [#158431](https://github.com/microsoft/vscode/pull/158431) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. 🗣 Commented on [#11618](https://github.com/eclipse-theia/theia/issues/11618) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
+5. ❗️ Opened issue [#11618](https://github.com/eclipse-theia/theia/issues/11618) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
 
 <!--END_SECTION:activity-->
 
