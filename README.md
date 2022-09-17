@@ -18,11 +18,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#32](https://github.com/opensumi/ide-startup-lite/pull/32) in [opensumi/ide-startup-lite](https://github.com/opensumi/ide-startup-lite)
-2. 💪 Opened PR [#11629](https://github.com/eclipse-theia/theia/pull/11629) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
-3. 🗣 Commented on [#11618](https://github.com/eclipse-theia/theia/issues/11618) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
-4. 🗣 Commented on [#11618](https://github.com/eclipse-theia/theia/issues/11618) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
-5. ❗️ Opened issue [#11618](https://github.com/eclipse-theia/theia/issues/11618) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
+1. 🗣 Commented on [#1668](https://github.com/opensumi/core/issues/1668) in [opensumi/core](https://github.com/opensumi/core)
+2. ❗️ Opened issue [#1668](https://github.com/opensumi/core/issues/1668) in [opensumi/core](https://github.com/opensumi/core)
+3. 💪 Opened PR [#33](https://github.com/opensumi/ide-startup-lite/pull/33) in [opensumi/ide-startup-lite](https://github.com/opensumi/ide-startup-lite)
+4. 💪 Opened PR [#32](https://github.com/opensumi/ide-startup-lite/pull/32) in [opensumi/ide-startup-lite](https://github.com/opensumi/ide-startup-lite)
+5. 💪 Opened PR [#11629](https://github.com/eclipse-theia/theia/pull/11629) in [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
 
 <!--END_SECTION:activity-->
 
