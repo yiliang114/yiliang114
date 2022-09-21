@@ -18,11 +18,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#20625](https://github.com/microsoft/azuredatastudio/pull/20625) in [microsoft/azuredatastudio](https://github.com/microsoft/azuredatastudio)
-2. 🗣 Commented on [#1668](https://github.com/opensumi/core/issues/1668) in [opensumi/core](https://github.com/opensumi/core)
-3. ❗️ Opened issue [#1668](https://github.com/opensumi/core/issues/1668) in [opensumi/core](https://github.com/opensumi/core)
-4. 💪 Opened PR [#33](https://github.com/opensumi/ide-startup-lite/pull/33) in [opensumi/ide-startup-lite](https://github.com/opensumi/ide-startup-lite)
-5. 💪 Opened PR [#32](https://github.com/opensumi/ide-startup-lite/pull/32) in [opensumi/ide-startup-lite](https://github.com/opensumi/ide-startup-lite)
+1. ❗️ Opened issue [#42](https://github.com/microsoft/vscode-test-web/issues/42) in [microsoft/vscode-test-web](https://github.com/microsoft/vscode-test-web)
+2. 💪 Opened PR [#20625](https://github.com/microsoft/azuredatastudio/pull/20625) in [microsoft/azuredatastudio](https://github.com/microsoft/azuredatastudio)
+3. 🗣 Commented on [#1668](https://github.com/opensumi/core/issues/1668) in [opensumi/core](https://github.com/opensumi/core)
+4. ❗️ Opened issue [#1668](https://github.com/opensumi/core/issues/1668) in [opensumi/core](https://github.com/opensumi/core)
+5. 💪 Opened PR [#33](https://github.com/opensumi/ide-startup-lite/pull/33) in [opensumi/ide-startup-lite](https://github.com/opensumi/ide-startup-lite)
 
 <!--END_SECTION:activity-->
 
