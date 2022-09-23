@@ -18,11 +18,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#7](https://github.com/yiliang114/config/issues/7) in [yiliang114/config](https://github.com/yiliang114/config)
+1. ❗️ Closed issue [#7](https://github.com/yiliang114/config/issues/7) in [yiliang114/config](https://github.com/yiliang114/config)
 2. 🗣 Commented on [#7](https://github.com/yiliang114/config/issues/7) in [yiliang114/config](https://github.com/yiliang114/config)
-3. ❗️ Opened issue [#7](https://github.com/yiliang114/eslint-config-wire/issues/7) in [yiliang114/eslint-config-wire](https://github.com/yiliang114/eslint-config-wire)
-4. 🎉 Merged PR [#6](https://github.com/yiliang114/eslint-config-wire/pull/6) in [yiliang114/eslint-config-wire](https://github.com/yiliang114/eslint-config-wire)
-5. 🎉 Merged PR [#5](https://github.com/yiliang114/eslint-config-wire/pull/5) in [yiliang114/eslint-config-wire](https://github.com/yiliang114/eslint-config-wire)
+3. 🗣 Commented on [#7](https://github.com/yiliang114/config/issues/7) in [yiliang114/config](https://github.com/yiliang114/config)
+4. 🗣 Commented on [#7](https://github.com/yiliang114/config/issues/7) in [yiliang114/config](https://github.com/yiliang114/config)
+5. ❗️ Opened issue [#7](https://github.com/yiliang114/eslint-config-wire/issues/7) in [yiliang114/eslint-config-wire](https://github.com/yiliang114/eslint-config-wire)
 
 <!--END_SECTION:activity-->
 
