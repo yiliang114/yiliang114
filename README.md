@@ -18,11 +18,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#42](https://github.com/microsoft/vscode-test-web/issues/42) in [microsoft/vscode-test-web](https://github.com/microsoft/vscode-test-web)
-2. 💪 Opened PR [#20625](https://github.com/microsoft/azuredatastudio/pull/20625) in [microsoft/azuredatastudio](https://github.com/microsoft/azuredatastudio)
-3. 🗣 Commented on [#1668](https://github.com/opensumi/core/issues/1668) in [opensumi/core](https://github.com/opensumi/core)
-4. ❗️ Opened issue [#1668](https://github.com/opensumi/core/issues/1668) in [opensumi/core](https://github.com/opensumi/core)
-5. 💪 Opened PR [#33](https://github.com/opensumi/ide-startup-lite/pull/33) in [opensumi/ide-startup-lite](https://github.com/opensumi/ide-startup-lite)
+1. 🗣 Commented on [#7](https://github.com/yiliang114/config/issues/7) in [yiliang114/config](https://github.com/yiliang114/config)
+2. 🗣 Commented on [#7](https://github.com/yiliang114/config/issues/7) in [yiliang114/config](https://github.com/yiliang114/config)
+3. ❗️ Opened issue [#7](https://github.com/yiliang114/eslint-config-wire/issues/7) in [yiliang114/eslint-config-wire](https://github.com/yiliang114/eslint-config-wire)
+4. 🎉 Merged PR [#6](https://github.com/yiliang114/eslint-config-wire/pull/6) in [yiliang114/eslint-config-wire](https://github.com/yiliang114/eslint-config-wire)
+5. 🎉 Merged PR [#5](https://github.com/yiliang114/eslint-config-wire/pull/5) in [yiliang114/eslint-config-wire](https://github.com/yiliang114/eslint-config-wire)
 
 <!--END_SECTION:activity-->
 
