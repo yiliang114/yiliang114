@@ -18,9 +18,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#164113](https://github.com/microsoft/vscode/issues/164113) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. ❗️ Closed issue [#7](https://github.com/yiliang114/config/issues/7) in [yiliang114/config](https://github.com/yiliang114/config)
-3. 🗣 Commented on [#7](https://github.com/yiliang114/config/issues/7) in [yiliang114/config](https://github.com/yiliang114/config)
+1. 🗣 Commented on [#8](https://github.com/CBJerry993/TT_Fund/issues/8) in [CBJerry993/TT_Fund](https://github.com/CBJerry993/TT_Fund)
+2. 🗣 Commented on [#164113](https://github.com/microsoft/vscode/issues/164113) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. ❗️ Closed issue [#7](https://github.com/yiliang114/config/issues/7) in [yiliang114/config](https://github.com/yiliang114/config)
 4. 🗣 Commented on [#7](https://github.com/yiliang114/config/issues/7) in [yiliang114/config](https://github.com/yiliang114/config)
 5. 🗣 Commented on [#7](https://github.com/yiliang114/config/issues/7) in [yiliang114/config](https://github.com/yiliang114/config)
 
