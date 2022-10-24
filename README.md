@@ -18,11 +18,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#180](https://github.com/tw93/MiaoYan/issues/180) in [tw93/MiaoYan](https://github.com/tw93/MiaoYan)
-2. 🗣 Commented on [#164209](https://github.com/microsoft/vscode/issues/164209) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. 🗣 Commented on [#164415](https://github.com/microsoft/vscode/issues/164415) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. 💪 Opened PR [#164415](https://github.com/microsoft/vscode/pull/164415) in [microsoft/vscode](https://github.com/microsoft/vscode)
-5. ❗️ Opened issue [#164414](https://github.com/microsoft/vscode/issues/164414) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. ❗️ Closed issue [#180](https://github.com/tw93/MiaoYan/issues/180) in [tw93/MiaoYan](https://github.com/tw93/MiaoYan)
+2. 🗣 Commented on [#180](https://github.com/tw93/MiaoYan/issues/180) in [tw93/MiaoYan](https://github.com/tw93/MiaoYan)
+3. ❗️ Opened issue [#180](https://github.com/tw93/MiaoYan/issues/180) in [tw93/MiaoYan](https://github.com/tw93/MiaoYan)
+4. 🗣 Commented on [#164209](https://github.com/microsoft/vscode/issues/164209) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. 🗣 Commented on [#164415](https://github.com/microsoft/vscode/issues/164415) in [microsoft/vscode](https://github.com/microsoft/vscode)
 
 <!--END_SECTION:activity-->
 
