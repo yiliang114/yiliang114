@@ -18,11 +18,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#8](https://github.com/CBJerry993/TT_Fund/issues/8) in [CBJerry993/TT_Fund](https://github.com/CBJerry993/TT_Fund)
-2. 🗣 Commented on [#164113](https://github.com/microsoft/vscode/issues/164113) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. ❗️ Closed issue [#7](https://github.com/yiliang114/config/issues/7) in [yiliang114/config](https://github.com/yiliang114/config)
-4. 🗣 Commented on [#7](https://github.com/yiliang114/config/issues/7) in [yiliang114/config](https://github.com/yiliang114/config)
-5. 🗣 Commented on [#7](https://github.com/yiliang114/config/issues/7) in [yiliang114/config](https://github.com/yiliang114/config)
+1. 🗣 Commented on [#164415](https://github.com/microsoft/vscode/issues/164415) in [microsoft/vscode](https://github.com/microsoft/vscode)
+2. 💪 Opened PR [#164415](https://github.com/microsoft/vscode/pull/164415) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. ❗️ Opened issue [#164414](https://github.com/microsoft/vscode/issues/164414) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. 🗣 Commented on [#8](https://github.com/CBJerry993/TT_Fund/issues/8) in [CBJerry993/TT_Fund](https://github.com/CBJerry993/TT_Fund)
+5. 🗣 Commented on [#164113](https://github.com/microsoft/vscode/issues/164113) in [microsoft/vscode](https://github.com/microsoft/vscode)
 
 <!--END_SECTION:activity-->
 
