@@ -18,11 +18,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#8](https://github.com/joaomoreno/deemon/issues/8) in [joaomoreno/deemon](https://github.com/joaomoreno/deemon)
-2. 🗣 Commented on [#165163](https://github.com/microsoft/vscode/issues/165163) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. 💪 Opened PR [#9](https://github.com/joaomoreno/deemon/pull/9) in [joaomoreno/deemon](https://github.com/joaomoreno/deemon)
-4. ❗️ Opened issue [#8](https://github.com/joaomoreno/deemon/issues/8) in [joaomoreno/deemon](https://github.com/joaomoreno/deemon)
-5. 🗣 Commented on [#6](https://github.com/joaomoreno/deemon/issues/6) in [joaomoreno/deemon](https://github.com/joaomoreno/deemon)
+1. ❌ Closed PR [#9](https://github.com/joaomoreno/deemon/pull/9) in [joaomoreno/deemon](https://github.com/joaomoreno/deemon)
+2. 🗣 Commented on [#8](https://github.com/joaomoreno/deemon/issues/8) in [joaomoreno/deemon](https://github.com/joaomoreno/deemon)
+3. 🗣 Commented on [#8](https://github.com/joaomoreno/deemon/issues/8) in [joaomoreno/deemon](https://github.com/joaomoreno/deemon)
+4. 🗣 Commented on [#165163](https://github.com/microsoft/vscode/issues/165163) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. 💪 Opened PR [#9](https://github.com/joaomoreno/deemon/pull/9) in [joaomoreno/deemon](https://github.com/joaomoreno/deemon)
 
 <!--END_SECTION:activity-->
 
