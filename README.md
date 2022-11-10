@@ -18,11 +18,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#67988](https://github.com/microsoft/vscode/issues/67988) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. ❌ Closed PR [#9](https://github.com/joaomoreno/deemon/pull/9) in [joaomoreno/deemon](https://github.com/joaomoreno/deemon)
-3. 🗣 Commented on [#8](https://github.com/joaomoreno/deemon/issues/8) in [joaomoreno/deemon](https://github.com/joaomoreno/deemon)
-4. 🗣 Commented on [#8](https://github.com/joaomoreno/deemon/issues/8) in [joaomoreno/deemon](https://github.com/joaomoreno/deemon)
-5. 🗣 Commented on [#165163](https://github.com/microsoft/vscode/issues/165163) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. 🗣 Commented on [#1157](https://github.com/microsoft/vscode-loc/issues/1157) in [microsoft/vscode-loc](https://github.com/microsoft/vscode-loc)
+2. ❗️ Opened issue [#1157](https://github.com/microsoft/vscode-loc/issues/1157) in [microsoft/vscode-loc](https://github.com/microsoft/vscode-loc)
+3. 🗣 Commented on [#165974](https://github.com/microsoft/vscode/issues/165974) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. 🗣 Commented on [#67988](https://github.com/microsoft/vscode/issues/67988) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. ❌ Closed PR [#9](https://github.com/joaomoreno/deemon/pull/9) in [joaomoreno/deemon](https://github.com/joaomoreno/deemon)
 
 <!--END_SECTION:activity-->
 
