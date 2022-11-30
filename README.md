@@ -18,11 +18,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#167359](https://github.com/microsoft/vscode/issues/167359) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. ❗️ Closed issue [#9](https://github.com/LeuisKen/react-vsc-treeview/issues/9) in [LeuisKen/react-vsc-treeview](https://github.com/LeuisKen/react-vsc-treeview)
-3. 🗣 Commented on [#9](https://github.com/LeuisKen/react-vsc-treeview/issues/9) in [LeuisKen/react-vsc-treeview](https://github.com/LeuisKen/react-vsc-treeview)
-4. ❗️ Opened issue [#9](https://github.com/LeuisKen/react-vsc-treeview/issues/9) in [LeuisKen/react-vsc-treeview](https://github.com/LeuisKen/react-vsc-treeview)
-5. 🗣 Commented on [#1157](https://github.com/microsoft/vscode-loc/issues/1157) in [microsoft/vscode-loc](https://github.com/microsoft/vscode-loc)
+1. 🗣 Commented on [#167724](https://github.com/microsoft/vscode/issues/167724) in [microsoft/vscode](https://github.com/microsoft/vscode)
+2. 🗣 Commented on [#167725](https://github.com/microsoft/vscode/issues/167725) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. 💪 Opened PR [#167725](https://github.com/microsoft/vscode/pull/167725) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. ❗️ Opened issue [#167724](https://github.com/microsoft/vscode/issues/167724) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. 🗣 Commented on [#167359](https://github.com/microsoft/vscode/issues/167359) in [microsoft/vscode](https://github.com/microsoft/vscode)
 
 <!--END_SECTION:activity-->
 
