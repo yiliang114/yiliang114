@@ -18,11 +18,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#167751](https://github.com/microsoft/vscode/issues/167751) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. 🗣 Commented on [#167752](https://github.com/microsoft/vscode/issues/167752) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. ❗️ Opened issue [#167752](https://github.com/microsoft/vscode/issues/167752) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. ❗️ Opened issue [#167751](https://github.com/microsoft/vscode/issues/167751) in [microsoft/vscode](https://github.com/microsoft/vscode)
-5. 🗣 Commented on [#167747](https://github.com/microsoft/vscode/issues/167747) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. 💪 Opened PR [#1217](https://github.com/timqian/chinese-independent-blogs/pull/1217) in [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs)
+2. 🗣 Commented on [#167751](https://github.com/microsoft/vscode/issues/167751) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. 🗣 Commented on [#167752](https://github.com/microsoft/vscode/issues/167752) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. ❗️ Opened issue [#167752](https://github.com/microsoft/vscode/issues/167752) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. ❗️ Opened issue [#167751](https://github.com/microsoft/vscode/issues/167751) in [microsoft/vscode](https://github.com/microsoft/vscode)
 
 <!--END_SECTION:activity-->
 
