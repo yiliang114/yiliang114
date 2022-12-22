@@ -19,10 +19,10 @@
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#4218](https://github.com/alibaba-fusion/next/issues/4218) in [alibaba-fusion/next](https://github.com/alibaba-fusion/next)
-2. ❗️ Opened issue [#4218](https://github.com/alibaba-fusion/next/issues/4218) in [alibaba-fusion/next](https://github.com/alibaba-fusion/next)
-3. 💪 Opened PR [#1217](https://github.com/timqian/chinese-independent-blogs/pull/1217) in [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs)
-4. 🗣 Commented on [#167751](https://github.com/microsoft/vscode/issues/167751) in [microsoft/vscode](https://github.com/microsoft/vscode)
-5. 🗣 Commented on [#167752](https://github.com/microsoft/vscode/issues/167752) in [microsoft/vscode](https://github.com/microsoft/vscode)
+2. 🗣 Commented on [#4218](https://github.com/alibaba-fusion/next/issues/4218) in [alibaba-fusion/next](https://github.com/alibaba-fusion/next)
+3. 🗣 Commented on [#4218](https://github.com/alibaba-fusion/next/issues/4218) in [alibaba-fusion/next](https://github.com/alibaba-fusion/next)
+4. ❗️ Opened issue [#4218](https://github.com/alibaba-fusion/next/issues/4218) in [alibaba-fusion/next](https://github.com/alibaba-fusion/next)
+5. 💪 Opened PR [#1217](https://github.com/timqian/chinese-independent-blogs/pull/1217) in [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs)
 
 <!--END_SECTION:activity-->
 
