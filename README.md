@@ -18,11 +18,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#4218](https://github.com/alibaba-fusion/next/issues/4218) in [alibaba-fusion/next](https://github.com/alibaba-fusion/next)
+1. ❗️ Opened issue [#170087](https://github.com/microsoft/vscode/issues/170087) in [microsoft/vscode](https://github.com/microsoft/vscode)
 2. 🗣 Commented on [#4218](https://github.com/alibaba-fusion/next/issues/4218) in [alibaba-fusion/next](https://github.com/alibaba-fusion/next)
 3. 🗣 Commented on [#4218](https://github.com/alibaba-fusion/next/issues/4218) in [alibaba-fusion/next](https://github.com/alibaba-fusion/next)
-4. ❗️ Opened issue [#4218](https://github.com/alibaba-fusion/next/issues/4218) in [alibaba-fusion/next](https://github.com/alibaba-fusion/next)
-5. 💪 Opened PR [#1217](https://github.com/timqian/chinese-independent-blogs/pull/1217) in [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs)
+4. 🗣 Commented on [#4218](https://github.com/alibaba-fusion/next/issues/4218) in [alibaba-fusion/next](https://github.com/alibaba-fusion/next)
+5. ❗️ Opened issue [#4218](https://github.com/alibaba-fusion/next/issues/4218) in [alibaba-fusion/next](https://github.com/alibaba-fusion/next)
 
 <!--END_SECTION:activity-->
 
