@@ -18,10 +18,10 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#171138](https://github.com/microsoft/vscode/issues/171138) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. ❗️ Opened issue [#170539](https://github.com/microsoft/vscode/issues/170539) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. ❗️ Opened issue [#170087](https://github.com/microsoft/vscode/issues/170087) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. 🗣 Commented on [#4218](https://github.com/alibaba-fusion/next/issues/4218) in [alibaba-fusion/next](https://github.com/alibaba-fusion/next)
+1. 🗣 Commented on [#171138](https://github.com/microsoft/vscode/issues/171138) in [microsoft/vscode](https://github.com/microsoft/vscode)
+2. ❗️ Opened issue [#171138](https://github.com/microsoft/vscode/issues/171138) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. ❗️ Opened issue [#170539](https://github.com/microsoft/vscode/issues/170539) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. ❗️ Opened issue [#170087](https://github.com/microsoft/vscode/issues/170087) in [microsoft/vscode](https://github.com/microsoft/vscode)
 5. 🗣 Commented on [#4218](https://github.com/alibaba-fusion/next/issues/4218) in [alibaba-fusion/next](https://github.com/alibaba-fusion/next)
 
 <!--END_SECTION:activity-->
