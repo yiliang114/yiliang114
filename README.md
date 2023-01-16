@@ -18,11 +18,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#171404](https://github.com/microsoft/vscode/pull/171404) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. 🗣 Commented on [#171404](https://github.com/microsoft/vscode/issues/171404) in [microsoft/vscode](https://github.com/microsoft/vscode)
 2. 🗣 Commented on [#171402](https://github.com/microsoft/vscode/issues/171402) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. ❗️ Opened issue [#171402](https://github.com/microsoft/vscode/issues/171402) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. ❗️ Opened issue [#389](https://github.com/eclipse-theia/theia-website/issues/389) in [eclipse-theia/theia-website](https://github.com/eclipse-theia/theia-website)
-5. 🗣 Commented on [#171138](https://github.com/microsoft/vscode/issues/171138) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. 💪 Opened PR [#171404](https://github.com/microsoft/vscode/pull/171404) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. 🗣 Commented on [#171402](https://github.com/microsoft/vscode/issues/171402) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. ❗️ Opened issue [#171402](https://github.com/microsoft/vscode/issues/171402) in [microsoft/vscode](https://github.com/microsoft/vscode)
 
 <!--END_SECTION:activity-->
 
