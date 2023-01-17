@@ -18,10 +18,10 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#171458](https://github.com/microsoft/vscode/issues/171458) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. 🗣 Commented on [#171404](https://github.com/microsoft/vscode/issues/171404) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. 🗣 Commented on [#171402](https://github.com/microsoft/vscode/issues/171402) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. 💪 Opened PR [#171404](https://github.com/microsoft/vscode/pull/171404) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. 🗣 Commented on [#9285](https://github.com/microsoft/vscode/issues/9285) in [microsoft/vscode](https://github.com/microsoft/vscode)
+2. 🗣 Commented on [#75930](https://github.com/microsoft/vscode/issues/75930) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. ❗️ Opened issue [#171458](https://github.com/microsoft/vscode/issues/171458) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. 🗣 Commented on [#171404](https://github.com/microsoft/vscode/issues/171404) in [microsoft/vscode](https://github.com/microsoft/vscode)
 5. 🗣 Commented on [#171402](https://github.com/microsoft/vscode/issues/171402) in [microsoft/vscode](https://github.com/microsoft/vscode)
 
 <!--END_SECTION:activity-->
