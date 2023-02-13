@@ -18,11 +18,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#41](https://github.com/opensumi/ide-startup-lite/issues/41) in [opensumi/ide-startup-lite](https://github.com/opensumi/ide-startup-lite)
-2. 🗣 Commented on [#41](https://github.com/opensumi/ide-startup-lite/issues/41) in [opensumi/ide-startup-lite](https://github.com/opensumi/ide-startup-lite)
-3. 🗣 Commented on [#171458](https://github.com/microsoft/vscode/issues/171458) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. 🗣 Commented on [#171458](https://github.com/microsoft/vscode/issues/171458) in [microsoft/vscode](https://github.com/microsoft/vscode)
-5. ❗️ Opened issue [#173242](https://github.com/microsoft/vscode/issues/173242) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. 🎉 Merged PR [#66](https://github.com/yiliang114/yiliang114.github.io/pull/66) in [yiliang114/yiliang114.github.io](https://github.com/yiliang114/yiliang114.github.io)
+2. 🎉 Merged PR [#67](https://github.com/yiliang114/yiliang114.github.io/pull/67) in [yiliang114/yiliang114.github.io](https://github.com/yiliang114/yiliang114.github.io)
+3. 🗣 Commented on [#41](https://github.com/opensumi/ide-startup-lite/issues/41) in [opensumi/ide-startup-lite](https://github.com/opensumi/ide-startup-lite)
+4. 🗣 Commented on [#41](https://github.com/opensumi/ide-startup-lite/issues/41) in [opensumi/ide-startup-lite](https://github.com/opensumi/ide-startup-lite)
+5. 🗣 Commented on [#171458](https://github.com/microsoft/vscode/issues/171458) in [microsoft/vscode](https://github.com/microsoft/vscode)
 
 <!--END_SECTION:activity-->
 
