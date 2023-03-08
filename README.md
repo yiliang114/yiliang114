@@ -18,11 +18,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#176506](https://github.com/microsoft/vscode/pull/176506) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. 🗣 Commented on [#2826](https://github.com/vscode-icons/vscode-icons/issues/2826) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
-3. 🎉 Merged PR [#66](https://github.com/yiliang114/yiliang114.github.io/pull/66) in [yiliang114/yiliang114.github.io](https://github.com/yiliang114/yiliang114.github.io)
-4. 🎉 Merged PR [#67](https://github.com/yiliang114/yiliang114.github.io/pull/67) in [yiliang114/yiliang114.github.io](https://github.com/yiliang114/yiliang114.github.io)
-5. 🗣 Commented on [#41](https://github.com/opensumi/ide-startup-lite/issues/41) in [opensumi/ide-startup-lite](https://github.com/opensumi/ide-startup-lite)
+1. 🗣 Commented on [#241](https://github.com/Tencent/cloudbase-framework/issues/241) in [Tencent/cloudbase-framework](https://github.com/Tencent/cloudbase-framework)
+2. 🗣 Commented on [#241](https://github.com/Tencent/cloudbase-framework/issues/241) in [Tencent/cloudbase-framework](https://github.com/Tencent/cloudbase-framework)
+3. 💪 Opened PR [#176506](https://github.com/microsoft/vscode/pull/176506) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. 🗣 Commented on [#2826](https://github.com/vscode-icons/vscode-icons/issues/2826) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
+5. 🎉 Merged PR [#66](https://github.com/yiliang114/yiliang114.github.io/pull/66) in [yiliang114/yiliang114.github.io](https://github.com/yiliang114/yiliang114.github.io)
 
 <!--END_SECTION:activity-->
 
