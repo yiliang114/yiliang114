@@ -18,11 +18,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#241](https://github.com/Tencent/cloudbase-framework/issues/241) in [Tencent/cloudbase-framework](https://github.com/Tencent/cloudbase-framework)
-2. 🗣 Commented on [#241](https://github.com/Tencent/cloudbase-framework/issues/241) in [Tencent/cloudbase-framework](https://github.com/Tencent/cloudbase-framework)
-3. 💪 Opened PR [#176506](https://github.com/microsoft/vscode/pull/176506) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. 🗣 Commented on [#2826](https://github.com/vscode-icons/vscode-icons/issues/2826) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
-5. 🎉 Merged PR [#66](https://github.com/yiliang114/yiliang114.github.io/pull/66) in [yiliang114/yiliang114.github.io](https://github.com/yiliang114/yiliang114.github.io)
+1. 💪 Opened PR [#176771](https://github.com/microsoft/vscode/pull/176771) in [microsoft/vscode](https://github.com/microsoft/vscode)
+2. 🗣 Commented on [#176763](https://github.com/microsoft/vscode/issues/176763) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. 💪 Opened PR [#176764](https://github.com/microsoft/vscode/pull/176764) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. ❗️ Opened issue [#176763](https://github.com/microsoft/vscode/issues/176763) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. ❗️ Closed issue [#171138](https://github.com/microsoft/vscode/issues/171138) in [microsoft/vscode](https://github.com/microsoft/vscode)
 
 <!--END_SECTION:activity-->
 
