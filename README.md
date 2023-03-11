@@ -18,11 +18,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#50](https://github.com/opensumi/ide-startup-lite/issues/50) in [opensumi/ide-startup-lite](https://github.com/opensumi/ide-startup-lite)
-2. 🗣 Commented on [#176763](https://github.com/microsoft/vscode/issues/176763) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. 🗣 Commented on [#176791](https://github.com/microsoft/vscode/issues/176791) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. 💪 Opened PR [#176791](https://github.com/microsoft/vscode/pull/176791) in [microsoft/vscode](https://github.com/microsoft/vscode)
-5. ❗️ Opened issue [#176789](https://github.com/microsoft/vscode/issues/176789) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. 🗣 Commented on [#4614](https://github.com/microsoft/vscode-pull-request-github/issues/4614) in [microsoft/vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github)
+2. 💪 Opened PR [#4614](https://github.com/microsoft/vscode-pull-request-github/pull/4614) in [microsoft/vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github)
+3. ❗️ Opened issue [#50](https://github.com/opensumi/ide-startup-lite/issues/50) in [opensumi/ide-startup-lite](https://github.com/opensumi/ide-startup-lite)
+4. 🗣 Commented on [#176763](https://github.com/microsoft/vscode/issues/176763) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. 🗣 Commented on [#176791](https://github.com/microsoft/vscode/issues/176791) in [microsoft/vscode](https://github.com/microsoft/vscode)
 
 <!--END_SECTION:activity-->
 
