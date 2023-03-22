@@ -18,11 +18,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#112](https://github.com/eclipse-theia/vscode-builtin-extensions/issues/112) in [eclipse-theia/vscode-builtin-extensions](https://github.com/eclipse-theia/vscode-builtin-extensions)
-2. 🗣 Commented on [#176807](https://github.com/microsoft/vscode/issues/176807) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. 💪 Opened PR [#112](https://github.com/eclipse-theia/vscode-builtin-extensions/pull/112) in [eclipse-theia/vscode-builtin-extensions](https://github.com/eclipse-theia/vscode-builtin-extensions)
-4. ❗️ Opened issue [#111](https://github.com/eclipse-theia/vscode-builtin-extensions/issues/111) in [eclipse-theia/vscode-builtin-extensions](https://github.com/eclipse-theia/vscode-builtin-extensions)
-5. 🗣 Commented on [#177954](https://github.com/microsoft/vscode/issues/177954) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. 🗣 Commented on [#176763](https://github.com/microsoft/vscode/issues/176763) in [microsoft/vscode](https://github.com/microsoft/vscode)
+2. 🗣 Commented on [#112](https://github.com/eclipse-theia/vscode-builtin-extensions/issues/112) in [eclipse-theia/vscode-builtin-extensions](https://github.com/eclipse-theia/vscode-builtin-extensions)
+3. 🗣 Commented on [#176807](https://github.com/microsoft/vscode/issues/176807) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. 💪 Opened PR [#112](https://github.com/eclipse-theia/vscode-builtin-extensions/pull/112) in [eclipse-theia/vscode-builtin-extensions](https://github.com/eclipse-theia/vscode-builtin-extensions)
+5. ❗️ Opened issue [#111](https://github.com/eclipse-theia/vscode-builtin-extensions/issues/111) in [eclipse-theia/vscode-builtin-extensions](https://github.com/eclipse-theia/vscode-builtin-extensions)
 
 <!--END_SECTION:activity-->
 
