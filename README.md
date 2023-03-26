@@ -18,11 +18,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#176771](https://github.com/microsoft/vscode/issues/176771) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. ❗️ Opened issue [#68](https://github.com/yiliang114/yiliang114.github.io/issues/68) in [yiliang114/yiliang114.github.io](https://github.com/yiliang114/yiliang114.github.io)
 2. 🗣 Commented on [#176771](https://github.com/microsoft/vscode/issues/176771) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. 🗣 Commented on [#112](https://github.com/eclipse-theia/vscode-builtin-extensions/issues/112) in [eclipse-theia/vscode-builtin-extensions](https://github.com/eclipse-theia/vscode-builtin-extensions)
-4. 🗣 Commented on [#176763](https://github.com/microsoft/vscode/issues/176763) in [microsoft/vscode](https://github.com/microsoft/vscode)
-5. 🗣 Commented on [#112](https://github.com/eclipse-theia/vscode-builtin-extensions/issues/112) in [eclipse-theia/vscode-builtin-extensions](https://github.com/eclipse-theia/vscode-builtin-extensions)
+3. 🗣 Commented on [#176771](https://github.com/microsoft/vscode/issues/176771) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. 🗣 Commented on [#112](https://github.com/eclipse-theia/vscode-builtin-extensions/issues/112) in [eclipse-theia/vscode-builtin-extensions](https://github.com/eclipse-theia/vscode-builtin-extensions)
+5. 🗣 Commented on [#176763](https://github.com/microsoft/vscode/issues/176763) in [microsoft/vscode](https://github.com/microsoft/vscode)
 
 <!--END_SECTION:activity-->
 
