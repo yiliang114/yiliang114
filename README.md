@@ -18,11 +18,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#178474](https://github.com/microsoft/vscode/issues/178474) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. ❗️ Opened issue [#68](https://github.com/yiliang114/yiliang114.github.io/issues/68) in [yiliang114/yiliang114.github.io](https://github.com/yiliang114/yiliang114.github.io)
-3. 🗣 Commented on [#176771](https://github.com/microsoft/vscode/issues/176771) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. 🗣 Commented on [#176771](https://github.com/microsoft/vscode/issues/176771) in [microsoft/vscode](https://github.com/microsoft/vscode)
-5. 🗣 Commented on [#112](https://github.com/eclipse-theia/vscode-builtin-extensions/issues/112) in [eclipse-theia/vscode-builtin-extensions](https://github.com/eclipse-theia/vscode-builtin-extensions)
+1. ❌ Closed PR [#167725](https://github.com/microsoft/vscode/pull/167725) in [microsoft/vscode](https://github.com/microsoft/vscode)
+2. 🗣 Commented on [#167725](https://github.com/microsoft/vscode/issues/167725) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. ❗️ Opened issue [#178474](https://github.com/microsoft/vscode/issues/178474) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. ❗️ Opened issue [#68](https://github.com/yiliang114/yiliang114.github.io/issues/68) in [yiliang114/yiliang114.github.io](https://github.com/yiliang114/yiliang114.github.io)
+5. 🗣 Commented on [#176771](https://github.com/microsoft/vscode/issues/176771) in [microsoft/vscode](https://github.com/microsoft/vscode)
 
 <!--END_SECTION:activity-->
 
