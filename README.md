@@ -18,11 +18,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2530](https://github.com/opensumi/core/issues/2530) in [opensumi/core](https://github.com/opensumi/core)
-2. ❌ Closed PR [#167725](https://github.com/microsoft/vscode/pull/167725) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. 🗣 Commented on [#167725](https://github.com/microsoft/vscode/issues/167725) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. ❗️ Opened issue [#178474](https://github.com/microsoft/vscode/issues/178474) in [microsoft/vscode](https://github.com/microsoft/vscode)
-5. ❗️ Opened issue [#68](https://github.com/yiliang114/yiliang114.github.io/issues/68) in [yiliang114/yiliang114.github.io](https://github.com/yiliang114/yiliang114.github.io)
+1. ❗️ Opened issue [#69](https://github.com/yiliang114/yiliang114.github.io/issues/69) in [yiliang114/yiliang114.github.io](https://github.com/yiliang114/yiliang114.github.io)
+2. 🗣 Commented on [#2530](https://github.com/opensumi/core/issues/2530) in [opensumi/core](https://github.com/opensumi/core)
+3. ❌ Closed PR [#167725](https://github.com/microsoft/vscode/pull/167725) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. 🗣 Commented on [#167725](https://github.com/microsoft/vscode/issues/167725) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. ❗️ Opened issue [#178474](https://github.com/microsoft/vscode/issues/178474) in [microsoft/vscode](https://github.com/microsoft/vscode)
 
 <!--END_SECTION:activity-->
 
