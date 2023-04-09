@@ -18,11 +18,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#8](https://github.com/yiliang114/config/issues/8) in [yiliang114/config](https://github.com/yiliang114/config)
-2. 🎉 Merged PR [#9](https://github.com/yiliang114/config/pull/9) in [yiliang114/config](https://github.com/yiliang114/config)
-3. 💪 Opened PR [#9](https://github.com/yiliang114/config/pull/9) in [yiliang114/config](https://github.com/yiliang114/config)
-4. ❗️ Opened issue [#8](https://github.com/yiliang114/config/issues/8) in [yiliang114/config](https://github.com/yiliang114/config)
-5. 🗣 Commented on [#11](https://github.com/remojansen/TsUML/issues/11) in [remojansen/TsUML](https://github.com/remojansen/TsUML)
+1. ❗️ Opened issue [#282](https://github.com/octokit/rest.js/issues/282) in [octokit/rest.js](https://github.com/octokit/rest.js)
+2. ❗️ Closed issue [#8](https://github.com/yiliang114/config/issues/8) in [yiliang114/config](https://github.com/yiliang114/config)
+3. 🎉 Merged PR [#9](https://github.com/yiliang114/config/pull/9) in [yiliang114/config](https://github.com/yiliang114/config)
+4. 💪 Opened PR [#9](https://github.com/yiliang114/config/pull/9) in [yiliang114/config](https://github.com/yiliang114/config)
+5. ❗️ Opened issue [#8](https://github.com/yiliang114/config/issues/8) in [yiliang114/config](https://github.com/yiliang114/config)
 
 <!--END_SECTION:activity-->
 
