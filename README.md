@@ -18,11 +18,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#106](https://github.com/opensumi/docs/issues/106) in [opensumi/docs](https://github.com/opensumi/docs)
-2. 💪 Opened PR [#179581](https://github.com/microsoft/vscode/pull/179581) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. ❗️ Opened issue [#282](https://github.com/octokit/rest.js/issues/282) in [octokit/rest.js](https://github.com/octokit/rest.js)
-4. ❗️ Closed issue [#8](https://github.com/yiliang114/config/issues/8) in [yiliang114/config](https://github.com/yiliang114/config)
-5. 🎉 Merged PR [#9](https://github.com/yiliang114/config/pull/9) in [yiliang114/config](https://github.com/yiliang114/config)
+1. 🗣 Commented on [#282](https://github.com/octokit/rest.js/issues/282) in [octokit/rest.js](https://github.com/octokit/rest.js)
+2. ❗️ Opened issue [#106](https://github.com/opensumi/docs/issues/106) in [opensumi/docs](https://github.com/opensumi/docs)
+3. 💪 Opened PR [#179581](https://github.com/microsoft/vscode/pull/179581) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. ❗️ Opened issue [#282](https://github.com/octokit/rest.js/issues/282) in [octokit/rest.js](https://github.com/octokit/rest.js)
+5. ❗️ Closed issue [#8](https://github.com/yiliang114/config/issues/8) in [yiliang114/config](https://github.com/yiliang114/config)
 
 <!--END_SECTION:activity-->
 
