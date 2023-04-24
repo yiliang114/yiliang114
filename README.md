@@ -18,11 +18,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#282](https://github.com/octokit/rest.js/issues/282) in [octokit/rest.js](https://github.com/octokit/rest.js)
+1. 🗣 Commented on [#180321](https://github.com/microsoft/vscode/issues/180321) in [microsoft/vscode](https://github.com/microsoft/vscode)
 2. 🗣 Commented on [#282](https://github.com/octokit/rest.js/issues/282) in [octokit/rest.js](https://github.com/octokit/rest.js)
-3. ❗️ Opened issue [#106](https://github.com/opensumi/docs/issues/106) in [opensumi/docs](https://github.com/opensumi/docs)
-4. 💪 Opened PR [#179581](https://github.com/microsoft/vscode/pull/179581) in [microsoft/vscode](https://github.com/microsoft/vscode)
-5. ❗️ Opened issue [#282](https://github.com/octokit/rest.js/issues/282) in [octokit/rest.js](https://github.com/octokit/rest.js)
+3. 🗣 Commented on [#282](https://github.com/octokit/rest.js/issues/282) in [octokit/rest.js](https://github.com/octokit/rest.js)
+4. ❗️ Opened issue [#106](https://github.com/opensumi/docs/issues/106) in [opensumi/docs](https://github.com/opensumi/docs)
+5. 💪 Opened PR [#179581](https://github.com/microsoft/vscode/pull/179581) in [microsoft/vscode](https://github.com/microsoft/vscode)
 
 <!--END_SECTION:activity-->
 
