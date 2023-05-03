@@ -18,11 +18,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#366](https://github.com/primer/github-vscode-theme/issues/366) in [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme)
-2. 🗣 Commented on [#180321](https://github.com/microsoft/vscode/issues/180321) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. 🗣 Commented on [#282](https://github.com/octokit/rest.js/issues/282) in [octokit/rest.js](https://github.com/octokit/rest.js)
-4. 🗣 Commented on [#282](https://github.com/octokit/rest.js/issues/282) in [octokit/rest.js](https://github.com/octokit/rest.js)
-5. ❗️ Opened issue [#106](https://github.com/opensumi/docs/issues/106) in [opensumi/docs](https://github.com/opensumi/docs)
+1. 💪 Opened PR [#6188](https://github.com/coder/code-server/pull/6188) in [coder/code-server](https://github.com/coder/code-server)
+2. ❗️ Opened issue [#6187](https://github.com/coder/code-server/issues/6187) in [coder/code-server](https://github.com/coder/code-server)
+3. ❗️ Opened issue [#366](https://github.com/primer/github-vscode-theme/issues/366) in [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme)
+4. 🗣 Commented on [#180321](https://github.com/microsoft/vscode/issues/180321) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. 🗣 Commented on [#282](https://github.com/octokit/rest.js/issues/282) in [octokit/rest.js](https://github.com/octokit/rest.js)
 
 <!--END_SECTION:activity-->
 
