@@ -20,9 +20,9 @@
 
 1. 🗣 Commented on [#183890](https://github.com/microsoft/vscode/issues/183890) in [microsoft/vscode](https://github.com/microsoft/vscode)
 2. 🗣 Commented on [#183890](https://github.com/microsoft/vscode/issues/183890) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. ❗ Opened issue [#183890](https://github.com/microsoft/vscode/issues/183890) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. 🗣 Commented on [#41](https://github.com/yiliang114/yiliang114.github.io/issues/41) in [yiliang114/yiliang114.github.io](https://github.com/yiliang114/yiliang114.github.io)
-5. 💪 Opened PR [#183507](https://github.com/microsoft/vscode/pull/183507) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. 🗣 Commented on [#183890](https://github.com/microsoft/vscode/issues/183890) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. ❗ Opened issue [#183890](https://github.com/microsoft/vscode/issues/183890) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. 🗣 Commented on [#41](https://github.com/yiliang114/yiliang114.github.io/issues/41) in [yiliang114/yiliang114.github.io](https://github.com/yiliang114/yiliang114.github.io)
 
 <!--END_SECTION:activity-->
 
