@@ -18,11 +18,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#183890](https://github.com/microsoft/vscode/issues/183890) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. ❗ Opened issue [#472](https://github.com/ds300/patch-package/issues/472) in [ds300/patch-package](https://github.com/ds300/patch-package)
 2. 🗣 Commented on [#183890](https://github.com/microsoft/vscode/issues/183890) in [microsoft/vscode](https://github.com/microsoft/vscode)
 3. 🗣 Commented on [#183890](https://github.com/microsoft/vscode/issues/183890) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. ❗ Opened issue [#183890](https://github.com/microsoft/vscode/issues/183890) in [microsoft/vscode](https://github.com/microsoft/vscode)
-5. 🗣 Commented on [#41](https://github.com/yiliang114/yiliang114.github.io/issues/41) in [yiliang114/yiliang114.github.io](https://github.com/yiliang114/yiliang114.github.io)
+4. 🗣 Commented on [#183890](https://github.com/microsoft/vscode/issues/183890) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. 🗣 Commented on [#183890](https://github.com/microsoft/vscode/issues/183890) in [microsoft/vscode](https://github.com/microsoft/vscode)
 
 <!--END_SECTION:activity-->
 
