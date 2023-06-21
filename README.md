@@ -20,9 +20,9 @@
 
 1. 🗣 Commented on [#185312](https://github.com/microsoft/vscode/issues/185312) in [microsoft/vscode](https://github.com/microsoft/vscode)
 2. 🗣 Commented on [#185312](https://github.com/microsoft/vscode/issues/185312) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. ❗ Opened issue [#185312](https://github.com/microsoft/vscode/issues/185312) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. ❗ Opened issue [#472](https://github.com/ds300/patch-package/issues/472) in [ds300/patch-package](https://github.com/ds300/patch-package)
-5. 🗣 Commented on [#183890](https://github.com/microsoft/vscode/issues/183890) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. 🗣 Commented on [#185312](https://github.com/microsoft/vscode/issues/185312) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. ❗ Opened issue [#185312](https://github.com/microsoft/vscode/issues/185312) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. ❗ Opened issue [#472](https://github.com/ds300/patch-package/issues/472) in [ds300/patch-package](https://github.com/ds300/patch-package)
 
 <!--END_SECTION:activity-->
 
