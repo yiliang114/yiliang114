@@ -18,9 +18,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#177043](https://github.com/microsoft/vscode/issues/177043) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. 🗣 Commented on [#185312](https://github.com/microsoft/vscode/issues/185312) in [microsoft/vscode](https://github.com/microsoft/vscode)
 2. 🗣 Commented on [#177043](https://github.com/microsoft/vscode/issues/177043) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. 🗣 Commented on [#185312](https://github.com/microsoft/vscode/issues/185312) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. 🗣 Commented on [#177043](https://github.com/microsoft/vscode/issues/177043) in [microsoft/vscode](https://github.com/microsoft/vscode)
 4. 🗣 Commented on [#185312](https://github.com/microsoft/vscode/issues/185312) in [microsoft/vscode](https://github.com/microsoft/vscode)
 5. 🗣 Commented on [#185312](https://github.com/microsoft/vscode/issues/185312) in [microsoft/vscode](https://github.com/microsoft/vscode)
 
