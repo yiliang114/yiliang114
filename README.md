@@ -18,11 +18,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#186607](https://github.com/microsoft/vscode/pull/186607) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. 💪 Opened PR [#86](https://github.com/microsoft/vscode-test-web/pull/86) in [microsoft/vscode-test-web](https://github.com/microsoft/vscode-test-web)
-3. 🗣 Commented on [#185312](https://github.com/microsoft/vscode/issues/185312) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. 🗣 Commented on [#177043](https://github.com/microsoft/vscode/issues/177043) in [microsoft/vscode](https://github.com/microsoft/vscode)
-5. 🗣 Commented on [#177043](https://github.com/microsoft/vscode/issues/177043) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. ❗ Opened issue [#186701](https://github.com/microsoft/vscode/issues/186701) in [microsoft/vscode](https://github.com/microsoft/vscode)
+2. 💪 Opened PR [#118](https://github.com/microsoft/vscode-l10n/pull/118) in [microsoft/vscode-l10n](https://github.com/microsoft/vscode-l10n)
+3. 💪 Opened PR [#186607](https://github.com/microsoft/vscode/pull/186607) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. 💪 Opened PR [#86](https://github.com/microsoft/vscode-test-web/pull/86) in [microsoft/vscode-test-web](https://github.com/microsoft/vscode-test-web)
+5. 🗣 Commented on [#185312](https://github.com/microsoft/vscode/issues/185312) in [microsoft/vscode](https://github.com/microsoft/vscode)
 
 <!--END_SECTION:activity-->
 
