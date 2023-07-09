@@ -18,11 +18,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#120](https://github.com/microsoft/vscode-l10n/pull/120) in [microsoft/vscode-l10n](https://github.com/microsoft/vscode-l10n)
-2. ❗ Opened issue [#119](https://github.com/microsoft/vscode-l10n/issues/119) in [microsoft/vscode-l10n](https://github.com/microsoft/vscode-l10n)
-3. 🗣 Commented on [#186701](https://github.com/microsoft/vscode/issues/186701) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. 🗣 Commented on [#119](https://github.com/microsoft/vscode-l10n/issues/119) in [microsoft/vscode-l10n](https://github.com/microsoft/vscode-l10n)
+2. 💪 Opened PR [#120](https://github.com/microsoft/vscode-l10n/pull/120) in [microsoft/vscode-l10n](https://github.com/microsoft/vscode-l10n)
+3. ❗ Opened issue [#119](https://github.com/microsoft/vscode-l10n/issues/119) in [microsoft/vscode-l10n](https://github.com/microsoft/vscode-l10n)
 4. 🗣 Commented on [#186701](https://github.com/microsoft/vscode/issues/186701) in [microsoft/vscode](https://github.com/microsoft/vscode)
-5. 🗣 Commented on [#171](https://github.com/pascalgn/automerge-action/issues/171) in [pascalgn/automerge-action](https://github.com/pascalgn/automerge-action)
+5. 🗣 Commented on [#186701](https://github.com/microsoft/vscode/issues/186701) in [microsoft/vscode](https://github.com/microsoft/vscode)
 
 <!--END_SECTION:activity-->
 
