@@ -18,11 +18,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#15](https://github.com/x-cold/dingtalk-robot/issues/15) in [x-cold/dingtalk-robot](https://github.com/x-cold/dingtalk-robot)
-2. 🗣 Commented on [#182013](https://github.com/microsoft/vscode/issues/182013#issuecomment-1634211131) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. 🗣 Commented on [#182013](https://github.com/microsoft/vscode/issues/182013#issuecomment-1634201915) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. 🗣 Commented on [#187826](https://github.com/microsoft/vscode/issues/187826#issuecomment-1634170760) in [microsoft/vscode](https://github.com/microsoft/vscode)
-5. ❗ Opened issue [#187826](https://github.com/microsoft/vscode/issues/187826) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. 💪 Opened PR [#187902](https://github.com/microsoft/vscode/pull/187902) in [microsoft/vscode](https://github.com/microsoft/vscode)
+2. 🗣 Commented on [#187788](https://github.com/microsoft/vscode/issues/187788#issuecomment-1635284313) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. ❗ Opened issue [#15](https://github.com/x-cold/dingtalk-robot/issues/15) in [x-cold/dingtalk-robot](https://github.com/x-cold/dingtalk-robot)
+4. 🗣 Commented on [#182013](https://github.com/microsoft/vscode/issues/182013#issuecomment-1634211131) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. 🗣 Commented on [#182013](https://github.com/microsoft/vscode/issues/182013#issuecomment-1634201915) in [microsoft/vscode](https://github.com/microsoft/vscode)
 
 <!--END_SECTION:activity-->
 
