@@ -18,11 +18,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#187826](https://github.com/microsoft/vscode/issues/187826#issuecomment-1636055376) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. 🗣 Commented on [#187788](https://github.com/microsoft/vscode/issues/187788#issuecomment-1635336527) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. 💪 Opened PR [#187902](https://github.com/microsoft/vscode/pull/187902) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. 🗣 Commented on [#187788](https://github.com/microsoft/vscode/issues/187788#issuecomment-1635284313) in [microsoft/vscode](https://github.com/microsoft/vscode)
-5. ❗ Opened issue [#15](https://github.com/x-cold/dingtalk-robot/issues/15) in [x-cold/dingtalk-robot](https://github.com/x-cold/dingtalk-robot)
+1. ❗ Opened issue [#3](https://github.com/Cloud-WebIDE/group-github-activity-readme/issues/3) in [Cloud-WebIDE/group-github-activity-readme](https://github.com/Cloud-WebIDE/group-github-activity-readme)
+2. ❗ Opened issue [#2](https://github.com/Cloud-WebIDE/group-github-activity-readme/issues/2) in [Cloud-WebIDE/group-github-activity-readme](https://github.com/Cloud-WebIDE/group-github-activity-readme)
+3. ❗ Opened issue [#1](https://github.com/Cloud-WebIDE/group-github-activity-readme/issues/1) in [Cloud-WebIDE/group-github-activity-readme](https://github.com/Cloud-WebIDE/group-github-activity-readme)
+4. 🚀 Published release [v1.0.4](https://github.com/Cloud-WebIDE/group-github-activity-readme/releases/tag/v1.0.4) in [Cloud-WebIDE/group-github-activity-readme](https://github.com/Cloud-WebIDE/group-github-activity-readme)
+5. 🚀 Published release [v1.0.3](https://github.com/Cloud-WebIDE/group-github-activity-readme/releases/tag/v1.0.3) in [Cloud-WebIDE/group-github-activity-readme](https://github.com/Cloud-WebIDE/group-github-activity-readme)
 
 <!--END_SECTION:activity-->
 
