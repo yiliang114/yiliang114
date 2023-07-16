@@ -18,11 +18,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#6](https://github.com/Cloud-WebIDE/group-github-activity-readme/pull/6) in [Cloud-WebIDE/group-github-activity-readme](https://github.com/Cloud-WebIDE/group-github-activity-readme)
-2. 🚀 Published release [v1.0.5](https://github.com/Cloud-WebIDE/group-github-activity-readme/releases/tag/v1.0.5) in [Cloud-WebIDE/group-github-activity-readme](https://github.com/Cloud-WebIDE/group-github-activity-readme)
-3. 🎉 Merged PR [#5](https://github.com/Cloud-WebIDE/group-github-activity-readme/pull/5) in [Cloud-WebIDE/group-github-activity-readme](https://github.com/Cloud-WebIDE/group-github-activity-readme)
-4. 💪 Opened PR [#5](https://github.com/Cloud-WebIDE/group-github-activity-readme/pull/5) in [Cloud-WebIDE/group-github-activity-readme](https://github.com/Cloud-WebIDE/group-github-activity-readme)
-5. 🔒 Closed issue [#4](https://github.com/Cloud-WebIDE/group-github-activity-readme/issues/4) in [Cloud-WebIDE/group-github-activity-readme](https://github.com/Cloud-WebIDE/group-github-activity-readme)
+1. 💪 Opened PR [#8](https://github.com/Cloud-WebIDE/group-github-activity-readme/pull/8) in [Cloud-WebIDE/group-github-activity-readme](https://github.com/Cloud-WebIDE/group-github-activity-readme)
+2. 💪 Opened PR [#7](https://github.com/Cloud-WebIDE/group-github-activity-readme/pull/7) in [Cloud-WebIDE/group-github-activity-readme](https://github.com/Cloud-WebIDE/group-github-activity-readme)
+3. 💪 Opened PR [#6](https://github.com/Cloud-WebIDE/group-github-activity-readme/pull/6) in [Cloud-WebIDE/group-github-activity-readme](https://github.com/Cloud-WebIDE/group-github-activity-readme)
+4. 🚀 Published release [v1.0.5](https://github.com/Cloud-WebIDE/group-github-activity-readme/releases/tag/v1.0.5) in [Cloud-WebIDE/group-github-activity-readme](https://github.com/Cloud-WebIDE/group-github-activity-readme)
+5. 🎉 Merged PR [#5](https://github.com/Cloud-WebIDE/group-github-activity-readme/pull/5) in [Cloud-WebIDE/group-github-activity-readme](https://github.com/Cloud-WebIDE/group-github-activity-readme)
 
 <!--END_SECTION:activity-->
 
