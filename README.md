@@ -18,11 +18,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#188887](https://github.com/microsoft/vscode/pull/188887#issuecomment-1661644146) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. 🎉 Merged PR [#11](https://github.com/yiliang114/config/pull/11) in [yiliang114/config](https://github.com/yiliang114/config)
-3. 🎉 Merged PR [#12](https://github.com/yiliang114/config/pull/12) in [yiliang114/config](https://github.com/yiliang114/config)
-4. 🗣 Commented on [#26](https://github.com/microsoft/vscode-test-web/issues/26#issuecomment-1653278439) in [microsoft/vscode-test-web](https://github.com/microsoft/vscode-test-web)
-5. 🗣 Commented on [#86](https://github.com/microsoft/vscode-test-web/pull/86#issuecomment-1653238183) in [microsoft/vscode-test-web](https://github.com/microsoft/vscode-test-web)
+1. 💪 Opened PR [#189557](https://github.com/microsoft/vscode/pull/189557) in [microsoft/vscode](https://github.com/microsoft/vscode)
+2. ❗ Opened issue [#189556](https://github.com/microsoft/vscode/issues/189556) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. 🗣 Commented on [#188887](https://github.com/microsoft/vscode/pull/188887#issuecomment-1661644146) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. 🎉 Merged PR [#11](https://github.com/yiliang114/config/pull/11) in [yiliang114/config](https://github.com/yiliang114/config)
+5. 🎉 Merged PR [#12](https://github.com/yiliang114/config/pull/12) in [yiliang114/config](https://github.com/yiliang114/config)
 
 <!--END_SECTION:activity-->
 
