@@ -18,11 +18,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#9](https://github.com/cloud-webide/group-github-activity-readme/pull/9) in [cloud-webide/group-github-activity-readme](https://github.com/cloud-webide/group-github-activity-readme)
-2. 💪 Opened PR [#189557](https://github.com/microsoft/vscode/pull/189557) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. ❗ Opened issue [#189556](https://github.com/microsoft/vscode/issues/189556) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. 🗣 Commented on [#188887](https://github.com/microsoft/vscode/pull/188887#issuecomment-1661644146) in [microsoft/vscode](https://github.com/microsoft/vscode)
-5. 🎉 Merged PR [#11](https://github.com/yiliang114/config/pull/11) in [yiliang114/config](https://github.com/yiliang114/config)
+1. 🔒 Closed issue [#3](https://github.com/cloud-webide/group-github-activity-readme/issues/3) in [cloud-webide/group-github-activity-readme](https://github.com/cloud-webide/group-github-activity-readme)
+2. 🔒 Closed issue [#2](https://github.com/cloud-webide/group-github-activity-readme/issues/2) in [cloud-webide/group-github-activity-readme](https://github.com/cloud-webide/group-github-activity-readme)
+3. 🎉 Merged PR [#12](https://github.com/cloud-webide/group-github-activity-readme/pull/12) in [cloud-webide/group-github-activity-readme](https://github.com/cloud-webide/group-github-activity-readme)
+4. 💪 Opened PR [#12](https://github.com/cloud-webide/group-github-activity-readme/pull/12) in [cloud-webide/group-github-activity-readme](https://github.com/cloud-webide/group-github-activity-readme)
+5. 🎉 Merged PR [#11](https://github.com/cloud-webide/group-github-activity-readme/pull/11) in [cloud-webide/group-github-activity-readme](https://github.com/cloud-webide/group-github-activity-readme)
 
 <!--END_SECTION:activity-->
 
