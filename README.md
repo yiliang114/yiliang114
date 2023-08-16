@@ -18,11 +18,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#189557](https://github.com/microsoft/vscode/pull/189557#issuecomment-1679246607) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. 🗣 Commented on [#189557](https://github.com/microsoft/vscode/pull/189557#issuecomment-1669993488) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. 🗣 Commented on [#189557](https://github.com/microsoft/vscode/pull/189557#issuecomment-1669967543) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. 🗣 Commented on [#188887](https://github.com/microsoft/vscode/pull/188887#issuecomment-1669292896) in [microsoft/vscode](https://github.com/microsoft/vscode)
-5. 🗣 Commented on [#1302](https://github.com/alibaba/hooks/issues/1302#issuecomment-1666907426) in [alibaba/hooks](https://github.com/alibaba/hooks)
+1. ❗ Opened issue [#190544](https://github.com/microsoft/vscode/issues/190544) in [microsoft/vscode](https://github.com/microsoft/vscode)
+2. 🗣 Commented on [#189557](https://github.com/microsoft/vscode/pull/189557#issuecomment-1679246607) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. 🗣 Commented on [#189557](https://github.com/microsoft/vscode/pull/189557#issuecomment-1669993488) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. 🗣 Commented on [#189557](https://github.com/microsoft/vscode/pull/189557#issuecomment-1669967543) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. 🗣 Commented on [#188887](https://github.com/microsoft/vscode/pull/188887#issuecomment-1669292896) in [microsoft/vscode](https://github.com/microsoft/vscode)
 
 <!--END_SECTION:activity-->
 
