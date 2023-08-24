@@ -18,11 +18,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#191177](https://github.com/microsoft/vscode/issues/191177) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. ❗ Opened issue [#191157](https://github.com/microsoft/vscode/issues/191157) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. 🗣 Commented on [#130](https://github.com/microsoft/vscode-l10n/issues/130#issuecomment-1689337639) in [microsoft/vscode-l10n](https://github.com/microsoft/vscode-l10n)
-4. 🗣 Commented on [#190544](https://github.com/microsoft/vscode/issues/190544#issuecomment-1689335318) in [microsoft/vscode](https://github.com/microsoft/vscode)
-5. ❗ Opened issue [#130](https://github.com/microsoft/vscode-l10n/issues/130) in [microsoft/vscode-l10n](https://github.com/microsoft/vscode-l10n)
+1. 🗣 Commented on [#191157](https://github.com/microsoft/vscode/issues/191157#issuecomment-1691370939) in [microsoft/vscode](https://github.com/microsoft/vscode)
+2. 🗣 Commented on [#191157](https://github.com/microsoft/vscode/issues/191157#issuecomment-1691352395) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. ❗ Opened issue [#191177](https://github.com/microsoft/vscode/issues/191177) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. ❗ Opened issue [#191157](https://github.com/microsoft/vscode/issues/191157) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. 🗣 Commented on [#130](https://github.com/microsoft/vscode-l10n/issues/130#issuecomment-1689337639) in [microsoft/vscode-l10n](https://github.com/microsoft/vscode-l10n)
 
 <!--END_SECTION:activity-->
 
