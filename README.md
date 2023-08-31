@@ -18,11 +18,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#191878](https://github.com/microsoft/vscode/pull/191878) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. 🗣 Commented on [#191877](https://github.com/microsoft/vscode/issues/191877#issuecomment-1700428442) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. ❗ Opened issue [#191877](https://github.com/microsoft/vscode/issues/191877) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. ❗ Opened issue [#332](https://github.com/vercel/storage/issues/332) in [vercel/storage](https://github.com/vercel/storage)
-5. 🗣 Commented on [#191157](https://github.com/microsoft/vscode/issues/191157#issuecomment-1694118817) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. 🗣 Commented on [#191880](https://github.com/microsoft/vscode/issues/191880#issuecomment-1700480929) in [microsoft/vscode](https://github.com/microsoft/vscode)
+2. ❗ Opened issue [#191880](https://github.com/microsoft/vscode/issues/191880) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. 💪 Opened PR [#191878](https://github.com/microsoft/vscode/pull/191878) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. 🗣 Commented on [#191877](https://github.com/microsoft/vscode/issues/191877#issuecomment-1700428442) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. ❗ Opened issue [#191877](https://github.com/microsoft/vscode/issues/191877) in [microsoft/vscode](https://github.com/microsoft/vscode)
 
 <!--END_SECTION:activity-->
 
