@@ -18,11 +18,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#191880](https://github.com/microsoft/vscode/issues/191880#issuecomment-1702092383) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. 💪 Opened PR [#191953](https://github.com/microsoft/vscode/pull/191953) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. 🗣 Commented on [#191877](https://github.com/microsoft/vscode/issues/191877#issuecomment-1702045618) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. 🗣 Commented on [#191880](https://github.com/microsoft/vscode/issues/191880#issuecomment-1700480929) in [microsoft/vscode](https://github.com/microsoft/vscode)
-5. ❗ Opened issue [#191880](https://github.com/microsoft/vscode/issues/191880) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. ❗ Opened issue [#56](https://github.com/jupyterlite/pyodide-kernel/issues/56) in [jupyterlite/pyodide-kernel](https://github.com/jupyterlite/pyodide-kernel)
+2. 🗣 Commented on [#191880](https://github.com/microsoft/vscode/issues/191880#issuecomment-1702092383) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. 💪 Opened PR [#191953](https://github.com/microsoft/vscode/pull/191953) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. 🗣 Commented on [#191877](https://github.com/microsoft/vscode/issues/191877#issuecomment-1702045618) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. 🗣 Commented on [#191880](https://github.com/microsoft/vscode/issues/191880#issuecomment-1700480929) in [microsoft/vscode](https://github.com/microsoft/vscode)
 
 <!--END_SECTION:activity-->
 
