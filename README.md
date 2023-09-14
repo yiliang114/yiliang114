@@ -18,11 +18,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#192999](https://github.com/microsoft/vscode/pull/192999) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. 💪 Opened PR [#26](https://github.com/joyceerhl/vscode-pyolite/pull/26) in [joyceerhl/vscode-pyolite](https://github.com/joyceerhl/vscode-pyolite)
-3. 🗣 Commented on [#56](https://github.com/jupyterlite/pyodide-kernel/issues/56#issuecomment-1706536284) in [jupyterlite/pyodide-kernel](https://github.com/jupyterlite/pyodide-kernel)
-4. ❗ Opened issue [#56](https://github.com/jupyterlite/pyodide-kernel/issues/56) in [jupyterlite/pyodide-kernel](https://github.com/jupyterlite/pyodide-kernel)
-5. 🗣 Commented on [#191880](https://github.com/microsoft/vscode/issues/191880#issuecomment-1702092383) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. ❗ Opened issue [#1](https://github.com/joyceerhl/vscode-git-fit-commit/issues/1) in [joyceerhl/vscode-git-fit-commit](https://github.com/joyceerhl/vscode-git-fit-commit)
+2. 💪 Opened PR [#192999](https://github.com/microsoft/vscode/pull/192999) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. 💪 Opened PR [#26](https://github.com/joyceerhl/vscode-pyolite/pull/26) in [joyceerhl/vscode-pyolite](https://github.com/joyceerhl/vscode-pyolite)
+4. 🗣 Commented on [#56](https://github.com/jupyterlite/pyodide-kernel/issues/56#issuecomment-1706536284) in [jupyterlite/pyodide-kernel](https://github.com/jupyterlite/pyodide-kernel)
+5. ❗ Opened issue [#56](https://github.com/jupyterlite/pyodide-kernel/issues/56) in [jupyterlite/pyodide-kernel](https://github.com/jupyterlite/pyodide-kernel)
 
 <!--END_SECTION:activity-->
 
