@@ -18,11 +18,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#193544](https://github.com/microsoft/vscode/pull/193544) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. ❗ Opened issue [#1148](https://github.com/jupyterlite/jupyterlite/issues/1148) in [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite)
-3. 🗣 Commented on [#125](https://github.com/jupyterlite/demo/issues/125#issuecomment-1719063040) in [jupyterlite/demo](https://github.com/jupyterlite/demo)
-4. ❗ Opened issue [#125](https://github.com/jupyterlite/demo/issues/125) in [jupyterlite/demo](https://github.com/jupyterlite/demo)
-5. ❗ Opened issue [#1](https://github.com/joyceerhl/vscode-git-fit-commit/issues/1) in [joyceerhl/vscode-git-fit-commit](https://github.com/joyceerhl/vscode-git-fit-commit)
+1. 🗣 Commented on [#193544](https://github.com/microsoft/vscode/pull/193544#issuecomment-1730727956) in [microsoft/vscode](https://github.com/microsoft/vscode)
+2. 💪 Opened PR [#193544](https://github.com/microsoft/vscode/pull/193544) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. ❗ Opened issue [#1148](https://github.com/jupyterlite/jupyterlite/issues/1148) in [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite)
+4. 🗣 Commented on [#125](https://github.com/jupyterlite/demo/issues/125#issuecomment-1719063040) in [jupyterlite/demo](https://github.com/jupyterlite/demo)
+5. ❗ Opened issue [#125](https://github.com/jupyterlite/demo/issues/125) in [jupyterlite/demo](https://github.com/jupyterlite/demo)
 
 <!--END_SECTION:activity-->
 
