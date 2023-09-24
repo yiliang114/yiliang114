@@ -18,11 +18,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#193544](https://github.com/microsoft/vscode/pull/193544#issuecomment-1730727956) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. 💪 Opened PR [#193544](https://github.com/microsoft/vscode/pull/193544) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. ❗ Opened issue [#1148](https://github.com/jupyterlite/jupyterlite/issues/1148) in [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite)
-4. 🗣 Commented on [#125](https://github.com/jupyterlite/demo/issues/125#issuecomment-1719063040) in [jupyterlite/demo](https://github.com/jupyterlite/demo)
-5. ❗ Opened issue [#125](https://github.com/jupyterlite/demo/issues/125) in [jupyterlite/demo](https://github.com/jupyterlite/demo)
+1. ❗ Opened issue [#111](https://github.com/web-infra-dev/rspress/issues/111) in [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress)
+2. 🗣 Commented on [#193544](https://github.com/microsoft/vscode/pull/193544#issuecomment-1730727956) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. 💪 Opened PR [#193544](https://github.com/microsoft/vscode/pull/193544) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. ❗ Opened issue [#1148](https://github.com/jupyterlite/jupyterlite/issues/1148) in [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite)
+5. 🗣 Commented on [#125](https://github.com/jupyterlite/demo/issues/125#issuecomment-1719063040) in [jupyterlite/demo](https://github.com/jupyterlite/demo)
 
 <!--END_SECTION:activity-->
 
