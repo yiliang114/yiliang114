@@ -18,11 +18,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#193544](https://github.com/microsoft/vscode/pull/193544#issuecomment-1752293428) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. 🗣 Commented on [#183507](https://github.com/microsoft/vscode/pull/183507#issuecomment-1752012095) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. 🗣 Commented on [#193544](https://github.com/microsoft/vscode/pull/193544#issuecomment-1751608401) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. ❗ Opened issue [#111](https://github.com/web-infra-dev/rspress/issues/111) in [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress)
-5. 🗣 Commented on [#193544](https://github.com/microsoft/vscode/pull/193544#issuecomment-1730727956) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. 🗣 Commented on [#195552](https://github.com/microsoft/vscode/issues/195552#issuecomment-1761237196) in [microsoft/vscode](https://github.com/microsoft/vscode)
+2. ❗ Opened issue [#195552](https://github.com/microsoft/vscode/issues/195552) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. 🗣 Commented on [#193544](https://github.com/microsoft/vscode/pull/193544#issuecomment-1752293428) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. 🗣 Commented on [#183507](https://github.com/microsoft/vscode/pull/183507#issuecomment-1752012095) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. 🗣 Commented on [#193544](https://github.com/microsoft/vscode/pull/193544#issuecomment-1751608401) in [microsoft/vscode](https://github.com/microsoft/vscode)
 
 <!--END_SECTION:activity-->
 
