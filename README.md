@@ -6,8 +6,7 @@
     <b><a href="https://juejin.im/user/2629687542813016">掘金</a></b>
 </p>
 
-A front-end developer and one of the VS Code Collaborators. After college I used to work at @Tencent. 
-
+### :accordion: [Recent Activity in the Cloud IDE](https://github.com/cloud-webide/.github)
 
 ### :zap: Recent Activity
 
