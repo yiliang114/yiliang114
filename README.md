@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#195984](https://github.com/microsoft/vscode/pull/195984) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. ❗ Opened issue [#195980](https://github.com/microsoft/vscode/issues/195980) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. ❗ Opened issue [#195796](https://github.com/microsoft/vscode/issues/195796) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. 🎉 Merged PR [#70](https://github.com/yiliang114/yiliang114.github.io/pull/70) in [yiliang114/yiliang114.github.io](https://github.com/yiliang114/yiliang114.github.io)
-5. 🎉 Merged PR [#72](https://github.com/yiliang114/yiliang114.github.io/pull/72) in [yiliang114/yiliang114.github.io](https://github.com/yiliang114/yiliang114.github.io)
+1. ❗ Opened issue [#196685](https://github.com/microsoft/vscode/issues/196685) in [microsoft/vscode](https://github.com/microsoft/vscode)
+2. 💪 Opened PR [#195984](https://github.com/microsoft/vscode/pull/195984) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. ❗ Opened issue [#195980](https://github.com/microsoft/vscode/issues/195980) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. ❗ Opened issue [#195796](https://github.com/microsoft/vscode/issues/195796) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. 🎉 Merged PR [#70](https://github.com/yiliang114/yiliang114.github.io/pull/70) in [yiliang114/yiliang114.github.io](https://github.com/yiliang114/yiliang114.github.io)
 
 <!--END_SECTION:activity-->
 
