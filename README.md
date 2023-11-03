@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#196685](https://github.com/microsoft/vscode/issues/196685#issuecomment-1781075146) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. ❗ Opened issue [#196685](https://github.com/microsoft/vscode/issues/196685) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. 💪 Opened PR [#195984](https://github.com/microsoft/vscode/pull/195984) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. ❗ Opened issue [#195980](https://github.com/microsoft/vscode/issues/195980) in [microsoft/vscode](https://github.com/microsoft/vscode)
-5. ❗ Opened issue [#195796](https://github.com/microsoft/vscode/issues/195796) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. ❗ Opened issue [#77](https://github.com/yiliang114/yiliang114.github.io/issues/77) in [yiliang114/yiliang114.github.io](https://github.com/yiliang114/yiliang114.github.io)
+2. ❗ Opened issue [#76](https://github.com/yiliang114/yiliang114.github.io/issues/76) in [yiliang114/yiliang114.github.io](https://github.com/yiliang114/yiliang114.github.io)
+3. 🗣 Commented on [#196685](https://github.com/microsoft/vscode/issues/196685#issuecomment-1781075146) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. ❗ Opened issue [#196685](https://github.com/microsoft/vscode/issues/196685) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. 💪 Opened PR [#195984](https://github.com/microsoft/vscode/pull/195984) in [microsoft/vscode](https://github.com/microsoft/vscode)
 
 <!--END_SECTION:activity-->
 
