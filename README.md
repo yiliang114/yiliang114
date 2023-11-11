@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#26](https://github.com/yiliang114/config/pull/26) in [yiliang114/config](https://github.com/yiliang114/config)
-2. 🎉 Merged PR [#24](https://github.com/yiliang114/config/pull/24) in [yiliang114/config](https://github.com/yiliang114/config)
-3. 🎉 Merged PR [#25](https://github.com/yiliang114/config/pull/25) in [yiliang114/config](https://github.com/yiliang114/config)
-4. 💪 Opened PR [#25](https://github.com/yiliang114/config/pull/25) in [yiliang114/config](https://github.com/yiliang114/config)
-5. 🎉 Merged PR [#23](https://github.com/yiliang114/config/pull/23) in [yiliang114/config](https://github.com/yiliang114/config)
+1. 🎉 Merged PR [#27](https://github.com/yiliang114/config/pull/27) in [yiliang114/config](https://github.com/yiliang114/config)
+2. 🎉 Merged PR [#26](https://github.com/yiliang114/config/pull/26) in [yiliang114/config](https://github.com/yiliang114/config)
+3. 🎉 Merged PR [#24](https://github.com/yiliang114/config/pull/24) in [yiliang114/config](https://github.com/yiliang114/config)
+4. 🎉 Merged PR [#25](https://github.com/yiliang114/config/pull/25) in [yiliang114/config](https://github.com/yiliang114/config)
+5. 💪 Opened PR [#25](https://github.com/yiliang114/config/pull/25) in [yiliang114/config](https://github.com/yiliang114/config)
 
 <!--END_SECTION:activity-->
 
