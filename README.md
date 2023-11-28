@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#192808](https://github.com/microsoft/vscode/issues/192808#issuecomment-1825367636) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. 💪 Opened PR [#4761](https://github.com/web-infra-dev/rspack/pull/4761) in [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack)
-3. 💪 Opened PR [#198909](https://github.com/microsoft/vscode/pull/198909) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. 🗣 Commented on [#198827](https://github.com/microsoft/vscode/issues/198827#issuecomment-1822034529) in [microsoft/vscode](https://github.com/microsoft/vscode)
-5. ❗ Opened issue [#198827](https://github.com/microsoft/vscode/issues/198827) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. 💪 Opened PR [#199258](https://github.com/microsoft/vscode/pull/199258) in [microsoft/vscode](https://github.com/microsoft/vscode)
+2. 🗣 Commented on [#192808](https://github.com/microsoft/vscode/issues/192808#issuecomment-1825367636) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. 💪 Opened PR [#4761](https://github.com/web-infra-dev/rspack/pull/4761) in [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack)
+4. 💪 Opened PR [#198909](https://github.com/microsoft/vscode/pull/198909) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. 🗣 Commented on [#198827](https://github.com/microsoft/vscode/issues/198827#issuecomment-1822034529) in [microsoft/vscode](https://github.com/microsoft/vscode)
 
 <!--END_SECTION:activity-->
 
