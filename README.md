@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#199269](https://github.com/microsoft/vscode/issues/199269#issuecomment-1831073481) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. 🗣 Commented on [#17975](https://github.com/microsoft/playwright/issues/17975#issuecomment-1829754426) in [microsoft/playwright](https://github.com/microsoft/playwright)
-3. 🗣 Commented on [#199270](https://github.com/microsoft/vscode/pull/199270#issuecomment-1829277517) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. 💪 Opened PR [#199270](https://github.com/microsoft/vscode/pull/199270) in [microsoft/vscode](https://github.com/microsoft/vscode)
-5. ❗ Opened issue [#199269](https://github.com/microsoft/vscode/issues/199269) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. 🗣 Commented on [#199269](https://github.com/microsoft/vscode/issues/199269#issuecomment-1832182808) in [microsoft/vscode](https://github.com/microsoft/vscode)
+2. 🗣 Commented on [#199269](https://github.com/microsoft/vscode/issues/199269#issuecomment-1831073481) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. 🗣 Commented on [#17975](https://github.com/microsoft/playwright/issues/17975#issuecomment-1829754426) in [microsoft/playwright](https://github.com/microsoft/playwright)
+4. 🗣 Commented on [#199270](https://github.com/microsoft/vscode/pull/199270#issuecomment-1829277517) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. 💪 Opened PR [#199270](https://github.com/microsoft/vscode/pull/199270) in [microsoft/vscode](https://github.com/microsoft/vscode)
 
 <!--END_SECTION:activity-->
 
