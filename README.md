@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#3224](https://github.com/opensumi/core/issues/3224) in [opensumi/core](https://github.com/opensumi/core)
-2. 🗣 Commented on [#199269](https://github.com/microsoft/vscode/issues/199269#issuecomment-1832182808) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. 🗣 Commented on [#199269](https://github.com/microsoft/vscode/issues/199269#issuecomment-1831073481) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. 🗣 Commented on [#17975](https://github.com/microsoft/playwright/issues/17975#issuecomment-1829754426) in [microsoft/playwright](https://github.com/microsoft/playwright)
-5. 🗣 Commented on [#199270](https://github.com/microsoft/vscode/pull/199270#issuecomment-1829277517) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. 💪 Opened PR [#3225](https://github.com/opensumi/core/pull/3225) in [opensumi/core](https://github.com/opensumi/core)
+2. 🗣 Commented on [#66](https://github.com/opensumi/ide-startup-lite/issues/66#issuecomment-1834111386) in [opensumi/ide-startup-lite](https://github.com/opensumi/ide-startup-lite)
+3. ❗ Opened issue [#3224](https://github.com/opensumi/core/issues/3224) in [opensumi/core](https://github.com/opensumi/core)
+4. 🗣 Commented on [#199269](https://github.com/microsoft/vscode/issues/199269#issuecomment-1832182808) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. 🗣 Commented on [#199269](https://github.com/microsoft/vscode/issues/199269#issuecomment-1831073481) in [microsoft/vscode](https://github.com/microsoft/vscode)
 
 <!--END_SECTION:activity-->
 
