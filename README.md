@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#200309](https://github.com/microsoft/vscode/issues/200309#issuecomment-1874785744) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. 🗣 Commented on [#197898](https://github.com/microsoft/vscode/issues/197898#issuecomment-1848923186) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. 🗣 Commented on [#200310](https://github.com/microsoft/vscode/pull/200310#issuecomment-1848922803) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. 🗣 Commented on [#200310](https://github.com/microsoft/vscode/pull/200310#issuecomment-1846670354) in [microsoft/vscode](https://github.com/microsoft/vscode)
-5. 💪 Opened PR [#200310](https://github.com/microsoft/vscode/pull/200310) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. 💪 Opened PR [#3](https://github.com/yiliang114/zhinang-cr-bot/pull/3) in [yiliang114/zhinang-cr-bot](https://github.com/yiliang114/zhinang-cr-bot)
+2. ❌ Closed PR [#2](https://github.com/yiliang114/zhinang-cr-bot/pull/2) in [yiliang114/zhinang-cr-bot](https://github.com/yiliang114/zhinang-cr-bot)
+3. 💪 Opened PR [#2](https://github.com/yiliang114/zhinang-cr-bot/pull/2) in [yiliang114/zhinang-cr-bot](https://github.com/yiliang114/zhinang-cr-bot)
+4. 🎉 Merged PR [#1](https://github.com/yiliang114/zhinang-cr-bot/pull/1) in [yiliang114/zhinang-cr-bot](https://github.com/yiliang114/zhinang-cr-bot)
+5. 💪 Opened PR [#1](https://github.com/yiliang114/zhinang-cr-bot/pull/1) in [yiliang114/zhinang-cr-bot](https://github.com/yiliang114/zhinang-cr-bot)
 
 <!--END_SECTION:activity-->
 
