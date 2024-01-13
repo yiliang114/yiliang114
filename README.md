@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#202073](https://github.com/microsoft/vscode/issues/202073#issuecomment-1884281326) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. ❗ Opened issue [#202073](https://github.com/microsoft/vscode/issues/202073) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. ❗ Opened issue [#1537](https://github.com/microsoft/vscode-loc/issues/1537) in [microsoft/vscode-loc](https://github.com/microsoft/vscode-loc)
-4. 🎉 Merged PR [#3](https://github.com/yiliang114/zhinang-cr-bot/pull/3) in [yiliang114/zhinang-cr-bot](https://github.com/yiliang114/zhinang-cr-bot)
-5. 💪 Opened PR [#3](https://github.com/yiliang114/zhinang-cr-bot/pull/3) in [yiliang114/zhinang-cr-bot](https://github.com/yiliang114/zhinang-cr-bot)
+1. ❗ Opened issue [#202390](https://github.com/microsoft/vscode/issues/202390) in [microsoft/vscode](https://github.com/microsoft/vscode)
+2. 🗣 Commented on [#202073](https://github.com/microsoft/vscode/issues/202073#issuecomment-1884281326) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. ❗ Opened issue [#202073](https://github.com/microsoft/vscode/issues/202073) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. ❗ Opened issue [#1537](https://github.com/microsoft/vscode-loc/issues/1537) in [microsoft/vscode-loc](https://github.com/microsoft/vscode-loc)
+5. 🎉 Merged PR [#3](https://github.com/yiliang114/zhinang-cr-bot/pull/3) in [yiliang114/zhinang-cr-bot](https://github.com/yiliang114/zhinang-cr-bot)
 
 <!--END_SECTION:activity-->
 
