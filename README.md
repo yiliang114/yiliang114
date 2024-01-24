@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#3588](https://github.com/midwayjs/midway/pull/3588) in [midwayjs/midway](https://github.com/midwayjs/midway)
-2. 🗣 Commented on [#200310](https://github.com/microsoft/vscode/pull/200310#issuecomment-1905638078) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. 🗣 Commented on [#200310](https://github.com/microsoft/vscode/pull/200310#issuecomment-1905565260) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. 💪 Opened PR [#75](https://github.com/opensumi/ide-startup-lite/pull/75) in [opensumi/ide-startup-lite](https://github.com/opensumi/ide-startup-lite)
-5. ❗ Opened issue [#202390](https://github.com/microsoft/vscode/issues/202390) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. 🗣 Commented on [#413](https://github.com/Rishikant181/Rettiwt-API/issues/413#issuecomment-1908306416) in [Rishikant181/Rettiwt-API](https://github.com/Rishikant181/Rettiwt-API)
+2. 🗣 Commented on [#139](https://github.com/twitterdev/Twitter-API-v2-sample-code/issues/139#issuecomment-1908282204) in [twitterdev/Twitter-API-v2-sample-code](https://github.com/twitterdev/Twitter-API-v2-sample-code)
+3. 💪 Opened PR [#3588](https://github.com/midwayjs/midway/pull/3588) in [midwayjs/midway](https://github.com/midwayjs/midway)
+4. 🗣 Commented on [#200310](https://github.com/microsoft/vscode/pull/200310#issuecomment-1905638078) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. 🗣 Commented on [#200310](https://github.com/microsoft/vscode/pull/200310#issuecomment-1905565260) in [microsoft/vscode](https://github.com/microsoft/vscode)
 
 <!--END_SECTION:activity-->
 
