@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#139](https://github.com/twitterdev/Twitter-API-v2-sample-code/issues/139#issuecomment-1928921330) in [twitterdev/Twitter-API-v2-sample-code](https://github.com/twitterdev/Twitter-API-v2-sample-code)
-2. 🗣 Commented on [#446](https://github.com/Rishikant181/Rettiwt-API/issues/446#issuecomment-1919439388) in [Rishikant181/Rettiwt-API](https://github.com/Rishikant181/Rettiwt-API)
-3. 🗣 Commented on [#446](https://github.com/Rishikant181/Rettiwt-API/issues/446#issuecomment-1919434350) in [Rishikant181/Rettiwt-API](https://github.com/Rishikant181/Rettiwt-API)
-4. ❗ Opened issue [#446](https://github.com/Rishikant181/Rettiwt-API/issues/446) in [Rishikant181/Rettiwt-API](https://github.com/Rishikant181/Rettiwt-API)
-5. 💪 Opened PR [#434](https://github.com/Rishikant181/Rettiwt-API/pull/434) in [Rishikant181/Rettiwt-API](https://github.com/Rishikant181/Rettiwt-API)
+1. 💪 Opened PR [#10](https://github.com/antfu/starter-vscode/pull/10) in [antfu/starter-vscode](https://github.com/antfu/starter-vscode)
+2. 🗣 Commented on [#139](https://github.com/twitterdev/Twitter-API-v2-sample-code/issues/139#issuecomment-1928921330) in [twitterdev/Twitter-API-v2-sample-code](https://github.com/twitterdev/Twitter-API-v2-sample-code)
+3. 🗣 Commented on [#446](https://github.com/Rishikant181/Rettiwt-API/issues/446#issuecomment-1919439388) in [Rishikant181/Rettiwt-API](https://github.com/Rishikant181/Rettiwt-API)
+4. 🗣 Commented on [#446](https://github.com/Rishikant181/Rettiwt-API/issues/446#issuecomment-1919434350) in [Rishikant181/Rettiwt-API](https://github.com/Rishikant181/Rettiwt-API)
+5. ❗ Opened issue [#446](https://github.com/Rishikant181/Rettiwt-API/issues/446) in [Rishikant181/Rettiwt-API](https://github.com/Rishikant181/Rettiwt-API)
 
 <!--END_SECTION:activity-->
 
