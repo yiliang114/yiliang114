@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#205836](https://github.com/microsoft/vscode/issues/205836#issuecomment-1956256030) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. ❗ Opened issue [#205836](https://github.com/microsoft/vscode/issues/205836) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. 🗣 Commented on [#205624](https://github.com/microsoft/vscode/issues/205624#issuecomment-1953392285) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. ❗ Opened issue [#205624](https://github.com/microsoft/vscode/issues/205624) in [microsoft/vscode](https://github.com/microsoft/vscode)
-5. 🗣 Commented on [#141754](https://github.com/microsoft/vscode/issues/141754#issuecomment-1953384725) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. 💪 Opened PR [#205848](https://github.com/microsoft/vscode/pull/205848) in [microsoft/vscode](https://github.com/microsoft/vscode)
+2. 🗣 Commented on [#205836](https://github.com/microsoft/vscode/issues/205836#issuecomment-1956256030) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. ❗ Opened issue [#205836](https://github.com/microsoft/vscode/issues/205836) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. 🗣 Commented on [#205624](https://github.com/microsoft/vscode/issues/205624#issuecomment-1953392285) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. ❗ Opened issue [#205624](https://github.com/microsoft/vscode/issues/205624) in [microsoft/vscode](https://github.com/microsoft/vscode)
 
 <!--END_SECTION:activity-->
 
