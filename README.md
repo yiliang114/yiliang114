@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#205848](https://github.com/microsoft/vscode/pull/205848#issuecomment-1965692208) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. 🗣 Commented on [#205848](https://github.com/microsoft/vscode/pull/205848#issuecomment-1959206974) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. 🗣 Commented on [#205848](https://github.com/microsoft/vscode/pull/205848#issuecomment-1956940390) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. 🗣 Commented on [#205836](https://github.com/microsoft/vscode/issues/205836#issuecomment-1956514750) in [microsoft/vscode](https://github.com/microsoft/vscode)
-5. 🗣 Commented on [#205836](https://github.com/microsoft/vscode/issues/205836#issuecomment-1956510826) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. 🎉 Merged PR [#1](https://github.com/cloud-webide/cloud-webide.github.io/pull/1) in [cloud-webide/cloud-webide.github.io](https://github.com/cloud-webide/cloud-webide.github.io)
+2. 💪 Opened PR [#1](https://github.com/cloud-webide/cloud-webide.github.io/pull/1) in [cloud-webide/cloud-webide.github.io](https://github.com/cloud-webide/cloud-webide.github.io)
+3. 🗣 Commented on [#205848](https://github.com/microsoft/vscode/pull/205848#issuecomment-1965692208) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. 🗣 Commented on [#205848](https://github.com/microsoft/vscode/pull/205848#issuecomment-1959206974) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. 🗣 Commented on [#205848](https://github.com/microsoft/vscode/pull/205848#issuecomment-1956940390) in [microsoft/vscode](https://github.com/microsoft/vscode)
 
 <!--END_SECTION:activity-->
 
