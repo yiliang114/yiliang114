@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#198914](https://github.com/microsoft/vscode/issues/198914#issuecomment-2191717966) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. 🗣 Commented on [#213896](https://github.com/microsoft/vscode/pull/213896#issuecomment-2142454582) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. 🗣 Commented on [#213896](https://github.com/microsoft/vscode/pull/213896#issuecomment-2141124776) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. 🗣 Commented on [#213896](https://github.com/microsoft/vscode/pull/213896#issuecomment-2140053013) in [microsoft/vscode](https://github.com/microsoft/vscode)
-5. 🗣 Commented on [#213896](https://github.com/microsoft/vscode/pull/213896#issuecomment-2140045903) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. 🗣 Commented on [#133734](https://github.com/microsoft/vscode/issues/133734#issuecomment-2235783162) in [microsoft/vscode](https://github.com/microsoft/vscode)
+2. 🗣 Commented on [#198914](https://github.com/microsoft/vscode/issues/198914#issuecomment-2191717966) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. 🗣 Commented on [#213896](https://github.com/microsoft/vscode/pull/213896#issuecomment-2142454582) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. 🗣 Commented on [#213896](https://github.com/microsoft/vscode/pull/213896#issuecomment-2141124776) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. 🗣 Commented on [#213896](https://github.com/microsoft/vscode/pull/213896#issuecomment-2140053013) in [microsoft/vscode](https://github.com/microsoft/vscode)
 
 <!--END_SECTION:activity-->
 
