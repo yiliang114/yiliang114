@@ -15,7 +15,7 @@
 1. 🗣 Commented on [#263546](https://github.com/microsoft/vscode/issues/263546#issuecomment-3270093476) in [microsoft/vscode](https://github.com/microsoft/vscode)
 2. 🗣 Commented on [#263546](https://github.com/microsoft/vscode/issues/263546#issuecomment-3235471110) in [microsoft/vscode](https://github.com/microsoft/vscode)
 3. 🗣 Commented on [#263546](https://github.com/microsoft/vscode/issues/263546#issuecomment-3227361104) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. 💪 Opened PR [#263555](https://github.com/microsoft/vscode/pull/263555) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. 💪 Opened PR [#263555](undefined) in [microsoft/vscode](https://github.com/microsoft/vscode)
 5. ❗ Opened issue [#263546](https://github.com/microsoft/vscode/issues/263546) in [microsoft/vscode](https://github.com/microsoft/vscode)
 
 <!--END_SECTION:activity-->
