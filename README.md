@@ -12,10 +12,10 @@
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#1056](undefined) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-2. 💪 Opened PR [#1059](undefined) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-3. 💪 Opened PR [#1056](undefined) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-4. 💪 Opened PR [#263555](https://github.com/microsoft/vscode/pull/263555) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. ❌ Merged PR [#1059](undefined) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+2. ❌ Closed PR [#1056](undefined) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+3. 💪 Opened PR [#1059](undefined) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+4. 💪 Opened PR [#1056](undefined) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
 5. ❗ Opened issue [#263546](https://github.com/microsoft/vscode/issues/263546) in [microsoft/vscode](https://github.com/microsoft/vscode)
 
 <!--END_SECTION:activity-->
