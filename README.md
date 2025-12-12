@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1223](undefined) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-2.  Labeled issue [#1208](https://github.com/QwenLM/qwen-code/issues/1208) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+1. ❌ Merged PR [#1223](undefined) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+2. 💪 Opened PR [#1223](undefined) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
 3.  Labeled issue [#1208](https://github.com/QwenLM/qwen-code/issues/1208) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-4. ❗ Opened issue [#1208](https://github.com/QwenLM/qwen-code/issues/1208) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-5. ❌ Merged PR [#1059](undefined) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+4.  Labeled issue [#1208](https://github.com/QwenLM/qwen-code/issues/1208) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+5. ❗ Opened issue [#1208](https://github.com/QwenLM/qwen-code/issues/1208) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
 
 <!--END_SECTION:activity-->
 
