@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#9](https://github.com/QwenLM/qwen-code-examples/pull/9) in [QwenLM/qwen-code-examples](https://github.com/QwenLM/qwen-code-examples)
-2. 🎉 Merged PR [#10](https://github.com/QwenLM/qwen-code-examples/pull/10) in [QwenLM/qwen-code-examples](https://github.com/QwenLM/qwen-code-examples)
-3. 💪 Opened PR [#10](https://github.com/QwenLM/qwen-code-examples/pull/10) in [QwenLM/qwen-code-examples](https://github.com/QwenLM/qwen-code-examples)
-4. 💪 Opened PR [#9](https://github.com/QwenLM/qwen-code-examples/pull/9) in [QwenLM/qwen-code-examples](https://github.com/QwenLM/qwen-code-examples)
-5. 🎉 Merged PR [#1676](https://github.com/QwenLM/qwen-code/pull/1676) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+1. 🎉 Merged PR [#1682](https://github.com/QwenLM/qwen-code/pull/1682) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+2. 🎉 Merged PR [#9](https://github.com/QwenLM/qwen-code-examples/pull/9) in [QwenLM/qwen-code-examples](https://github.com/QwenLM/qwen-code-examples)
+3. 🎉 Merged PR [#10](https://github.com/QwenLM/qwen-code-examples/pull/10) in [QwenLM/qwen-code-examples](https://github.com/QwenLM/qwen-code-examples)
+4. 💪 Opened PR [#10](https://github.com/QwenLM/qwen-code-examples/pull/10) in [QwenLM/qwen-code-examples](https://github.com/QwenLM/qwen-code-examples)
+5. 💪 Opened PR [#9](https://github.com/QwenLM/qwen-code-examples/pull/9) in [QwenLM/qwen-code-examples](https://github.com/QwenLM/qwen-code-examples)
 
 <!--END_SECTION:activity-->
 
