@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#937](https://github.com/farion1231/cc-switch/issues/937) in [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
-2. 🎉 Merged PR [#1682](https://github.com/QwenLM/qwen-code/pull/1682) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-3. 🎉 Merged PR [#9](https://github.com/QwenLM/qwen-code-examples/pull/9) in [QwenLM/qwen-code-examples](https://github.com/QwenLM/qwen-code-examples)
-4. 🎉 Merged PR [#10](https://github.com/QwenLM/qwen-code-examples/pull/10) in [QwenLM/qwen-code-examples](https://github.com/QwenLM/qwen-code-examples)
-5. 💪 Opened PR [#10](https://github.com/QwenLM/qwen-code-examples/pull/10) in [QwenLM/qwen-code-examples](https://github.com/QwenLM/qwen-code-examples)
+1. 💪 Opened PR [#962](https://github.com/farion1231/cc-switch/pull/962) in [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
+2. ❗ Opened issue [#937](https://github.com/farion1231/cc-switch/issues/937) in [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
+3. 🎉 Merged PR [#1682](https://github.com/QwenLM/qwen-code/pull/1682) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+4. 🎉 Merged PR [#9](https://github.com/QwenLM/qwen-code-examples/pull/9) in [QwenLM/qwen-code-examples](https://github.com/QwenLM/qwen-code-examples)
+5. 🎉 Merged PR [#10](https://github.com/QwenLM/qwen-code-examples/pull/10) in [QwenLM/qwen-code-examples](https://github.com/QwenLM/qwen-code-examples)
 
 <!--END_SECTION:activity-->
 
