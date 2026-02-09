@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1773](https://github.com/QwenLM/qwen-code/pull/1773) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-2. 🗣 Commented on [#962](https://github.com/farion1231/cc-switch/pull/962#issuecomment-3866081094) in [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
-3. 💪 Opened PR [#962](https://github.com/farion1231/cc-switch/pull/962) in [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
-4. ❗ Opened issue [#937](https://github.com/farion1231/cc-switch/issues/937) in [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
-5. 🎉 Merged PR [#1682](https://github.com/QwenLM/qwen-code/pull/1682) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+1. 🔒 Closed issue [#1776](https://github.com/QwenLM/qwen-code/issues/1776) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+2. 💪 Opened PR [#1773](https://github.com/QwenLM/qwen-code/pull/1773) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+3. 🗣 Commented on [#962](https://github.com/farion1231/cc-switch/pull/962#issuecomment-3866081094) in [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
+4. 💪 Opened PR [#962](https://github.com/farion1231/cc-switch/pull/962) in [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
+5. ❗ Opened issue [#937](https://github.com/farion1231/cc-switch/issues/937) in [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
 
 <!--END_SECTION:activity-->
 
