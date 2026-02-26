@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1918](https://github.com/QwenLM/qwen-code/issues/1918#issuecomment-3965304225) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-2. 🗣 Commented on [#1929](https://github.com/QwenLM/qwen-code/pull/1929#issuecomment-3964715462) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-3. 🗣 Commented on [#1823](https://github.com/QwenLM/qwen-code/pull/1823#issuecomment-3896661751) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-4. 💪 Opened PR [#1817](https://github.com/QwenLM/qwen-code/pull/1817) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-5. 🗣 Commented on [#1791](https://github.com/QwenLM/qwen-code/pull/1791#issuecomment-3888758722) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+1. 🗣 Commented on [#1767](https://github.com/QwenLM/qwen-code/issues/1767#issuecomment-3966201136) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+2. 🗣 Commented on [#1918](https://github.com/QwenLM/qwen-code/issues/1918#issuecomment-3965304225) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+3. 🗣 Commented on [#1929](https://github.com/QwenLM/qwen-code/pull/1929#issuecomment-3964715462) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+4. 🗣 Commented on [#1823](https://github.com/QwenLM/qwen-code/pull/1823#issuecomment-3896661751) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+5. 💪 Opened PR [#1817](https://github.com/QwenLM/qwen-code/pull/1817) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
 
 <!--END_SECTION:activity-->
 
