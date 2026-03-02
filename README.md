@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2036](https://github.com/QwenLM/qwen-code/issues/2036#issuecomment-3981679754) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-2. 🗣 Commented on [#649](https://github.com/router-for-me/CLIProxyAPI/issues/649#issuecomment-3979576693) in [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)
-3. 🗣 Commented on [#2014](https://github.com/QwenLM/qwen-code/issues/2014#issuecomment-3976756043) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-4. ❗ Opened issue [#2014](https://github.com/QwenLM/qwen-code/issues/2014) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-5. ℹ️ Assigned issue [#2013](https://github.com/QwenLM/qwen-code/issues/2013) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+1. 🔒 Closed issue [#1500](https://github.com/QwenLM/qwen-code/issues/1500) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+2. 🗣 Commented on [#1500](https://github.com/QwenLM/qwen-code/issues/1500#issuecomment-3983268833) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+3. 🗣 Commented on [#1873](https://github.com/QwenLM/qwen-code/issues/1873#issuecomment-3983238915) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+4. ℹ️ Unlabeled issue [#1998](https://github.com/QwenLM/qwen-code/issues/1998) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+5. ℹ️ Labeled issue [#1998](https://github.com/QwenLM/qwen-code/issues/1998) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
 
 <!--END_SECTION:activity-->
 
