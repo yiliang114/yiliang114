@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled issue [#2432](https://github.com/QwenLM/qwen-code/issues/2432) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-2. ℹ️ Labeled issue [#2432](https://github.com/QwenLM/qwen-code/issues/2432) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-3. ❗ Opened issue [#2432](https://github.com/QwenLM/qwen-code/issues/2432) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-4. ℹ️ Assigned issue [#2432](https://github.com/QwenLM/qwen-code/issues/2432) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-5. 💪 Opened PR [#2431](https://github.com/QwenLM/qwen-code/pull/2431) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+1. ℹ️ Unassigned issue [#1767](https://github.com/QwenLM/qwen-code/issues/1767) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+2. ℹ️ Unassigned issue [#2013](https://github.com/QwenLM/qwen-code/issues/2013) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+3. ℹ️ Labeled issue [#2432](https://github.com/QwenLM/qwen-code/issues/2432) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+4. ℹ️ Labeled issue [#2432](https://github.com/QwenLM/qwen-code/issues/2432) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+5. ❗ Opened issue [#2432](https://github.com/QwenLM/qwen-code/issues/2432) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
 
 <!--END_SECTION:activity-->
 
