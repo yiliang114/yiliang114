@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#2](https://github.com/yiliang114/projj/pull/2) in [yiliang114/projj](https://github.com/yiliang114/projj)
-2. 🎉 Merged PR [#1](https://github.com/yiliang114/projj/pull/1) in [yiliang114/projj](https://github.com/yiliang114/projj)
-3. 💪 Opened PR [#1](https://github.com/yiliang114/projj/pull/1) in [yiliang114/projj](https://github.com/yiliang114/projj)
-4. ❌ Closed PR [#70](https://github.com/popomore/projj/pull/70) in [popomore/projj](https://github.com/popomore/projj)
-5. 💪 Opened PR [#70](https://github.com/popomore/projj/pull/70) in [popomore/projj](https://github.com/popomore/projj)
+1. 🎉 Merged PR [#2](https://github.com/yiliang114/projj/pull/2) in [yiliang114/projj](https://github.com/yiliang114/projj)
+2. 💪 Opened PR [#2](https://github.com/yiliang114/projj/pull/2) in [yiliang114/projj](https://github.com/yiliang114/projj)
+3. 🎉 Merged PR [#1](https://github.com/yiliang114/projj/pull/1) in [yiliang114/projj](https://github.com/yiliang114/projj)
+4. 💪 Opened PR [#1](https://github.com/yiliang114/projj/pull/1) in [yiliang114/projj](https://github.com/yiliang114/projj)
+5. ❌ Closed PR [#70](https://github.com/popomore/projj/pull/70) in [popomore/projj](https://github.com/popomore/projj)
 
 <!--END_SECTION:activity-->
 
