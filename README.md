@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#2802](https://github.com/QwenLM/qwen-code/pull/2802) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-2. 🗣 Commented on [#2040](https://github.com/QwenLM/qwen-code/issues/2040#issuecomment-4150482652) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-3. ℹ️ Unlabeled PR [#2525](https://github.com/QwenLM/qwen-code/pull/2525) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-4. ℹ️ Labeled PR [#2525](https://github.com/QwenLM/qwen-code/pull/2525) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-5. ℹ️ Assigned PR [#2525](https://github.com/QwenLM/qwen-code/pull/2525) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+1. 💪 Opened PR [#2](https://github.com/yiliang114/projj/pull/2) in [yiliang114/projj](https://github.com/yiliang114/projj)
+2. 🎉 Merged PR [#1](https://github.com/yiliang114/projj/pull/1) in [yiliang114/projj](https://github.com/yiliang114/projj)
+3. 💪 Opened PR [#1](https://github.com/yiliang114/projj/pull/1) in [yiliang114/projj](https://github.com/yiliang114/projj)
+4. ❌ Closed PR [#70](https://github.com/popomore/projj/pull/70) in [popomore/projj](https://github.com/popomore/projj)
+5. 💪 Opened PR [#70](https://github.com/popomore/projj/pull/70) in [popomore/projj](https://github.com/popomore/projj)
 
 <!--END_SECTION:activity-->
 
