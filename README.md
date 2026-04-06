@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#7](https://github.com/yiliang114/projj/pull/7) in [yiliang114/projj](https://github.com/yiliang114/projj)
-2. 💪 Opened PR [#7](https://github.com/yiliang114/projj/pull/7) in [yiliang114/projj](https://github.com/yiliang114/projj)
-3. 🎉 Merged PR [#6](https://github.com/yiliang114/projj/pull/6) in [yiliang114/projj](https://github.com/yiliang114/projj)
-4. 💪 Opened PR [#6](https://github.com/yiliang114/projj/pull/6) in [yiliang114/projj](https://github.com/yiliang114/projj)
-5. 🚀 Published release [v3.0.0](https://github.com/yiliang114/projj/releases/tag/v3.0.0) in [yiliang114/projj](https://github.com/yiliang114/projj)
+1. ❗ Opened issue [#77](https://github.com/popomore/projj/issues/77) in [popomore/projj](https://github.com/popomore/projj)
+2. 🎉 Merged PR [#7](https://github.com/yiliang114/projj/pull/7) in [yiliang114/projj](https://github.com/yiliang114/projj)
+3. 💪 Opened PR [#7](https://github.com/yiliang114/projj/pull/7) in [yiliang114/projj](https://github.com/yiliang114/projj)
+4. 🎉 Merged PR [#6](https://github.com/yiliang114/projj/pull/6) in [yiliang114/projj](https://github.com/yiliang114/projj)
+5. 💪 Opened PR [#6](https://github.com/yiliang114/projj/pull/6) in [yiliang114/projj](https://github.com/yiliang114/projj)
 
 <!--END_SECTION:activity-->
 
