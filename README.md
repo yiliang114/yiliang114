@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#4](https://github.com/yiliang114/projj/pull/4) in [yiliang114/projj](https://github.com/yiliang114/projj)
-2. 🗣 Commented on [#2906](https://github.com/QwenLM/qwen-code/issues/2906#issuecomment-4188991891) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-3. 🗣 Commented on [#2875](https://github.com/QwenLM/qwen-code/pull/2875#issuecomment-4188708702) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-4. 🗣 Commented on [#2624](https://github.com/QwenLM/qwen-code/issues/2624#issuecomment-4188544537) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-5. 🔒 Closed issue [#2240](https://github.com/QwenLM/qwen-code/issues/2240) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+1. 🎉 Merged PR [#7](https://github.com/yiliang114/projj/pull/7) in [yiliang114/projj](https://github.com/yiliang114/projj)
+2. 💪 Opened PR [#7](https://github.com/yiliang114/projj/pull/7) in [yiliang114/projj](https://github.com/yiliang114/projj)
+3. 🎉 Merged PR [#6](https://github.com/yiliang114/projj/pull/6) in [yiliang114/projj](https://github.com/yiliang114/projj)
+4. 💪 Opened PR [#6](https://github.com/yiliang114/projj/pull/6) in [yiliang114/projj](https://github.com/yiliang114/projj)
+5. 🚀 Published release [v3.0.0](https://github.com/yiliang114/projj/releases/tag/v3.0.0) in [yiliang114/projj](https://github.com/yiliang114/projj)
 
 <!--END_SECTION:activity-->
 
