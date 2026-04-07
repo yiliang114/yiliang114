@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#77](https://github.com/popomore/projj/issues/77) in [popomore/projj](https://github.com/popomore/projj)
-2. 🗣 Commented on [#77](https://github.com/popomore/projj/issues/77#issuecomment-4193482621) in [popomore/projj](https://github.com/popomore/projj)
-3. 🔓 Reopened issue [#77](https://github.com/popomore/projj/issues/77) in [popomore/projj](https://github.com/popomore/projj)
-4. 🔒 Closed issue [#77](https://github.com/popomore/projj/issues/77) in [popomore/projj](https://github.com/popomore/projj)
-5. ❗ Opened issue [#77](https://github.com/popomore/projj/issues/77) in [popomore/projj](https://github.com/popomore/projj)
+1. ℹ️ Assigned PR [#2872](https://github.com/QwenLM/qwen-code/pull/2872) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+2. ℹ️ Assigned PR [#2921](https://github.com/QwenLM/qwen-code/pull/2921) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+3. ℹ️ Unassigned PR [#2921](https://github.com/QwenLM/qwen-code/pull/2921) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+4. ℹ️ Assigned PR [#2921](https://github.com/QwenLM/qwen-code/pull/2921) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+5. 🔒 Closed issue [#77](https://github.com/popomore/projj/issues/77) in [popomore/projj](https://github.com/popomore/projj)
 
 <!--END_SECTION:activity-->
 
