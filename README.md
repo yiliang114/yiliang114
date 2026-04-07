@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Assigned PR [#2872](https://github.com/QwenLM/qwen-code/pull/2872) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-2. ℹ️ Assigned PR [#2921](https://github.com/QwenLM/qwen-code/pull/2921) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-3. ℹ️ Unassigned PR [#2921](https://github.com/QwenLM/qwen-code/pull/2921) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-4. ℹ️ Assigned PR [#2921](https://github.com/QwenLM/qwen-code/pull/2921) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-5. 🔒 Closed issue [#77](https://github.com/popomore/projj/issues/77) in [popomore/projj](https://github.com/popomore/projj)
+1. ℹ️ Labeled issue [#2863](https://github.com/QwenLM/qwen-code/issues/2863) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+2. ℹ️ Labeled issue [#2905](https://github.com/QwenLM/qwen-code/issues/2905) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+3. 🗣 Commented on [#2882](https://github.com/QwenLM/qwen-code/issues/2882#issuecomment-4196247635) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+4. ℹ️ Assigned issue [#2882](https://github.com/QwenLM/qwen-code/issues/2882) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+5. ℹ️ Assigned issue [#2908](https://github.com/QwenLM/qwen-code/issues/2908) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
 
 <!--END_SECTION:activity-->
 
