@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#3111](https://github.com/QwenLM/qwen-code/pull/3111) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-2. 🔒 Closed issue [#3131](https://github.com/QwenLM/qwen-code/issues/3131) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-3. 🎉 Merged PR [#3132](https://github.com/QwenLM/qwen-code/pull/3132) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-4. ℹ️ Unassigned issue [#2873](https://github.com/QwenLM/qwen-code/issues/2873) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-5. ℹ️ Assigned issue [#2873](https://github.com/QwenLM/qwen-code/issues/2873) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+1. ℹ️ Unassigned PR [#2592](https://github.com/QwenLM/qwen-code/pull/2592) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+2. ℹ️ Unassigned PR [#2590](https://github.com/QwenLM/qwen-code/pull/2590) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+3. ℹ️ Labeled PR [#2593](https://github.com/QwenLM/qwen-code/pull/2593) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+4. ℹ️ Labeled PR [#2550](https://github.com/QwenLM/qwen-code/pull/2550) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+5. 🎉 Merged PR [#3111](https://github.com/QwenLM/qwen-code/pull/3111) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
 
 <!--END_SECTION:activity-->
 
