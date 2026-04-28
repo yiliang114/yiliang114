@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#3106](https://github.com/QwenLM/qwen-code/issues/3106) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-2. 🔒 Closed issue [#2528](https://github.com/QwenLM/qwen-code/issues/2528) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-3. 🔒 Closed issue [#2621](https://github.com/QwenLM/qwen-code/issues/2621) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-4. 🗣 Commented on [#2621](https://github.com/QwenLM/qwen-code/issues/2621#issuecomment-4325479287) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-5. ℹ️ Assigned issue [#3658](https://github.com/QwenLM/qwen-code/issues/3658) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+1. 💪 Opened PR [#5848](https://github.com/xtermjs/xterm.js/pull/5848) in [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js)
+2. ℹ️ Assigned issue [#3681](https://github.com/QwenLM/qwen-code/issues/3681) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+3. 🗣 Commented on [#2612](https://github.com/xtermjs/xterm.js/issues/2612#issuecomment-4333233081) in [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js)
+4. 🗣 Commented on [#3696](https://github.com/QwenLM/qwen-code/issues/3696#issuecomment-4333181446) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+5. 🗣 Commented on [#3696](https://github.com/QwenLM/qwen-code/issues/3696#issuecomment-4333170840) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
 
 <!--END_SECTION:activity-->
 
