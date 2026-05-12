@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [Installer staging test (PR #3828)](https://github.com/yiliang114/qwen-code/releases/tag/v0.0.0-pr3828-test) in [yiliang114/qwen-code](https://github.com/yiliang114/qwen-code)
-2. ℹ️ Unlabeled issue [#3730](https://github.com/QwenLM/qwen-code/issues/3730) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-3. ℹ️ Labeled issue [#3730](https://github.com/QwenLM/qwen-code/issues/3730) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-4. 🗣 Commented on [#3730](https://github.com/QwenLM/qwen-code/issues/3730#issuecomment-4427558640) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-5. 🔒 Closed issue [#3650](https://github.com/QwenLM/qwen-code/issues/3650) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+1. 🗣 Commented on [#3980](https://github.com/QwenLM/qwen-code/pull/3980#issuecomment-4429400122) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+2. 🎉 Merged PR [#4039](https://github.com/QwenLM/qwen-code/pull/4039) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+3. 🚀 Published release [Installer staging test (PR #3828)](https://github.com/yiliang114/qwen-code/releases/tag/v0.0.0-pr3828-test) in [yiliang114/qwen-code](https://github.com/yiliang114/qwen-code)
+4. ℹ️ Unlabeled issue [#3730](https://github.com/QwenLM/qwen-code/issues/3730) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+5. ℹ️ Labeled issue [#3730](https://github.com/QwenLM/qwen-code/issues/3730) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
 
 <!--END_SECTION:activity-->
 
