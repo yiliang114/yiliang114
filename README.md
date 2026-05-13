@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#4089](https://github.com/QwenLM/qwen-code/issues/4089#issuecomment-4430978550) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-2. 🗣 Commented on [#3980](https://github.com/QwenLM/qwen-code/pull/3980#issuecomment-4430199497) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-3. 🗣 Commented on [#3980](https://github.com/QwenLM/qwen-code/pull/3980#issuecomment-4429400122) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-4. 🎉 Merged PR [#4039](https://github.com/QwenLM/qwen-code/pull/4039) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-5. 🚀 Published release [Installer staging test (PR #3828)](https://github.com/yiliang114/qwen-code/releases/tag/v0.0.0-pr3828-test) in [yiliang114/qwen-code](https://github.com/yiliang114/qwen-code)
+1. 🗣 Commented on [#3828](https://github.com/QwenLM/qwen-code/pull/3828#issuecomment-4440489786) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+2. 🗣 Commented on [#4089](https://github.com/QwenLM/qwen-code/issues/4089#issuecomment-4430978550) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+3. 🗣 Commented on [#3980](https://github.com/QwenLM/qwen-code/pull/3980#issuecomment-4430199497) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+4. 🗣 Commented on [#3980](https://github.com/QwenLM/qwen-code/pull/3980#issuecomment-4429400122) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+5. 🎉 Merged PR [#4039](https://github.com/QwenLM/qwen-code/pull/4039) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
 
 <!--END_SECTION:activity-->
 
