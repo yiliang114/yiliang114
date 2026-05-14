@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#3828](https://github.com/QwenLM/qwen-code/pull/3828#issuecomment-4448010075) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-2. ❌ Closed PR [#4144](https://github.com/QwenLM/qwen-code/pull/4144) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-3. 🎉 Merged PR [#3980](https://github.com/QwenLM/qwen-code/pull/3980) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-4. ℹ️ Assigned issue [#4138](https://github.com/QwenLM/qwen-code/issues/4138) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-5. ℹ️ Assigned issue [#4136](https://github.com/QwenLM/qwen-code/issues/4136) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+1. 🗣 Commented on [#3828](https://github.com/QwenLM/qwen-code/pull/3828#issuecomment-4449453933) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+2. 🗣 Commented on [#4091](https://github.com/QwenLM/qwen-code/issues/4091#issuecomment-4449115224) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+3. 🗣 Commented on [#3828](https://github.com/QwenLM/qwen-code/pull/3828#issuecomment-4448010075) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+4. ❌ Closed PR [#4144](https://github.com/QwenLM/qwen-code/pull/4144) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+5. 🎉 Merged PR [#3980](https://github.com/QwenLM/qwen-code/pull/3980) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
 
 <!--END_SECTION:activity-->
 
