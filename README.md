@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled issue [#4363](https://github.com/QwenLM/qwen-code/issues/4363) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-2. ℹ️ Labeled issue [#4363](https://github.com/QwenLM/qwen-code/issues/4363) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-3. ℹ️ Labeled issue [#4363](https://github.com/QwenLM/qwen-code/issues/4363) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-4. ℹ️ Labeled issue [#4363](https://github.com/QwenLM/qwen-code/issues/4363) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-5. ℹ️ Labeled issue [#4363](https://github.com/QwenLM/qwen-code/issues/4363) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+1. ℹ️ Labeled PR [#3889](https://github.com/QwenLM/qwen-code/pull/3889) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+2. ℹ️ Labeled PR [#4113](https://github.com/QwenLM/qwen-code/pull/4113) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+3. ℹ️ Labeled PR [#4248](https://github.com/QwenLM/qwen-code/pull/4248) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+4. ℹ️ Labeled PR [#4268](https://github.com/QwenLM/qwen-code/pull/4268) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+5. ℹ️ Labeled PR [#4201](https://github.com/QwenLM/qwen-code/pull/4201) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
 
 <!--END_SECTION:activity-->
 
