@@ -1,29 +1,19 @@
-<p align="center">
-    <b><a href="https://yiliang.site">个人博客站点</a></b>
-    •
-    <b><a href="https://www.zhihu.com/people/Mrz2J">知乎</a></b>
-    •
-    <b><a href="https://juejin.im/user/2629687542813016">掘金</a></b>
-</p>
+### DataWorks · AI Coding · IDE  ·  @Alibaba
 
-### :accordion: [Recent Activity in the Cloud IDE](https://github.com/cloud-webide/.github)
+[yiliang.site](https://yiliang.site) · [知乎](https://www.zhihu.com/people/Mrz2J) · [掘金](https://juejin.im/user/2629687542813016)
 
-### :zap: Recent Activity
+**Currently** — contributing to [qwen-code](https://github.com/QwenLM/qwen-code), exploring AI × IDE
+
+#### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#4570](https://github.com/QwenLM/qwen-code/pull/4570) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-2. ℹ️ Labeled PR [#4570](https://github.com/QwenLM/qwen-code/pull/4570) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-3. 🗣 Commented on [#4570](https://github.com/QwenLM/qwen-code/pull/4570#issuecomment-4565744539) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-4. ℹ️ Labeled issue [#3004](https://github.com/QwenLM/qwen-code/issues/3004) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-5. ℹ️ Labeled issue [#3004](https://github.com/QwenLM/qwen-code/issues/3004) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+1. 💪 Opened PR [#4492](https://github.com/QwenLM/qwen-code/pull/4492) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+2. 💪 Opened PR [#4465](https://github.com/QwenLM/qwen-code/pull/4465) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+3. 💪 Opened PR [#4464](https://github.com/QwenLM/qwen-code/pull/4464) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+4. 🔒 Closed issue [#4378](https://github.com/QwenLM/qwen-code/issues/4378) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+5. 🗣 Commented on [#4570](https://github.com/QwenLM/qwen-code/pull/4570) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
 
 <!--END_SECTION:activity-->
 
-### 💻 Coding Time
-
-<img align="" width="57.5%" src="https://github-readme-stats.vercel.app/api?username=yiliang114&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=vue-dark&border_radius=0" /><img align="" width="42.4%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiliang114&hide_title=true&hide_border=true&layout=compact&theme=vue-dark&border_radius=0" />
-
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yiliang114" />
-</div>
+![](https://github-readme-activity-graph.vercel.app/graph?username=yiliang114&theme=minimal&hide_border=true)
