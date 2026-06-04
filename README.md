@@ -8,11 +8,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#4785](https://github.com/QwenLM/qwen-code/issues/4785) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-2. ❗ Opened issue [#4786](https://github.com/QwenLM/qwen-code/issues/4786) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-3. ℹ️ Labeled issue [#4786](https://github.com/QwenLM/qwen-code/issues/4786) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-4. ℹ️ Labeled issue [#4785](https://github.com/QwenLM/qwen-code/issues/4785) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-5. ℹ️ Labeled issue [#4786](https://github.com/QwenLM/qwen-code/issues/4786) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+1. ℹ️ Labeled issue [#4786](https://github.com/QwenLM/qwen-code/issues/4786) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+2. ❗ Opened issue [#4785](https://github.com/QwenLM/qwen-code/issues/4785) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+3. ❗ Opened issue [#4786](https://github.com/QwenLM/qwen-code/issues/4786) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+4. ℹ️ Labeled issue [#4786](https://github.com/QwenLM/qwen-code/issues/4786) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+5. ℹ️ Labeled issue [#4785](https://github.com/QwenLM/qwen-code/issues/4785) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
 
 <!--END_SECTION:activity-->
 
