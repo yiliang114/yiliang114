@@ -8,11 +8,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#5553](https://github.com/QwenLM/qwen-code/pull/5553) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-2. 💪 Opened PR [#5551](https://github.com/QwenLM/qwen-code/pull/5551) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-3. ℹ️ Assigned issue [#5570](https://github.com/QwenLM/qwen-code/issues/5570) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-4. ℹ️ Assigned issue [#5559](https://github.com/QwenLM/qwen-code/issues/5559) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-5. 💪 Opened PR [#5548](https://github.com/QwenLM/qwen-code/pull/5548) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+1. 💪 Opened PR [#5620](https://github.com/QwenLM/qwen-code/pull/5620) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+2. 💪 Opened PR [#5607](https://github.com/QwenLM/qwen-code/pull/5607) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+3. 💪 Opened PR [#5598](https://github.com/QwenLM/qwen-code/pull/5598) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+4. 💪 Opened PR [#5594](https://github.com/QwenLM/qwen-code/pull/5594) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+5. ℹ️ Assigned issue [#4584](https://github.com/QwenLM/qwen-code/issues/4584) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
 
 <!--END_SECTION:activity-->
 
