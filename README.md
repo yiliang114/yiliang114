@@ -8,8 +8,8 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#6720](https://github.com/QwenLM/qwen-code/pull/6720) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-2. ℹ️ Labeled issue [#6719](https://github.com/QwenLM/qwen-code/issues/6719) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+1. 🎉 Merged PR [#6720](https://github.com/QwenLM/qwen-code/pull/6720) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+2. 💪 Opened PR [#6720](https://github.com/QwenLM/qwen-code/pull/6720) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
 3. ℹ️ Labeled issue [#6719](https://github.com/QwenLM/qwen-code/issues/6719) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
 4. ℹ️ Labeled issue [#6719](https://github.com/QwenLM/qwen-code/issues/6719) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
 5. ℹ️ Labeled issue [#6719](https://github.com/QwenLM/qwen-code/issues/6719) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
