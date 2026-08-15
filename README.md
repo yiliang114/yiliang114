@@ -8,11 +8,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Assigned issue [#7427](https://github.com/QwenLM/qwen-code/issues/7427) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-2. ℹ️ Labeled issue [#7427](https://github.com/QwenLM/qwen-code/issues/7427) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-3. 🗣 Commented on [#7427](https://github.com/QwenLM/qwen-code/issues/7427#issuecomment-5302226426) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-4. 💪 Opened PR [#9227](https://github.com/QwenLM/qwen-code/pull/9227) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-5. ℹ️ Unassigned issue [#9224](https://github.com/QwenLM/qwen-code/issues/9224) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+1. ℹ️ Unassigned issue [#9209](https://github.com/QwenLM/qwen-code/issues/9209) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+2. ❌ Closed PR [#9223](https://github.com/QwenLM/qwen-code/pull/9223) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+3. ℹ️ Assigned issue [#7427](https://github.com/QwenLM/qwen-code/issues/7427) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+4. ℹ️ Labeled issue [#7427](https://github.com/QwenLM/qwen-code/issues/7427) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+5. 🗣 Commented on [#7427](https://github.com/QwenLM/qwen-code/issues/7427#issuecomment-5302226426) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
 
 <!--END_SECTION:activity-->
 
