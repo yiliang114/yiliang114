@@ -8,11 +8,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#9144](https://github.com/QwenLM/qwen-code/pull/9144#issuecomment-5332119796) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-2. 🗣 Commented on [#8938](https://github.com/QwenLM/qwen-code/pull/8938#issuecomment-5331585818) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-3. 💪 Opened PR [#9423](https://github.com/QwenLM/qwen-code/pull/9423) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-4. 🎉 Merged PR [#87](https://github.com/modelstudioai/openwork/pull/87) in [modelstudioai/openwork](https://github.com/modelstudioai/openwork)
-5. 💪 Opened PR [#87](https://github.com/modelstudioai/openwork/pull/87) in [modelstudioai/openwork](https://github.com/modelstudioai/openwork)
+1. ❌ Closed PR [#9429](https://github.com/QwenLM/qwen-code/pull/9429) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+2. 🗣 Commented on [#9429](https://github.com/QwenLM/qwen-code/pull/9429#issuecomment-5332922128) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+3. 🗣 Commented on [#9276](https://github.com/QwenLM/qwen-code/issues/9276#issuecomment-5332827326) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+4. 💪 Opened PR [#9429](https://github.com/QwenLM/qwen-code/pull/9429) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+5. 🗣 Commented on [#9361](https://github.com/QwenLM/qwen-code/pull/9361#issuecomment-5332798028) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
 
 <!--END_SECTION:activity-->
 
