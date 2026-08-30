@@ -25,11 +25,11 @@ From August 30, 2025 to August 30, 2026, I opened **767 pull requests** and comp
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#10556](https://github.com/QwenLM/qwen-code/pull/10556) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-2. 🗣 Commented on [#10555](https://github.com/QwenLM/qwen-code/issues/10555#issuecomment-5468032912) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-3. 🗣 Commented on [#9441](https://github.com/QwenLM/qwen-code/pull/9441#issuecomment-5467919947) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-4. 🗣 Commented on [#10420](https://github.com/QwenLM/qwen-code/pull/10420#issuecomment-5467901446) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-5. ❌ Closed PR [#10550](https://github.com/QwenLM/qwen-code/pull/10550) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+1. 🗣 Commented on [#10429](https://github.com/QwenLM/qwen-code/pull/10429#issuecomment-5469443039) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+2. 🎉 Merged PR [#10552](https://github.com/QwenLM/qwen-code/pull/10552) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+3. 🗣 Commented on [#10408](https://github.com/QwenLM/qwen-code/pull/10408#issuecomment-5469306083) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+4. 🗣 Commented on [#10552](https://github.com/QwenLM/qwen-code/pull/10552#issuecomment-5469177101) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+5. 🗣 Commented on [#10076](https://github.com/QwenLM/qwen-code/pull/10076#issuecomment-5469058092) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
 
 <!--END_SECTION:activity-->
 
