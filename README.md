@@ -8,11 +8,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#11441](https://github.com/QwenLM/qwen-code/pull/11441#issuecomment-5598415193) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-2. 🗣 Commented on [#11441](https://github.com/QwenLM/qwen-code/pull/11441#issuecomment-5598305271) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-3. 🗣 Commented on [#11380](https://github.com/QwenLM/qwen-code/pull/11380#issuecomment-5598186306) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-4. 🗣 Commented on [#11399](https://github.com/QwenLM/qwen-code/issues/11399#issuecomment-5598167200) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-5. 🗣 Commented on [#11062](https://github.com/QwenLM/qwen-code/pull/11062#issuecomment-5598076213) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+1. 🗣 Commented on [#11352](https://github.com/QwenLM/qwen-code/issues/11352#issuecomment-5602349953) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+2. 🗣 Commented on [#11303](https://github.com/QwenLM/qwen-code/issues/11303#issuecomment-5602343701) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+3. 🗣 Commented on [#965](https://github.com/microsoft/node-pty/issues/965#issuecomment-5602343565) in [microsoft/node-pty](https://github.com/microsoft/node-pty)
+4. ℹ️ Labeled issue [#11478](https://github.com/QwenLM/qwen-code/issues/11478) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+5. ℹ️ Labeled issue [#11478](https://github.com/QwenLM/qwen-code/issues/11478) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
 
 <!--END_SECTION:activity-->
 
