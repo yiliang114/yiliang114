@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **411** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 375 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 29 · [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) 6 · [harness-perf-benchmark](https://github.com/KonghaYao/harness-perf-benchmark) 1
+> 🟣 **411** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 375 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 29 · [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) 6 · +1 more
 
-1. 📝 Opened issue [#13148](https://github.com/QwenLM/qwen-code/issues/13148) LSP: surface not-ready/failed servers on the ten non-diagnostics query… · [qwen-code](https://github.com/QwenLM/qwen-code) · `10-01 18:32`
-2. 🔀 Opened PR [#13146](https://github.com/QwenLM/qwen-code/pull/13146) fix(serve): let Web Shell trust a workspace without a terminal · [qwen-code](https://github.com/QwenLM/qwen-code) · `10-01 18:16`
-3. 📝 Opened issue [#13143](https://github.com/QwenLM/qwen-code/issues/13143) LSP: extend query failure visibility beyond the diagnostics nothing-ret… · [qwen-code](https://github.com/QwenLM/qwen-code) · `10-01 17:45`
-4. 🔀 Opened PR [#13142](https://github.com/QwenLM/qwen-code/pull/13142) feat(managed-agent): store immutable AgentDefinition revisions (Stage D… · [qwen-code](https://github.com/QwenLM/qwen-code) · `10-01 17:14`
-5. 🟣 Merged PR [#13094](https://github.com/QwenLM/qwen-code/pull/13094) test(core): treat GitHub-hosted lanes as shared in the recall scan late… · [qwen-code](https://github.com/QwenLM/qwen-code) · `10-01 15:18`
+1. 🔀 Opened PR [#13154](https://github.com/QwenLM/qwen-code/pull/13154) fix(web-shell): stop the memory panel replacing a global QWEN.md it could not read · [qwen-code](https://github.com/QwenLM/qwen-code) · `10-01 20:19`
+2. 🔀 Opened PR [#315](https://github.com/QwenLM/qwen-code-docs/pull/315) fix(orchestrator): list new upstream pages in the nav during sync-en · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) · `10-01 20:07`
+3. 📝 Opened issue [#13148](https://github.com/QwenLM/qwen-code/issues/13148) LSP: surface not-ready/failed servers on the ten non-diagnostics query paths · [qwen-code](https://github.com/QwenLM/qwen-code) · `10-01 18:32`
+4. 🔀 Opened PR [#13146](https://github.com/QwenLM/qwen-code/pull/13146) fix(serve): let Web Shell trust a workspace without a terminal · [qwen-code](https://github.com/QwenLM/qwen-code) · `10-01 18:16`
+5. 📝 Opened issue [#13143](https://github.com/QwenLM/qwen-code/issues/13143) LSP: extend query failure visibility beyond the diagnostics nothing-retrieved guard · [qwen-code](https://github.com/QwenLM/qwen-code) · `10-01 17:45`
 
 <!--END_SECTION:activity-->
 
