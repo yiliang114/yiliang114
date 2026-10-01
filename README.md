@@ -8,11 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#13094](https://github.com/QwenLM/qwen-code/pull/13094) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-2. 🗣 Commented on [#12582](https://github.com/QwenLM/qwen-code/pull/12582#issuecomment-5926562535) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-3. 🗣 Commented on [#12867](https://github.com/QwenLM/qwen-code/issues/12867#issuecomment-5925035313) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-4. 🗣 Commented on [#13020](https://github.com/QwenLM/qwen-code/pull/13020#issuecomment-5926311623) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-5. 🎉 Merged PR [#13127](https://github.com/QwenLM/qwen-code/pull/13127) in [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+> 🟣 **411** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 375 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 29 · [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) 6 · [harness-perf-benchmark](https://github.com/KonghaYao/harness-perf-benchmark) 1
+
+1. 📝 Opened issue [#13148](https://github.com/QwenLM/qwen-code/issues/13148) LSP: surface not-ready/failed servers on the ten non-diagnostics query… · [qwen-code](https://github.com/QwenLM/qwen-code) · `10-01 18:32`
+2. 🔀 Opened PR [#13146](https://github.com/QwenLM/qwen-code/pull/13146) fix(serve): let Web Shell trust a workspace without a terminal · [qwen-code](https://github.com/QwenLM/qwen-code) · `10-01 18:16`
+3. 📝 Opened issue [#13143](https://github.com/QwenLM/qwen-code/issues/13143) LSP: extend query failure visibility beyond the diagnostics nothing-ret… · [qwen-code](https://github.com/QwenLM/qwen-code) · `10-01 17:45`
+4. 🔀 Opened PR [#13142](https://github.com/QwenLM/qwen-code/pull/13142) feat(managed-agent): store immutable AgentDefinition revisions (Stage D… · [qwen-code](https://github.com/QwenLM/qwen-code) · `10-01 17:14`
+5. 🟣 Merged PR [#13094](https://github.com/QwenLM/qwen-code/pull/13094) test(core): treat GitHub-hosted lanes as shared in the recall scan late… · [qwen-code](https://github.com/QwenLM/qwen-code) · `10-01 15:18`
 
 <!--END_SECTION:activity-->
 
