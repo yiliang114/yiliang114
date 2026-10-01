@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **411** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 375 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 29 · [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) 6 · +1 more
+> 🟣 **416** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 379 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 30 · [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) 6 · +1 more
 
-1. 🔀 Opened PR [#13154](https://github.com/QwenLM/qwen-code/pull/13154) fix(web-shell): stop the memory panel replacing a global QWEN.md it could not read · [qwen-code](https://github.com/QwenLM/qwen-code) · `10-01 20:19`
-2. 🔀 Opened PR [#315](https://github.com/QwenLM/qwen-code-docs/pull/315) fix(orchestrator): list new upstream pages in the nav during sync-en · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) · `10-01 20:07`
-3. 📝 Opened issue [#13148](https://github.com/QwenLM/qwen-code/issues/13148) LSP: surface not-ready/failed servers on the ten non-diagnostics query paths · [qwen-code](https://github.com/QwenLM/qwen-code) · `10-01 18:32`
-4. 🔀 Opened PR [#13146](https://github.com/QwenLM/qwen-code/pull/13146) fix(serve): let Web Shell trust a workspace without a terminal · [qwen-code](https://github.com/QwenLM/qwen-code) · `10-01 18:16`
-5. 📝 Opened issue [#13143](https://github.com/QwenLM/qwen-code/issues/13143) LSP: extend query failure visibility beyond the diagnostics nothing-retrieved guard · [qwen-code](https://github.com/QwenLM/qwen-code) · `10-01 17:45`
+1. 🔀 Opened PR [#13172](https://github.com/QwenLM/qwen-code/pull/13172) fix(ci): bound hosted browser dependency installation · `10-02 01:55`
+2. 🔀 Opened PR [#13168](https://github.com/QwenLM/qwen-code/pull/13168) feat(managed-agent): give Hosted turns the Workspace's project context · `10-01 23:40`
+3. 🔀 Opened PR [#13166](https://github.com/QwenLM/qwen-code/pull/13166) feat(managed-agent): admit glob in new hosted-workspace /2 profiles · `10-01 23:05`
+4. 🔀 Opened PR [#13165](https://github.com/QwenLM/qwen-code/pull/13165) fix(web-shell): stop offering a Managed approval the viewer cannot answer · `10-01 23:05`
+5. ✅ Closed issue [#12569](https://github.com/QwenLM/qwen-code/issues/12569) Deferred-tool bridge: a hidden tool whose schema left context via /compress is still… · `10-01 22:46`
 
 <!--END_SECTION:activity-->
 
