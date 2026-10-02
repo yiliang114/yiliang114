@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **409** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 373 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 29 · [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) 6 · +1 more
+> 🟣 **415** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 379 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 29 · [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) 6 · +1 more
 
-1. ✅ Closed issue [#13100](https://github.com/QwenLM/qwen-code/issues/13100) fix(web-shell): memory panel User tab can silently replace the global QWEN.md · `10-02 18:43`
-2. 🟣 Merged PR [#13154](https://github.com/QwenLM/qwen-code/pull/13154) fix(web-shell): stop the memory panel replacing a global QWEN.md it could not read · `10-02 18:43`
-3. 🟣 Merged PR [#13172](https://github.com/QwenLM/qwen-code/pull/13172) fix(ci): stabilize hosted browser smoke gates · `10-02 14:36`
-4. 🟣 Merged PR [#13155](https://github.com/QwenLM/qwen-code/pull/13155) chore: drop the unanchored workspace/ ignore rule that hides web-shell sources · `10-02 11:34`
-5. 🟣 Merged PR [#13020](https://github.com/QwenLM/qwen-code/pull/13020) fix(core): deferred-tool selection rules in the reminder line and a reviewed-schema gate… · `10-01 22:46`
+1. 🔀 Opened PR [#13244](https://github.com/QwenLM/qwen-code/pull/13244) fix(core): budget side-query output tokens against the resolved context window · `10-03 02:15`
+2. 🟣 Merged PR [#12982](https://github.com/QwenLM/qwen-code/pull/12982) fix(core): stop misdiagnosing malformed tool-call args as max\_tokens truncation · `10-03 01:12`
+3. 🔀 Opened PR [#13241](https://github.com/QwenLM/qwen-code/pull/13241) fix(agents): distinguish accepted Host results from terminal runs · `10-03 00:32`
+4. 🔀 Opened PR [#13240](https://github.com/QwenLM/qwen-code/pull/13240) fix(memory): preserve Markdown emphasis style during extraction · `10-03 00:24`
+5. 🟣 Merged PR [#13142](https://github.com/QwenLM/qwen-code/pull/13142) feat(managed-agent): store immutable AgentDefinition revisions (Stage D8a) · `10-03 00:00`
 
 <!--END_SECTION:activity-->
 
