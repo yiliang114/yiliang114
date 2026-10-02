@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **407** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 371 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 29 · [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) 6 · +1 more
+> 🟣 **409** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 373 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 29 · [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) 6 · +1 more
 
-1. 🟣 Merged PR [#13155](https://github.com/QwenLM/qwen-code/pull/13155) chore: drop the unanchored workspace/ ignore rule that hides web-shell sources · `10-02 11:34`
-2. 🔀 Opened PR [#13192](https://github.com/QwenLM/qwen-code/pull/13192) fix(managed-agent): Preserve writer and publication epoch deadlines · `10-02 08:50`
-3. 📝 Opened issue [#13191](https://github.com/QwenLM/qwen-code/issues/13191) Follow-up: AgentDefinition review deferrals from PR #13142 · `10-02 08:37`
-4. 📝 Opened issue [#13190](https://github.com/QwenLM/qwen-code/issues/13190) Deferred review findings from PR #13158: memory extraction cooldown / recall selector… · `10-02 08:10`
-5. 📝 Opened issue [#13186](https://github.com/QwenLM/qwen-code/issues/13186) Follow-up: workspace-trust grant review deferrals from PR #13146 · `10-02 07:29`
+1. ✅ Closed issue [#13100](https://github.com/QwenLM/qwen-code/issues/13100) fix(web-shell): memory panel User tab can silently replace the global QWEN.md · `10-02 18:43`
+2. 🟣 Merged PR [#13154](https://github.com/QwenLM/qwen-code/pull/13154) fix(web-shell): stop the memory panel replacing a global QWEN.md it could not read · `10-02 18:43`
+3. 🟣 Merged PR [#13172](https://github.com/QwenLM/qwen-code/pull/13172) fix(ci): stabilize hosted browser smoke gates · `10-02 14:36`
+4. 🟣 Merged PR [#13155](https://github.com/QwenLM/qwen-code/pull/13155) chore: drop the unanchored workspace/ ignore rule that hides web-shell sources · `10-02 11:34`
+5. 🟣 Merged PR [#13020](https://github.com/QwenLM/qwen-code/pull/13020) fix(core): deferred-tool selection rules in the reminder line and a reviewed-schema gate… · `10-01 22:46`
 
 <!--END_SECTION:activity-->
 
