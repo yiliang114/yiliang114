@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **416** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 379 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 30 · [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) 6 · +1 more
+> 🟣 **407** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 371 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 29 · [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) 6 · +1 more
 
-1. 🔀 Opened PR [#13172](https://github.com/QwenLM/qwen-code/pull/13172) fix(ci): bound hosted browser dependency installation · `10-02 01:55`
-2. 🔀 Opened PR [#13168](https://github.com/QwenLM/qwen-code/pull/13168) feat(managed-agent): give Hosted turns the Workspace's project context · `10-01 23:40`
-3. 🔀 Opened PR [#13166](https://github.com/QwenLM/qwen-code/pull/13166) feat(managed-agent): admit glob in new hosted-workspace /2 profiles · `10-01 23:05`
-4. 🔀 Opened PR [#13165](https://github.com/QwenLM/qwen-code/pull/13165) fix(web-shell): stop offering a Managed approval the viewer cannot answer · `10-01 23:05`
-5. ✅ Closed issue [#12569](https://github.com/QwenLM/qwen-code/issues/12569) Deferred-tool bridge: a hidden tool whose schema left context via /compress is still… · `10-01 22:46`
+1. 🟣 Merged PR [#13155](https://github.com/QwenLM/qwen-code/pull/13155) chore: drop the unanchored workspace/ ignore rule that hides web-shell sources · `10-02 11:34`
+2. 🔀 Opened PR [#13192](https://github.com/QwenLM/qwen-code/pull/13192) fix(managed-agent): Preserve writer and publication epoch deadlines · `10-02 08:50`
+3. 📝 Opened issue [#13191](https://github.com/QwenLM/qwen-code/issues/13191) Follow-up: AgentDefinition review deferrals from PR #13142 · `10-02 08:37`
+4. 📝 Opened issue [#13190](https://github.com/QwenLM/qwen-code/issues/13190) Deferred review findings from PR #13158: memory extraction cooldown / recall selector… · `10-02 08:10`
+5. 📝 Opened issue [#13186](https://github.com/QwenLM/qwen-code/issues/13186) Follow-up: workspace-trust grant review deferrals from PR #13146 · `10-02 07:29`
 
 <!--END_SECTION:activity-->
 
