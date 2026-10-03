@@ -10,11 +10,11 @@
 
 > 🟣 **402** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 366 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 29 · [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) 6 · +1 more
 
-1. 🟣 Merged PR [#13192](https://github.com/QwenLM/qwen-code/pull/13192) fix(managed-agent): Preserve writer and publication epoch deadlines · `10-03 11:46`
-2. 🟣 Merged PR [#13112](https://github.com/QwenLM/qwen-code/pull/13112) feat(managed-agent): let a Workspace-bound Session's creator submit, cancel and rename · `10-03 09:42`
-3. 🟣 Merged PR [#13240](https://github.com/QwenLM/qwen-code/pull/13240) fix(memory): preserve Markdown emphasis style during extraction · `10-03 09:25`
-4. 📝 Opened issue [#13253](https://github.com/QwenLM/qwen-code/issues/13253) fix(core): the four new \`toolSearchBridgeSentence\` sites emit the bridge sentence… · `10-03 08:43`
-5. 📝 Opened issue [#13252](https://github.com/QwenLM/qwen-code/issues/13252) Main-turn output clamp can exceed a user-configured small context window… · `10-03 08:41`
+1. 📝 Opened issue [#13271](https://github.com/QwenLM/qwen-code/issues/13271) feat(managed-agent): admit the foreground Shell profile for public Workspace Sessions · `10-03 17:31`
+2. 🔀 Opened PR [#13270](https://github.com/QwenLM/qwen-code/pull/13270) fix(ci): raise serve-ab handshake budget, report dead CodeQL nightlies, route trusted PR… · `10-03 17:31`
+3. 📝 Opened issue [#13269](https://github.com/QwenLM/qwen-code/issues/13269) fix(managed-agent): #13163 follow-ups: cold-cache cancel and deferred review suggestions · `10-03 17:19`
+4. 🔀 Opened PR [#13262](https://github.com/QwenLM/qwen-code/pull/13262) fix(web-shell): defer composer tag root unmount at all three sites · `10-03 16:00`
+5. 🟣 Merged PR [#13192](https://github.com/QwenLM/qwen-code/pull/13192) fix(managed-agent): Preserve writer and publication epoch deadlines · `10-03 11:46`
 
 <!--END_SECTION:activity-->
 
