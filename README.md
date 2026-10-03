@@ -10,11 +10,11 @@
 
 > 🟣 **405** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 369 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 29 · [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) 6 · +1 more
 
-1. 🔀 Opened PR [#13308](https://github.com/QwenLM/qwen-code/pull/13308) fix(ci): use non-cone sparse checkout for individual files · `10-03 23:24`
-2. 📝 Opened issue [#13303](https://github.com/QwenLM/qwen-code/issues/13303) docs(mcp): document the restrictive registered-prefix fallback and the legacy long-name… · `10-03 23:06`
-3. 🔀 Opened PR [#13301](https://github.com/QwenLM/qwen-code/pull/13301) feat(managed-agent): persist Workspace session tool profiles · `10-03 22:46`
-4. ✅ Closed issue [#13252](https://github.com/QwenLM/qwen-code/issues/13252) Main-turn output clamp can exceed a user-configured small context window… · `10-03 22:10`
-5. 🟣 Merged PR [#13286](https://github.com/QwenLM/qwen-code/pull/13286) fix(core): cap the main-turn output clamp floor by the remaining window · `10-03 22:10`
+1. 📝 Opened issue [#13338](https://github.com/QwenLM/qwen-code/issues/13338) contextWindowSize survives a model change when the target's registry entry declares none… · `10-04 04:21`
+2. 🔀 Opened PR [#13324](https://github.com/QwenLM/qwen-code/pull/13324) fix(core): preserve original Code Mode Goal evidence · `10-04 01:23`
+3. 📝 Opened issue [#13321](https://github.com/QwenLM/qwen-code/issues/13321) Bound successful read-only exploration when an implementation task makes no progress · `10-04 00:54`
+4. 📝 Opened issue [#13317](https://github.com/QwenLM/qwen-code/issues/13317) Add /目标 as a Chinese alias for /goal · `10-04 00:46`
+5. 🔀 Opened PR [#13308](https://github.com/QwenLM/qwen-code/pull/13308) fix(ci): use non-cone sparse checkout for individual files · `10-03 23:24`
 
 <!--END_SECTION:activity-->
 
