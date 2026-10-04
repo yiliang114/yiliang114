@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **405** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 369 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 29 · [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) 6 · +1 more
+> 🟣 **390** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 354 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 29 · [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) 6 · +1 more
 
-1. 📝 Opened issue [#13338](https://github.com/QwenLM/qwen-code/issues/13338) contextWindowSize survives a model change when the target's registry entry declares none… · `10-04 04:21`
-2. 🔀 Opened PR [#13324](https://github.com/QwenLM/qwen-code/pull/13324) fix(core): preserve original Code Mode Goal evidence · `10-04 01:23`
-3. 📝 Opened issue [#13321](https://github.com/QwenLM/qwen-code/issues/13321) Bound successful read-only exploration when an implementation task makes no progress · `10-04 00:54`
-4. 📝 Opened issue [#13317](https://github.com/QwenLM/qwen-code/issues/13317) Add /目标 as a Chinese alias for /goal · `10-04 00:46`
-5. 🔀 Opened PR [#13308](https://github.com/QwenLM/qwen-code/pull/13308) fix(ci): use non-cone sparse checkout for individual files · `10-03 23:24`
+1. 📝 Opened issue [#13364](https://github.com/QwenLM/qwen-code/issues/13364) Hosted Workspace context: PR #13168 round-5 review follow-ups — 11 standing Suggestions · `10-04 12:16`
+2. 📝 Opened issue [#13360](https://github.com/QwenLM/qwen-code/issues/13360) Goal verifier treats aggregate wrapper results (agent/advisor/workflow/thread\_read) as… · `10-04 10:19`
+3. 📝 Opened issue [#13338](https://github.com/QwenLM/qwen-code/issues/13338) contextWindowSize survives a model change when the target's registry entry declares none… · `10-04 04:21`
+4. 🟣 Merged PR [#13286](https://github.com/QwenLM/qwen-code/pull/13286) fix(core): cap the main-turn output clamp floor by the remaining window · `10-03 22:10`
+5. 🟣 Merged PR [#13270](https://github.com/QwenLM/qwen-code/pull/13270) fix(ci): raise serve-ab handshake budget, report dead CodeQL nightlies, route trusted PR… · `10-03 21:48`
 
 <!--END_SECTION:activity-->
 
