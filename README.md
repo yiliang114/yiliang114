@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **396** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 360 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 29 · [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) 6 · +1 more
+> 🟣 **400** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 364 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 29 · [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) 6 · +1 more
 
-1. ✅ Closed issue [#13130](https://github.com/QwenLM/qwen-code/issues/13130) Qwen Code Desktop became unusable for me because every workspace suddenly turned untrusted · `10-04 16:35`
-2. 🟣 Merged PR [#13146](https://github.com/QwenLM/qwen-code/pull/13146) fix(serve): let Web Shell trust a workspace without a terminal · `10-04 16:35`
-3. 📝 Opened issue [#13386](https://github.com/QwenLM/qwen-code/issues/13386) test(managed-agent): HarnessCoordinatorTest 'retry' case asserts an exact cancel count… · `10-04 16:22`
-4. ✅ Closed issue [#13239](https://github.com/QwenLM/qwen-code/issues/13239) /context estimate can account for more tokens than the context window · `10-04 16:08`
-5. 🔀 Opened PR [#13385](https://github.com/QwenLM/qwen-code/pull/13385) test(integration): recognize sealed writer renewals in crash gate · `10-04 16:06`
+1. 📝 Opened issue [#13412](https://github.com/QwenLM/qwen-code/issues/13412) Deferred review finding from PR #12531: attribute an MCP permission rule to its server… · `10-05 04:55`
+2. 🔀 Opened PR [#13407](https://github.com/QwenLM/qwen-code/pull/13407) feat(hosted): show captured inputs in native approval cards · `10-05 02:31`
+3. 🔀 Opened PR [#13406](https://github.com/QwenLM/qwen-code/pull/13406) fix(cli): deny outside Host tools before permission handling · `10-05 02:30`
+4. 🟣 Merged PR [#13380](https://github.com/QwenLM/qwen-code/pull/13380) test: fix hosted crash fencing and approval waits · `10-05 01:51`
+5. 🟣 Merged PR [#13324](https://github.com/QwenLM/qwen-code/pull/13324) fix(core): preserve original Code Mode Goal evidence · `10-05 00:49`
 
 <!--END_SECTION:activity-->
 
