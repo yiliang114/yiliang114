@@ -10,11 +10,11 @@
 
 > 🟣 **394** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 358 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 29 · [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) 6 · +1 more
 
-1. 📝 Opened issue [#13459](https://github.com/QwenLM/qwen-code/issues/13459) follow-up(extensions): surface the reason when an extension update check fails · `10-05 21:51`
-2. 🔀 Opened PR [#13455](https://github.com/QwenLM/qwen-code/pull/13455) feat(cli): add Chinese alias for Goal commands · `10-05 20:04`
-3. ✅ Closed issue [#13122](https://github.com/QwenLM/qwen-code/issues/13122) agent hosts: re-enrollment after a 401 leaves the stale host row with a still-valid… · `10-05 19:27`
-4. 🟣 Merged PR [#13430](https://github.com/QwenLM/qwen-code/pull/13430) fix(agents): replace selected remote Hosts without losing bindings · `10-05 19:27`
-5. 🔀 Opened PR [#13454](https://github.com/QwenLM/qwen-code/pull/13454) fix(core): pin GIT\_TERMINAL\_PROMPT in the extension git client · `10-05 19:25`
+1. 🔀 Opened PR [#13482](https://github.com/QwenLM/qwen-code/pull/13482) fix(channel-weixin): send iLink headers when minting the login QR code · `10-06 07:09`
+2. 📝 Opened issue [#13478](https://github.com/QwenLM/qwen-code/issues/13478) test(core,cli,acp): pin the cancellation-recovery invariants left unwitnessed by #13436 · `10-06 04:42`
+3. 📝 Opened issue [#13477](https://github.com/QwenLM/qwen-code/issues/13477) security: \`memory.agentMaxTurns\` / \`agentTimeoutMinutes\` are honored from Workspace… · `10-06 04:37`
+4. ✅ Closed issue [#10004](https://github.com/QwenLM/qwen-code/issues/10004) 🎉 #10000 — What 10,000 issues and PRs say about Qwen Code · `10-06 01:02`
+5. 🔀 Opened PR [#13467](https://github.com/QwenLM/qwen-code/pull/13467) feat(agents): session-centric multi-agent collaboration · `10-06 00:33`
 
 <!--END_SECTION:activity-->
 
