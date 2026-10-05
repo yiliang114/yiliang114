@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **400** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 364 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 29 · [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) 6 · +1 more
+> 🟣 **391** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 355 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 29 · [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) 6 · +1 more
 
-1. 📝 Opened issue [#13412](https://github.com/QwenLM/qwen-code/issues/13412) Deferred review finding from PR #12531: attribute an MCP permission rule to its server… · `10-05 04:55`
-2. 🔀 Opened PR [#13407](https://github.com/QwenLM/qwen-code/pull/13407) feat(hosted): show captured inputs in native approval cards · `10-05 02:31`
-3. 🔀 Opened PR [#13406](https://github.com/QwenLM/qwen-code/pull/13406) fix(cli): deny outside Host tools before permission handling · `10-05 02:30`
-4. 🟣 Merged PR [#13380](https://github.com/QwenLM/qwen-code/pull/13380) test: fix hosted crash fencing and approval waits · `10-05 01:51`
-5. 🟣 Merged PR [#13324](https://github.com/QwenLM/qwen-code/pull/13324) fix(core): preserve original Code Mode Goal evidence · `10-05 00:49`
+1. 📝 Opened issue [#13432](https://github.com/QwenLM/qwen-code/issues/13432) compaction: the server-reported context ceiling is parsed then dropped, so reactive… · `10-05 12:49`
+2. 🔀 Opened PR [#13430](https://github.com/QwenLM/qwen-code/pull/13430) fix(agents): replace selected remote Hosts without losing bindings · `10-05 11:58`
+3. 🔀 Opened PR [#13429](https://github.com/QwenLM/qwen-code/pull/13429) feat(scripts): profile token cost and tool recall from a telemetry outfile · `10-05 11:40`
+4. 📝 Opened issue [#13426](https://github.com/QwenLM/qwen-code/issues/13426) feat(hosted): read linked dependencies outside the Session directory safely · `10-05 11:11`
+5. 📝 Opened issue [#13422](https://github.com/QwenLM/qwen-code/issues/13422) Hosted Action input preview: obligations for the version-2 producer stage (follow-up to… · `10-05 10:15`
 
 <!--END_SECTION:activity-->
 
