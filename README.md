@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **391** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 355 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 29 · [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) 6 · +1 more
+> 🟣 **394** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 358 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 29 · [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) 6 · +1 more
 
-1. 📝 Opened issue [#13432](https://github.com/QwenLM/qwen-code/issues/13432) compaction: the server-reported context ceiling is parsed then dropped, so reactive… · `10-05 12:49`
-2. 🔀 Opened PR [#13430](https://github.com/QwenLM/qwen-code/pull/13430) fix(agents): replace selected remote Hosts without losing bindings · `10-05 11:58`
-3. 🔀 Opened PR [#13429](https://github.com/QwenLM/qwen-code/pull/13429) feat(scripts): profile token cost and tool recall from a telemetry outfile · `10-05 11:40`
-4. 📝 Opened issue [#13426](https://github.com/QwenLM/qwen-code/issues/13426) feat(hosted): read linked dependencies outside the Session directory safely · `10-05 11:11`
-5. 📝 Opened issue [#13422](https://github.com/QwenLM/qwen-code/issues/13422) Hosted Action input preview: obligations for the version-2 producer stage (follow-up to… · `10-05 10:15`
+1. 📝 Opened issue [#13459](https://github.com/QwenLM/qwen-code/issues/13459) follow-up(extensions): surface the reason when an extension update check fails · `10-05 21:51`
+2. 🔀 Opened PR [#13455](https://github.com/QwenLM/qwen-code/pull/13455) feat(cli): add Chinese alias for Goal commands · `10-05 20:04`
+3. ✅ Closed issue [#13122](https://github.com/QwenLM/qwen-code/issues/13122) agent hosts: re-enrollment after a 401 leaves the stale host row with a still-valid… · `10-05 19:27`
+4. 🟣 Merged PR [#13430](https://github.com/QwenLM/qwen-code/pull/13430) fix(agents): replace selected remote Hosts without losing bindings · `10-05 19:27`
+5. 🔀 Opened PR [#13454](https://github.com/QwenLM/qwen-code/pull/13454) fix(core): pin GIT\_TERMINAL\_PROMPT in the extension git client · `10-05 19:25`
 
 <!--END_SECTION:activity-->
 
