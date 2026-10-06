@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **388** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 352 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 29 · [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) 6 · +1 more
+> 🟣 **394** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 358 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 29 · [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) 6 · +1 more
 
-1. 🟣 Merged PR [#12531](https://github.com/QwenLM/qwen-code/pull/12531) fix(core): stop MCP server rules from authorizing a colliding server · `10-06 18:53`
-2. ✅ Closed issue [#13458](https://github.com/QwenLM/qwen-code/issues/13458) memory.agentMaxTurns ignored by user-scoped memory dream (hardcoded maxTurns = 8) · `10-06 17:00`
-3. 🟣 Merged PR [#13462](https://github.com/QwenLM/qwen-code/pull/13462) fix(core): honor memory.agentMaxTurns in the user-scoped memory dream · `10-06 17:00`
-4. 🟣 Merged PR [#13437](https://github.com/QwenLM/qwen-code/pull/13437) fix(core): recover function-style XML tool calls · `10-06 17:00`
-5. 🔀 Opened PR [#13508](https://github.com/QwenLM/qwen-code/pull/13508) fix(cli): never honor memory agent budgets from workspace scope · `10-06 16:10`
+1. 🔀 Opened PR [#13539](https://github.com/QwenLM/qwen-code/pull/13539) test(core): pin the limit-less alias shape the models.dev projection ships · `10-07 04:16`
+2. 📝 Opened issue [#13538](https://github.com/QwenLM/qwen-code/issues/13538) Side-query truncation is indistinguishable from success: generateText drops… · `10-07 04:01`
+3. 🔀 Opened PR [#13530](https://github.com/QwenLM/qwen-code/pull/13530) docs(managed-agent): design AgentDefinition execution (D8b and D8c) · `10-07 02:20`
+4. ✅ Closed issue [#13527](https://github.com/QwenLM/qwen-code/issues/13527) LSP diagnostics: a partial extensionToLanguage mapping promotes one recognizable key to… · `10-07 02:15`
+5. 📝 Opened issue [#13528](https://github.com/QwenLM/qwen-code/issues/13528) Deferred review findings from PR #13244 (side-query output budget): fabricated window… · `10-07 01:42`
 
 <!--END_SECTION:activity-->
 
