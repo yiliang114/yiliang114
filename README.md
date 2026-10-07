@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **394** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 358 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 29 · [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) 6 · +1 more
+> 🟣 **375** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 339 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 29 · [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) 6 · +1 more
 
-1. 🔀 Opened PR [#13539](https://github.com/QwenLM/qwen-code/pull/13539) test(core): pin the limit-less alias shape the models.dev projection ships · `10-07 04:16`
-2. 📝 Opened issue [#13538](https://github.com/QwenLM/qwen-code/issues/13538) Side-query truncation is indistinguishable from success: generateText drops… · `10-07 04:01`
-3. 🔀 Opened PR [#13530](https://github.com/QwenLM/qwen-code/pull/13530) docs(managed-agent): design AgentDefinition execution (D8b and D8c) · `10-07 02:20`
-4. ✅ Closed issue [#13527](https://github.com/QwenLM/qwen-code/issues/13527) LSP diagnostics: a partial extensionToLanguage mapping promotes one recognizable key to… · `10-07 02:15`
-5. 📝 Opened issue [#13528](https://github.com/QwenLM/qwen-code/issues/13528) Deferred review findings from PR #13244 (side-query output budget): fabricated window… · `10-07 01:42`
+1. ✅ Closed issue [#13161](https://github.com/QwenLM/qwen-code/issues/13161) Deferred review findings from PR #13005: test(integration): deflake the monitor tool… · `10-07 13:07`
+2. 📝 Opened issue [#13566](https://github.com/QwenLM/qwen-code/issues/13566) web-shell: approval card leaves sibling model-supplied text unsanitised, and the command… · `10-07 12:37`
+3. ✅ Closed issue [#12470](https://github.com/QwenLM/qwen-code/issues/12470) maxParallelAgentsByModel is ignored for foreground agents (a skill can bypass the limit) · `10-07 12:37`
+4. 📝 Opened issue [#13564](https://github.com/QwenLM/qwen-code/issues/13564) feat(managed-agent): invalidate the Hosted Workspace context cache when the directory or… · `10-07 12:19`
+5. 🟣 Merged PR [#13244](https://github.com/QwenLM/qwen-code/pull/13244) fix(core): budget side-query output tokens against the resolved context window · `10-07 12:16`
 
 <!--END_SECTION:activity-->
 
