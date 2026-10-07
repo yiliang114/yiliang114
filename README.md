@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **376** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 340 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 29 · [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) 6 · +1 more
+> 🟣 **380** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 344 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 29 · [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) 6 · +1 more
 
-1. 🔀 Opened PR [#13601](https://github.com/QwenLM/qwen-code/pull/13601) feat(core): add a convergence reminder for read-only exploration · `10-07 20:45`
-2. 🔀 Opened PR [#13600](https://github.com/QwenLM/qwen-code/pull/13600) fix(core): suppress trailing orphan thinking tags in prose · `10-07 20:01`
-3. 🔀 Opened PR [#13599](https://github.com/QwenLM/qwen-code/pull/13599) feat(core): adapt tool output budgets and measure injected results · `10-07 19:25`
-4. 🔀 Opened PR [#13594](https://github.com/QwenLM/qwen-code/pull/13594) fix(web-shell): allow deleting queued prompts during admission · `10-07 17:56`
-5. ✅ Closed issue [#13317](https://github.com/QwenLM/qwen-code/issues/13317) Add /目标 as a Chinese alias for /goal · `10-07 17:10`
+1. 🔀 Opened PR [#13624](https://github.com/QwenLM/qwen-code/pull/13624) fix(core): tell the parent model why a foreground subagent stopped · `10-08 01:29`
+2. 🟣 Merged PR [#13609](https://github.com/QwenLM/qwen-code/pull/13609) fix(web-shell): follow an accepted approval answer to its terminal operation · `10-08 00:43`
+3. 🟣 Merged PR [#13605](https://github.com/QwenLM/qwen-code/pull/13605) fix(serve): invalidate the Hosted Workspace context on instruction-file changes · `10-08 00:43`
+4. ✅ Closed issue [#11507](https://github.com/QwenLM/qwen-code/issues/11507) Deferred review findings from PR #11289: fix(web-shell): keep mid-turn messages the… · `10-08 00:40`
+5. 🟣 Merged PR [#13594](https://github.com/QwenLM/qwen-code/pull/13594) fix(web-shell): allow deleting queued prompts during admission · `10-08 00:40`
 
 <!--END_SECTION:activity-->
 
