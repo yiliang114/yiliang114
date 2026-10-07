@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **375** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 339 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 29 · [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) 6 · +1 more
+> 🟣 **376** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 340 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 29 · [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) 6 · +1 more
 
-1. ✅ Closed issue [#13161](https://github.com/QwenLM/qwen-code/issues/13161) Deferred review findings from PR #13005: test(integration): deflake the monitor tool… · `10-07 13:07`
-2. 📝 Opened issue [#13566](https://github.com/QwenLM/qwen-code/issues/13566) web-shell: approval card leaves sibling model-supplied text unsanitised, and the command… · `10-07 12:37`
-3. ✅ Closed issue [#12470](https://github.com/QwenLM/qwen-code/issues/12470) maxParallelAgentsByModel is ignored for foreground agents (a skill can bypass the limit) · `10-07 12:37`
-4. 📝 Opened issue [#13564](https://github.com/QwenLM/qwen-code/issues/13564) feat(managed-agent): invalidate the Hosted Workspace context cache when the directory or… · `10-07 12:19`
-5. 🟣 Merged PR [#13244](https://github.com/QwenLM/qwen-code/pull/13244) fix(core): budget side-query output tokens against the resolved context window · `10-07 12:16`
+1. 🔀 Opened PR [#13601](https://github.com/QwenLM/qwen-code/pull/13601) feat(core): add a convergence reminder for read-only exploration · `10-07 20:45`
+2. 🔀 Opened PR [#13600](https://github.com/QwenLM/qwen-code/pull/13600) fix(core): suppress trailing orphan thinking tags in prose · `10-07 20:01`
+3. 🔀 Opened PR [#13599](https://github.com/QwenLM/qwen-code/pull/13599) feat(core): adapt tool output budgets and measure injected results · `10-07 19:25`
+4. 🔀 Opened PR [#13594](https://github.com/QwenLM/qwen-code/pull/13594) fix(web-shell): allow deleting queued prompts during admission · `10-07 17:56`
+5. ✅ Closed issue [#13317](https://github.com/QwenLM/qwen-code/issues/13317) Add /目标 as a Chinese alias for /goal · `10-07 17:10`
 
 <!--END_SECTION:activity-->
 
