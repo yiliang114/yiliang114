@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **344** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 316 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 20 · [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) 6 · +2 more
+> 🟣 **348** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 319 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 20 · [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) 6 · +3 more
 
-1. 🔀 Opened PR [#1415](https://github.com/morluto/rea/pull/1415) feat(clients): register Qwen Code during setup · [rea](https://github.com/morluto/rea) · `10-10 11:24`
-2. ✅ Closed issue [#13775](https://github.com/QwenLM/qwen-code/issues/13775) Main CI failed: Qwen Code CI — src/serve/managed-runtime-container.test.ts \> … \> wires… · [qwen-code](https://github.com/QwenLM/qwen-code) · `10-10 11:13`
-3. 📝 Opened issue [#1409](https://github.com/morluto/rea/issues/1409) \[Feature\] Support Qwen Code in rea setup client integrations · [rea](https://github.com/morluto/rea) · `10-10 11:05`
-4. ✅ Closed issue [#13780](https://github.com/QwenLM/qwen-code/issues/13780) Main CI failed: SDK Java — HostedHarnessMySqlIT.lifecycleOperationsCloseThePackagedHarnes… · [qwen-code](https://github.com/QwenLM/qwen-code) · `10-10 10:42`
-5. 📝 Opened issue [#13809](https://github.com/QwenLM/qwen-code/issues/13809) Deferred from #13652: twelve round-3 review Suggestions (scope-fused at +2019) · [qwen-code](https://github.com/QwenLM/qwen-code) · `10-10 10:09`
+1. 📝 Opened issue [#13840](https://github.com/QwenLM/qwen-code/issues/13840) Follow-up from #13530: three deferred review findings (managed-agent stored-definition… · `10-10 19:30`
+2. ✅ Closed issue [#13560](https://github.com/QwenLM/qwen-code/issues/13560) Deferred review findings from PR #13547: fix(ci): skip millisecond latency budgets on… · `10-10 18:14`
+3. ✅ Closed issue [#13200](https://github.com/QwenLM/qwen-code/issues/13200) proposal(managed-agent): Name RocketMQ LiteTopic (5.5.0+) as the preferred P2… · `10-10 17:26`
+4. ✅ Closed issue [#13420](https://github.com/QwenLM/qwen-code/issues/13420) Deferred review findings from PR #13292: fix(ci): wait 60s before the E2E build artifact… · `10-10 17:12`
+5. ✅ Closed issue [#13727](https://github.com/QwenLM/qwen-code/issues/13727) feat(web-shell): simultaneous multi-daemon connections — live local+remote… · `10-10 17:01`
 
 <!--END_SECTION:activity-->
 
