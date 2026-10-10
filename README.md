@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **348** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 319 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 20 · [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) 6 · +3 more
+> 🟣 **353** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 324 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 20 · [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) 6 · +3 more
 
-1. 📝 Opened issue [#13840](https://github.com/QwenLM/qwen-code/issues/13840) Follow-up from #13530: three deferred review findings (managed-agent stored-definition… · `10-10 19:30`
-2. ✅ Closed issue [#13560](https://github.com/QwenLM/qwen-code/issues/13560) Deferred review findings from PR #13547: fix(ci): skip millisecond latency budgets on… · `10-10 18:14`
-3. ✅ Closed issue [#13200](https://github.com/QwenLM/qwen-code/issues/13200) proposal(managed-agent): Name RocketMQ LiteTopic (5.5.0+) as the preferred P2… · `10-10 17:26`
-4. ✅ Closed issue [#13420](https://github.com/QwenLM/qwen-code/issues/13420) Deferred review findings from PR #13292: fix(ci): wait 60s before the E2E build artifact… · `10-10 17:12`
-5. ✅ Closed issue [#13727](https://github.com/QwenLM/qwen-code/issues/13727) feat(web-shell): simultaneous multi-daemon connections — live local+remote… · `10-10 17:01`
+1. 📝 Opened issue [#13868](https://github.com/QwenLM/qwen-code/issues/13868) fix(managed-agent): #13682 follow-ups: rename title-blankness asymmetry and deferred… · `10-11 04:57`
+2. ✅ Closed issue [#12467](https://github.com/QwenLM/qwen-code/issues/12467) LSP diagnostics can report a clean result after failed or unavailable queries · `10-11 00:52`
+3. 🟣 Merged PR [#13128](https://github.com/QwenLM/qwen-code/pull/13128) fix(core): surface failed or unavailable LSP diagnostics as errors · `10-11 00:52`
+4. 🟣 Merged PR [#13636](https://github.com/QwenLM/qwen-code/pull/13636) fix(permissions): escalate repeated destructive-command denials to manual approval · `10-10 22:42`
+5. 🟣 Merged PR [#13675](https://github.com/QwenLM/qwen-code/pull/13675) fix(browser-use): report Windows as unsupported instead of advising an install · `10-10 22:21`
 
 <!--END_SECTION:activity-->
 
