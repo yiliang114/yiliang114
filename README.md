@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **335** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 312 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 14 · [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) 6 · +3 more
+> 🟣 **337** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 314 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 14 · [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) 6 · +3 more
 
-1. 🟣 Merged PR [#13682](https://github.com/QwenLM/qwen-code/pull/13682) fix(managed-agent): reconcile approval delivery and concurrent session titles · `10-11 12:50`
-2. 🟣 Merged PR [#13530](https://github.com/QwenLM/qwen-code/pull/13530) feat(managed-agent): execute pinned AgentDefinition revisions · `10-11 12:01`
-3. 🟣 Merged PR [#13729](https://github.com/QwenLM/qwen-code/pull/13729) fix(session): reserve retained snapshot prompt identities on resume · `10-11 11:20`
-4. 📝 Opened issue [#13876](https://github.com/QwenLM/qwen-code/issues/13876) compaction: the server-reported context ceiling is forwarded with no scope, so it cannot… · `10-11 09:04`
-5. 📝 Opened issue [#13869](https://github.com/QwenLM/qwen-code/issues/13869) Deferred review findings from PR #13737: fix(rewind): resolve legacy turns by source… · `10-11 06:01`
+1. 🔀 Opened PR [#13902](https://github.com/QwenLM/qwen-code/pull/13902) feat: project agent identity and Agent Team delivery onto the ACP/daemon wire (refs… · `10-11 19:37`
+2. ✅ Closed issue [#13597](https://github.com/QwenLM/qwen-code/issues/13597) Subagent tool doesn't report error message to the main agent · `10-11 14:26`
+3. 🟣 Merged PR [#13624](https://github.com/QwenLM/qwen-code/pull/13624) fix(core): tell the parent model why a foreground subagent stopped · `10-11 14:26`
+4. 🟣 Merged PR [#13773](https://github.com/QwenLM/qwen-code/pull/13773) fix(hosted): Count future result-hook mounts at child admission · `10-11 13:48`
+5. 🟣 Merged PR [#13682](https://github.com/QwenLM/qwen-code/pull/13682) fix(managed-agent): reconcile approval delivery and concurrent session titles · `10-11 12:50`
 
 <!--END_SECTION:activity-->
 
