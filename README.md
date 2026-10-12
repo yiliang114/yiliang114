@@ -8,7 +8,7 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **338** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 315 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 14 · [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) 6 · +3 more
+> 🟣 **323** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 304 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 10 · [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) 6 · +3 more
 
 1. 📝 Opened issue [#13926](https://github.com/QwenLM/qwen-code/issues/13926) Deferred review findings from PR #13601: feat(core): add a convergence reminder for… · `10-12 05:35`
 2. 📝 Opened issue [#13920](https://github.com/QwenLM/qwen-code/issues/13920) fix(core): CJK teammate names collapse in sanitizeName (Agent Teams spawn) · `10-11 23:56`
