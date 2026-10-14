@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **310** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 294 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 7 · [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) 6 · +3 more
+> 🟣 **320** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 304 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 7 · [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) 6 · +3 more
 
-1. 🔀 Opened PR [#14131](https://github.com/QwenLM/qwen-code/pull/14131) fix(managed-agent): Repair the Hosted storage-guard fixtures red since #14069 · `10-14 12:14`
-2. ✅ Closed issue [#14101](https://github.com/QwenLM/qwen-code/issues/14101) Main CI failed: Qwen Code CI — src/serve/hosted-harness-session.test.ts \> … \> parks an… · `10-14 10:34`
-3. ✅ Closed issue [#14051](https://github.com/QwenLM/qwen-code/issues/14051) Web Shell: open context usage details in place instead of appending cards to the… · `10-14 10:34`
-4. ✅ Closed issue [#14125](https://github.com/QwenLM/qwen-code/issues/14125) Main CI failed: SDK Java on 163e4686191d · `10-14 10:25`
-5. 🔀 Opened PR [#14129](https://github.com/QwenLM/qwen-code/pull/14129) feat(core): skip re-injecting an unchanged UserPromptSubmit hook context block · `10-14 10:15`
+1. 🔀 Opened PR [#14178](https://github.com/QwenLM/qwen-code/pull/14178) fix(ci): repair Java backlog and MariaDB/Git metadata validation · `10-14 19:10`
+2. 🔓 Reopened issue [#13279](https://github.com/QwenLM/qwen-code/issues/13279)  External-supervisor experience: driving and approving qwen serve sessions from another… · `10-14 19:10`
+3. 🔀 Opened PR [#14176](https://github.com/QwenLM/qwen-code/pull/14176) feat(managed-agent): publish an experimental reference distribution · `10-14 18:25`
+4. 🟣 Merged PR [#14170](https://github.com/QwenLM/qwen-code/pull/14170) fix(build): re-apply the ink patch when install skipped lifecycle scripts · `10-14 18:03`
+5. 🟣 Merged PR [#14155](https://github.com/QwenLM/qwen-code/pull/14155) test(managed-agent): cover coordinator-only Hosted restart · `10-14 17:03`
 
 <!--END_SECTION:activity-->
 
