@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **317** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 301 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 7 · [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) 6 · +3 more
+> 🟣 **310** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 294 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 7 · [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) 6 · +3 more
 
-1. ✅ Closed issue [#14072](https://github.com/QwenLM/qwen-code/issues/14072) Main CI failed: SDK Java — HostedOperatorRecoveryProbeTest.cleansOwnedProcessesWhenAnEsca… · `10-14 00:32`
-2. 🔀 Opened PR [#14092](https://github.com/QwenLM/qwen-code/pull/14092) docs(cli): stop naming Terminal.app in the arrowKeysScrollTranscript description · `10-14 00:30`
-3. ✅ Closed issue [#13092](https://github.com/QwenLM/qwen-code/issues/13092) Add SerpApi to Web Search MCP services document · `10-14 00:22`
-4. 📝 Opened issue [#14089](https://github.com/QwenLM/qwen-code/issues/14089) feat(memory): auto-recall hook context is not deduplicated against local memory · `10-14 00:06`
-5. 🟣 Merged PR [#14020](https://github.com/QwenLM/qwen-code/pull/14020) fix(managed-agent): passively reattach child relay sessions after control-plane restart · `10-13 23:03`
+1. 🔀 Opened PR [#14131](https://github.com/QwenLM/qwen-code/pull/14131) fix(managed-agent): Repair the Hosted storage-guard fixtures red since #14069 · `10-14 12:14`
+2. ✅ Closed issue [#14101](https://github.com/QwenLM/qwen-code/issues/14101) Main CI failed: Qwen Code CI — src/serve/hosted-harness-session.test.ts \> … \> parks an… · `10-14 10:34`
+3. ✅ Closed issue [#14051](https://github.com/QwenLM/qwen-code/issues/14051) Web Shell: open context usage details in place instead of appending cards to the… · `10-14 10:34`
+4. ✅ Closed issue [#14125](https://github.com/QwenLM/qwen-code/issues/14125) Main CI failed: SDK Java on 163e4686191d · `10-14 10:25`
+5. 🔀 Opened PR [#14129](https://github.com/QwenLM/qwen-code/pull/14129) feat(core): skip re-injecting an unchanged UserPromptSubmit hook context block · `10-14 10:15`
 
 <!--END_SECTION:activity-->
 
