@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **320** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 304 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 7 · [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) 6 · +3 more
+> 🟣 **323** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 307 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 7 · [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) 6 · +3 more
 
-1. 🔀 Opened PR [#14178](https://github.com/QwenLM/qwen-code/pull/14178) fix(ci): repair Java backlog and MariaDB/Git metadata validation · `10-14 19:10`
-2. 🔓 Reopened issue [#13279](https://github.com/QwenLM/qwen-code/issues/13279)  External-supervisor experience: driving and approving qwen serve sessions from another… · `10-14 19:10`
-3. 🔀 Opened PR [#14176](https://github.com/QwenLM/qwen-code/pull/14176) feat(managed-agent): publish an experimental reference distribution · `10-14 18:25`
-4. 🟣 Merged PR [#14170](https://github.com/QwenLM/qwen-code/pull/14170) fix(build): re-apply the ink patch when install skipped lifecycle scripts · `10-14 18:03`
-5. 🟣 Merged PR [#14155](https://github.com/QwenLM/qwen-code/pull/14155) test(managed-agent): cover coordinator-only Hosted restart · `10-14 17:03`
+1. 🟣 Merged PR [#14178](https://github.com/QwenLM/qwen-code/pull/14178) fix(ci): repair Java backlog and schema/Hosted test failures · `10-15 00:21`
+2. 🟣 Merged PR [#14205](https://github.com/QwenLM/qwen-code/pull/14205) ci: run Java and Desktop checks daily or on demand · `10-15 00:15`
+3. 🔀 Opened PR [#14213](https://github.com/QwenLM/qwen-code/pull/14213) ci: ratchet the PR-stage budget instead of only workflow file size · `10-15 00:12`
+4. 📝 Opened issue [#14212](https://github.com/QwenLM/qwen-code/issues/14212) ci: the PR stage has no budget gate — 60 jobs / 36.4 h declared timeout, and a failure… · `10-15 00:11`
+5. ✅ Closed issue [#14182](https://github.com/QwenLM/qwen-code/issues/14182) Claude plugins: ${CLAUDE\_PLUGIN\_ROOT} in .md files is only replaced when the plugin has… · `10-14 23:54`
 
 <!--END_SECTION:activity-->
 
