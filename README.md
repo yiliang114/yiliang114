@@ -12,9 +12,9 @@
 
 1. ✅ Closed issue [#13801](https://github.com/QwenLM/qwen-code/issues/13801) fix(managed-agent): a child\_run stuck at dispatch\_started never settles when the process… · `10-16 00:36`
 2. 📝 Opened issue [#14309](https://github.com/QwenLM/qwen-code/issues/14309) fix(serve): await in-flight local runtime teardown during revoke and close · `10-16 00:24`
-3. 📝 Opened issue [#14308](https://github.com/QwenLM/qwen-code/issues/14308) test(cli): keep managed session-store loopback gates conformant · `10-16 00:24`
-4. 🔀 Opened PR [#14317](https://github.com/QwenLM/qwen-code/pull/14317) fix(runtime-broker): support credential key rotation · `10-15 23:52`
-5. 🟣 Merged PR [#14285](https://github.com/QwenLM/qwen-code/pull/14285) fix(vscode): move conversation payloads out of globalState · `10-15 21:10`
+3. 🟣 Merged PR [#14285](https://github.com/QwenLM/qwen-code/pull/14285) fix(vscode): move conversation payloads out of globalState · `10-15 21:10`
+4. 🟣 Merged PR [#14213](https://github.com/QwenLM/qwen-code/pull/14213) ci: ratchet the PR-stage budget instead of only workflow file size · `10-15 19:58`
+5. 🟣 Merged PR [#14275](https://github.com/QwenLM/qwen-code/pull/14275) fix(ci): drain Hosted test turns and repair nightly browser checks · `10-15 19:57`
 
 <!--END_SECTION:activity-->
 
