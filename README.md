@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **320** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 304 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 7 · [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) 6 · +3 more
+> 🟣 **327** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 311 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 7 · [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) 6 · +3 more
 
-1. 🟣 Merged PR [#14302](https://github.com/QwenLM/qwen-code/pull/14302) fix(providers): validate daemon credentials and close QwenCloud follow-ups · `10-16 17:51`
-2. ✅ Closed issue [#14219](https://github.com/QwenLM/qwen-code/issues/14219) ci: post-merge Classify PR is pinned to a congested hosted runner and gates every job… · `10-16 17:35`
-3. 🟣 Merged PR [#14293](https://github.com/QwenLM/qwen-code/pull/14293) fix(ci): route post-merge classifier to ECS and yield CLI workers · `10-16 17:35`
-4. 🔀 Opened PR [#14368](https://github.com/QwenLM/qwen-code/pull/14368) docs(memory): plan extraction baseline before input changes · `10-16 16:54`
-5. ✅ Closed issue [#14226](https://github.com/QwenLM/qwen-code/issues/14226) Web Shell: render live tokens/sec indicator (ui.showResponseTokensPerSecond) · `10-16 16:37`
+1. 🟣 Merged PR [#14300](https://github.com/QwenLM/qwen-code/pull/14300) feat(web-shell): add side task archive controls · `10-17 00:05`
+2. 🔀 Opened PR [#14396](https://github.com/QwenLM/qwen-code/pull/14396) fix(ci): keep the setup-java Maven cache on hosted runners · `10-16 23:58`
+3. 🔀 Opened PR [#14394](https://github.com/QwenLM/qwen-code/pull/14394) test(serve): widen the Hosted Harness idle wait on loaded runners · `10-16 23:31`
+4. 🟣 Merged PR [#14336](https://github.com/QwenLM/qwen-code/pull/14336) feat(ci): route the release lane's hosted stragglers onto ECS runners · `10-16 23:13`
+5. ✅ Closed issue [#14234](https://github.com/QwenLM/qwen-code/issues/14234) Deferred review findings from PR #14021: settle never-started background dispatches in… · `10-16 23:06`
 
 <!--END_SECTION:activity-->
 
