@@ -10,11 +10,11 @@
 
 > 🟣 **327** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 311 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 7 · [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) 6 · +3 more
 
-1. 🟣 Merged PR [#14300](https://github.com/QwenLM/qwen-code/pull/14300) feat(web-shell): add side task archive controls · `10-17 00:05`
-2. 🔀 Opened PR [#14396](https://github.com/QwenLM/qwen-code/pull/14396) fix(ci): keep the setup-java Maven cache on hosted runners · `10-16 23:58`
-3. 🔀 Opened PR [#14394](https://github.com/QwenLM/qwen-code/pull/14394) test(serve): widen the Hosted Harness idle wait on loaded runners · `10-16 23:31`
-4. 🟣 Merged PR [#14336](https://github.com/QwenLM/qwen-code/pull/14336) feat(ci): route the release lane's hosted stragglers onto ECS runners · `10-16 23:13`
-5. ✅ Closed issue [#14234](https://github.com/QwenLM/qwen-code/issues/14234) Deferred review findings from PR #14021: settle never-started background dispatches in… · `10-16 23:06`
+1. 📝 Opened issue [#14408](https://github.com/QwenLM/qwen-code/issues/14408) Deferred review finding from PR #14317: operator-recovery entry discards the bound… · `10-17 04:02`
+2. 📝 Opened issue [#14400](https://github.com/QwenLM/qwen-code/issues/14400) test(managed-agent): fg8f in-flight-cap reads committedAtResume after the drain catches… · `10-17 02:11`
+3. 📝 Opened issue [#14388](https://github.com/QwenLM/qwen-code/issues/14388) Deferred review findings from PR #14303: fix(serve): fan out never-started process probes · `10-17 01:12`
+4. 🟣 Merged PR [#14300](https://github.com/QwenLM/qwen-code/pull/14300) feat(web-shell): add side task archive controls · `10-17 00:05`
+5. 🟣 Merged PR [#14336](https://github.com/QwenLM/qwen-code/pull/14336) feat(ci): route the release lane's hosted stragglers onto ECS runners · `10-16 23:13`
 
 <!--END_SECTION:activity-->
 
