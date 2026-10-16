@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **314** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 299 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 6 · [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) 6 · +3 more
+> 🟣 **320** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 304 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 7 · [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) 6 · +3 more
 
-1. 📝 Opened issue [#14346](https://github.com/QwenLM/qwen-code/issues/14346) Follow-up: side-task archive residual nits from #14300 review · `10-16 11:48`
-2. ✅ Closed issue [#14063](https://github.com/QwenLM/qwen-code/issues/14063) Hosted session\_command timeout text tells a member\_message sender to "read the board"… · `10-16 11:36`
-3. 🟣 Merged PR [#14296](https://github.com/QwenLM/qwen-code/pull/14296) fix(cli): correct member-message timeout guidance · `10-16 11:35`
-4. 🔀 Opened PR [#14342](https://github.com/QwenLM/qwen-code/pull/14342) fix(ci): make finalize-release second-bot approve non-blocking (#14341) · `10-16 11:05`
-5. 📝 Opened issue [#14341](https://github.com/QwenLM/qwen-code/issues/14341) ci: finalize-release "Approve release PR (second bot)" fails with self-approval error · `10-16 11:03`
+1. 🟣 Merged PR [#14302](https://github.com/QwenLM/qwen-code/pull/14302) fix(providers): validate daemon credentials and close QwenCloud follow-ups · `10-16 17:51`
+2. ✅ Closed issue [#14219](https://github.com/QwenLM/qwen-code/issues/14219) ci: post-merge Classify PR is pinned to a congested hosted runner and gates every job… · `10-16 17:35`
+3. 🟣 Merged PR [#14293](https://github.com/QwenLM/qwen-code/pull/14293) fix(ci): route post-merge classifier to ECS and yield CLI workers · `10-16 17:35`
+4. 🔀 Opened PR [#14368](https://github.com/QwenLM/qwen-code/pull/14368) docs(memory): plan extraction baseline before input changes · `10-16 16:54`
+5. ✅ Closed issue [#14226](https://github.com/QwenLM/qwen-code/issues/14226) Web Shell: render live tokens/sec indicator (ui.showResponseTokensPerSecond) · `10-16 16:37`
 
 <!--END_SECTION:activity-->
 
