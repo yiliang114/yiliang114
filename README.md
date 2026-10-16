@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **323** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 308 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 6 · [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) 6 · +3 more
+> 🟣 **314** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 299 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 6 · [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) 6 · +3 more
 
-1. ✅ Closed issue [#13801](https://github.com/QwenLM/qwen-code/issues/13801) fix(managed-agent): a child\_run stuck at dispatch\_started never settles when the process… · `10-16 00:36`
-2. 📝 Opened issue [#14309](https://github.com/QwenLM/qwen-code/issues/14309) fix(serve): await in-flight local runtime teardown during revoke and close · `10-16 00:24`
-3. 🟣 Merged PR [#14285](https://github.com/QwenLM/qwen-code/pull/14285) fix(vscode): move conversation payloads out of globalState · `10-15 21:10`
-4. 🟣 Merged PR [#14213](https://github.com/QwenLM/qwen-code/pull/14213) ci: ratchet the PR-stage budget instead of only workflow file size · `10-15 19:58`
-5. 🟣 Merged PR [#14275](https://github.com/QwenLM/qwen-code/pull/14275) fix(ci): drain Hosted test turns and repair nightly browser checks · `10-15 19:57`
+1. 📝 Opened issue [#14346](https://github.com/QwenLM/qwen-code/issues/14346) Follow-up: side-task archive residual nits from #14300 review · `10-16 11:48`
+2. ✅ Closed issue [#14063](https://github.com/QwenLM/qwen-code/issues/14063) Hosted session\_command timeout text tells a member\_message sender to "read the board"… · `10-16 11:36`
+3. 🟣 Merged PR [#14296](https://github.com/QwenLM/qwen-code/pull/14296) fix(cli): correct member-message timeout guidance · `10-16 11:35`
+4. 🔀 Opened PR [#14342](https://github.com/QwenLM/qwen-code/pull/14342) fix(ci): make finalize-release second-bot approve non-blocking (#14341) · `10-16 11:05`
+5. 📝 Opened issue [#14341](https://github.com/QwenLM/qwen-code/issues/14341) ci: finalize-release "Approve release PR (second bot)" fails with self-approval error · `10-16 11:03`
 
 <!--END_SECTION:activity-->
 
