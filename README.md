@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **320** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 306 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 6 · [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) 5 · +3 more
+> 🟣 **323** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 309 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 6 · [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) 5 · +3 more
 
-1. 🟣 Merged PR [#14396](https://github.com/QwenLM/qwen-code/pull/14396) fix(ci): keep the setup-java Maven cache on hosted runners · `10-17 11:35`
-2. 🔀 Opened PR [#14430](https://github.com/QwenLM/qwen-code/pull/14430) fix(ci): stop saving the Maven cache on the self-hosted pool · `10-17 11:17`
-3. ✅ Closed issue [#13202](https://github.com/QwenLM/qwen-code/issues/13202) fix(runtime-broker): rotating the credential key orphans every row written under the old… · `10-17 11:11`
-4. 🟣 Merged PR [#14317](https://github.com/QwenLM/qwen-code/pull/14317) fix(runtime-broker): support credential key rotation · `10-17 11:11`
-5. 🟣 Merged PR [#14394](https://github.com/QwenLM/qwen-code/pull/14394) test(serve): widen the Hosted Harness idle wait on loaded runners · `10-17 11:11`
+1. 🔀 Opened PR [#14458](https://github.com/QwenLM/qwen-code/pull/14458) test(sdk-java): widen the keepalive idle-budget margin · `10-17 16:59`
+2. 🔀 Opened PR [#14457](https://github.com/QwenLM/qwen-code/pull/14457) test: fix the four SDK Java failures on main (FG6e frames, schema V8 pin, two client… · `10-17 16:39`
+3. ✅ Closed issue [#14434](https://github.com/QwenLM/qwen-code/issues/14434) Managed agent: tool publication capacity exhaustion answers a generic 400 and blocks the… · `10-17 16:35`
+4. 🔀 Opened PR [#14454](https://github.com/QwenLM/qwen-code/pull/14454) test(managed-agent): expect schema V8 in the SSH workspace MySQL IT · `10-17 16:05`
+5. 🔀 Opened PR [#14448](https://github.com/QwenLM/qwen-code/pull/14448) test(sdk-java): fault only the caller's dispatch in the send-escape tests · `10-17 15:44`
 
 <!--END_SECTION:activity-->
 
