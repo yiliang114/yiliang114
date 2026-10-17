@@ -10,11 +10,11 @@
 
 > 🟣 **326** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 312 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 6 · [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) 5 · +3 more
 
-1. 🟣 Merged PR [#14284](https://github.com/QwenLM/qwen-code/pull/14284) fix(ci): skip application tests for Markdown-only and CODEOWNERS-only changes · `10-17 21:37`
-2. 🟣 Merged PR [#14397](https://github.com/QwenLM/qwen-code/pull/14397) feat(ci): gate Managed Agent changes on a full SDK Java run before merge · `10-17 21:17`
-3. 🟣 Merged PR [#14457](https://github.com/QwenLM/qwen-code/pull/14457) test: fix the SDK Java suite's red jobs (FG6e frames, schema V8 pin, client flakes) · `10-17 21:15`
-4. ✅ Closed issue [#13715](https://github.com/QwenLM/qwen-code/issues/13715) Main CI failed: E2E Tests — interactive/external-context-mem0-write.test.ts \> … \> 'uses… · `10-17 20:34`
-5. ✅ Closed issue [#13592](https://github.com/QwenLM/qwen-code/issues/13592) Main CI failed: Qwen Code CI on d03eafd4aace · `10-17 20:34`
+1. 🔀 Opened PR [#14505](https://github.com/QwenLM/qwen-code/pull/14505) fix(managed-agent): verify ambiguous Linux workspace birth times · `10-18 03:04`
+2. 🔀 Opened PR [#14493](https://github.com/QwenLM/qwen-code/pull/14493) fix(ci): report Java failures on PRs and manual main runs · `10-18 01:33`
+3. 📝 Opened issue [#14492](https://github.com/QwenLM/qwen-code/issues/14492) Main CI failed: SDK Java — HostedExtensionsIT.publishedExtensionsSurviveHarnessReplacemen… · `10-18 01:29`
+4. ✅ Closed issue [#13522](https://github.com/QwenLM/qwen-code/issues/13522) Main CI failed: Qwen Code CI — src/acp-integration/session/Session.test.ts \> … \>… · `10-18 00:58`
+5. ✅ Closed issue [#13230](https://github.com/QwenLM/qwen-code/issues/13230) Main CI failed: Qwen Code CI on b3dda468f2e4 · `10-18 00:57`
 
 <!--END_SECTION:activity-->
 
