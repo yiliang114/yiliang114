@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **327** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 311 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 7 · [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) 6 · +3 more
+> 🟣 **320** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 306 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 6 · [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) 5 · +3 more
 
-1. 📝 Opened issue [#14408](https://github.com/QwenLM/qwen-code/issues/14408) Deferred review finding from PR #14317: operator-recovery entry discards the bound… · `10-17 04:02`
-2. 📝 Opened issue [#14400](https://github.com/QwenLM/qwen-code/issues/14400) test(managed-agent): fg8f in-flight-cap reads committedAtResume after the drain catches… · `10-17 02:11`
-3. 📝 Opened issue [#14388](https://github.com/QwenLM/qwen-code/issues/14388) Deferred review findings from PR #14303: fix(serve): fan out never-started process probes · `10-17 01:12`
-4. 🟣 Merged PR [#14300](https://github.com/QwenLM/qwen-code/pull/14300) feat(web-shell): add side task archive controls · `10-17 00:05`
-5. 🟣 Merged PR [#14336](https://github.com/QwenLM/qwen-code/pull/14336) feat(ci): route the release lane's hosted stragglers onto ECS runners · `10-16 23:13`
+1. 🟣 Merged PR [#14396](https://github.com/QwenLM/qwen-code/pull/14396) fix(ci): keep the setup-java Maven cache on hosted runners · `10-17 11:35`
+2. 🔀 Opened PR [#14430](https://github.com/QwenLM/qwen-code/pull/14430) fix(ci): stop saving the Maven cache on the self-hosted pool · `10-17 11:17`
+3. ✅ Closed issue [#13202](https://github.com/QwenLM/qwen-code/issues/13202) fix(runtime-broker): rotating the credential key orphans every row written under the old… · `10-17 11:11`
+4. 🟣 Merged PR [#14317](https://github.com/QwenLM/qwen-code/pull/14317) fix(runtime-broker): support credential key rotation · `10-17 11:11`
+5. 🟣 Merged PR [#14394](https://github.com/QwenLM/qwen-code/pull/14394) test(serve): widen the Hosted Harness idle wait on loaded runners · `10-17 11:11`
 
 <!--END_SECTION:activity-->
 
