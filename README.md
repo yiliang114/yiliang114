@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **310** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 301 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 6 · [rea](https://github.com/morluto/rea) 1 · +2 more
+> 🟣 **315** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 306 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 6 · [rea](https://github.com/morluto/rea) 1 · +2 more
 
-1. 🔀 Opened PR [#14522](https://github.com/QwenLM/qwen-code/pull/14522) fix(managed-agent): keep daemon recovery waits re-driven · `10-18 11:23`
-2. 🔀 Opened PR [#14514](https://github.com/QwenLM/qwen-code/pull/14514) test(core): witness the sealed Managed commit-proof clause · `10-18 09:26`
-3. ✅ Closed issue [#13511](https://github.com/QwenLM/qwen-code/issues/13511) Main CI failed: SDK Java on 481b4837aa45 · `10-18 08:49`
-4. 🔀 Opened PR [#14510](https://github.com/QwenLM/qwen-code/pull/14510) fix(channels/base): strip zero-ink code points from display projections · `10-18 06:41`
-5. 🔀 Opened PR [#14509](https://github.com/QwenLM/qwen-code/pull/14509) fix(managed-agent): preserve rotated credential keys during operator recovery · `10-18 06:20`
+1. 🔀 Opened PR [#14573](https://github.com/QwenLM/qwen-code/pull/14573) fix(core): quiet the crawler's ripgrep probe and stop double-reporting one failed spawn · `10-18 18:38`
+2. 🔀 Opened PR [#14571](https://github.com/QwenLM/qwen-code/pull/14571) refactor(managed-agent): share CSI runtime marker reads · `10-18 18:16`
+3. 🔀 Opened PR [#14567](https://github.com/QwenLM/qwen-code/pull/14567) fix(cli): reconcile managed recovery failure reasons · `10-18 17:41`
+4. 📝 Opened issue [#14566](https://github.com/QwenLM/qwen-code/issues/14566) ci: sdk-java lanes repeatedly fail acquiring the self-hosted host lock within 40 minutes · `10-18 17:40`
+5. 🟣 Merged PR [#14505](https://github.com/QwenLM/qwen-code/pull/14505) fix(managed-agent): verify ambiguous Linux workspace birth times · `10-18 17:34`
 
 <!--END_SECTION:activity-->
 
