@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **315** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 306 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 6 · [rea](https://github.com/morluto/rea) 1 · +2 more
+> 🟣 **319** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 310 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 6 · [rea](https://github.com/morluto/rea) 1 · +2 more
 
-1. 🔀 Opened PR [#14573](https://github.com/QwenLM/qwen-code/pull/14573) fix(core): quiet the crawler's ripgrep probe and stop double-reporting one failed spawn · `10-18 18:38`
-2. 🔀 Opened PR [#14571](https://github.com/QwenLM/qwen-code/pull/14571) refactor(managed-agent): share CSI runtime marker reads · `10-18 18:16`
-3. 🔀 Opened PR [#14567](https://github.com/QwenLM/qwen-code/pull/14567) fix(cli): reconcile managed recovery failure reasons · `10-18 17:41`
-4. 📝 Opened issue [#14566](https://github.com/QwenLM/qwen-code/issues/14566) ci: sdk-java lanes repeatedly fail acquiring the self-hosted host lock within 40 minutes · `10-18 17:40`
-5. 🟣 Merged PR [#14505](https://github.com/QwenLM/qwen-code/pull/14505) fix(managed-agent): verify ambiguous Linux workspace birth times · `10-18 17:34`
+1. 🔀 Opened PR [#14598](https://github.com/QwenLM/qwen-code/pull/14598) test(cli): give turn-settling waits the slow-host budget · `10-18 23:31`
+2. 📝 Opened issue [#14596](https://github.com/QwenLM/qwen-code/issues/14596) ci: the docs\_only fast lane skips Run Prettier, so a docs-only PR merges green and… · `10-18 23:01`
+3. 🟣 Merged PR [#14558](https://github.com/QwenLM/qwen-code/pull/14558) fix(managed-agent): bound retention root and head waits · `10-18 21:36`
+4. 🟣 Merged PR [#14573](https://github.com/QwenLM/qwen-code/pull/14573) fix(core): quiet the crawler's ripgrep probe and stop double-reporting one failed spawn · `10-18 21:36`
+5. 🔀 Opened PR [#14588](https://github.com/QwenLM/qwen-code/pull/14588) fix(sdk): size session create from the daemon session budget · `10-18 21:11`
 
 <!--END_SECTION:activity-->
 
