@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **326** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 312 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 6 · [Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) 5 · +3 more
+> 🟣 **310** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 301 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 6 · [rea](https://github.com/morluto/rea) 1 · +2 more
 
-1. 🔀 Opened PR [#14505](https://github.com/QwenLM/qwen-code/pull/14505) fix(managed-agent): verify ambiguous Linux workspace birth times · `10-18 03:04`
-2. 🔀 Opened PR [#14493](https://github.com/QwenLM/qwen-code/pull/14493) fix(ci): report Java failures on PRs and manual main runs · `10-18 01:33`
-3. 📝 Opened issue [#14492](https://github.com/QwenLM/qwen-code/issues/14492) Main CI failed: SDK Java — HostedExtensionsIT.publishedExtensionsSurviveHarnessReplacemen… · `10-18 01:29`
-4. ✅ Closed issue [#13522](https://github.com/QwenLM/qwen-code/issues/13522) Main CI failed: Qwen Code CI — src/acp-integration/session/Session.test.ts \> … \>… · `10-18 00:58`
-5. ✅ Closed issue [#13230](https://github.com/QwenLM/qwen-code/issues/13230) Main CI failed: Qwen Code CI on b3dda468f2e4 · `10-18 00:57`
+1. 🔀 Opened PR [#14522](https://github.com/QwenLM/qwen-code/pull/14522) fix(managed-agent): keep daemon recovery waits re-driven · `10-18 11:23`
+2. 🔀 Opened PR [#14514](https://github.com/QwenLM/qwen-code/pull/14514) test(core): witness the sealed Managed commit-proof clause · `10-18 09:26`
+3. ✅ Closed issue [#13511](https://github.com/QwenLM/qwen-code/issues/13511) Main CI failed: SDK Java on 481b4837aa45 · `10-18 08:49`
+4. 🔀 Opened PR [#14510](https://github.com/QwenLM/qwen-code/pull/14510) fix(channels/base): strip zero-ink code points from display projections · `10-18 06:41`
+5. 🔀 Opened PR [#14509](https://github.com/QwenLM/qwen-code/pull/14509) fix(managed-agent): preserve rotated credential keys during operator recovery · `10-18 06:20`
 
 <!--END_SECTION:activity-->
 
