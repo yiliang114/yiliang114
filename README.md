@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **319** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 310 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 6 · [rea](https://github.com/morluto/rea) 1 · +2 more
+> 🟣 **308** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 301 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 4 · [rea](https://github.com/morluto/rea) 1 · +2 more
 
-1. 🔀 Opened PR [#14607](https://github.com/QwenLM/qwen-code/pull/14607) fix(managed-agent): reindent the retired-holder close stage for checkstyle · `10-19 02:28`
-2. ✅ Closed issue [#12937](https://github.com/QwenLM/qwen-code/issues/12937) Managed Agent: worker release refusal strands Workspace storage ownership · `10-19 00:36`
-3. 🔀 Opened PR [#14598](https://github.com/QwenLM/qwen-code/pull/14598) test(cli): give turn-settling waits the slow-host budget · `10-18 23:31`
-4. 📝 Opened issue [#14596](https://github.com/QwenLM/qwen-code/issues/14596) ci: the docs\_only fast lane skips Run Prettier, so a docs-only PR merges green and… · `10-18 23:01`
-5. 🟣 Merged PR [#14558](https://github.com/QwenLM/qwen-code/pull/14558) fix(managed-agent): bound retention root and head waits · `10-18 21:36`
+1. 🔀 Opened PR [#327](https://github.com/QwenLM/qwen-code-docs/pull/327) fix(orchestrator): link images outside docs/ to the upstream file · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) · `10-19 11:47`
+2. 🟣 Merged PR [#14598](https://github.com/QwenLM/qwen-code/pull/14598) test(cli): give turn-settling waits the slow-host budget · [qwen-code](https://github.com/QwenLM/qwen-code) · `10-19 11:36`
+3. 🔀 Opened PR [#14643](https://github.com/QwenLM/qwen-code/pull/14643) test(web-shell): widen smoke wait budgets for shared CI hosts · [qwen-code](https://github.com/QwenLM/qwen-code) · `10-19 11:30`
+4. 🟣 Merged PR [#14563](https://github.com/QwenLM/qwen-code/pull/14563) fix(managed-agent): bound initial publication guard waits · [qwen-code](https://github.com/QwenLM/qwen-code) · `10-19 11:06`
+5. ✅ Closed issue [#14626](https://github.com/QwenLM/qwen-code/issues/14626) Main CI failed: E2E Tests — cli/workflow-ancestor-discovery.test.ts \> … \> 'reads a… · [qwen-code](https://github.com/QwenLM/qwen-code) · `10-19 10:33`
 
 <!--END_SECTION:activity-->
 
