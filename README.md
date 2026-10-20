@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **316** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 307 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 5 · [omp-web](https://github.com/ddallabenetta/omp-web) 1 · +3 more
+> 🟣 **323** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 314 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 5 · [omp-web](https://github.com/ddallabenetta/omp-web) 1 · +3 more
 
-1. ✅ Closed issue [#13913](https://github.com/QwenLM/qwen-code/issues/13913) Deferred review findings from PR #13748: fix(acp-bridge): display declared Channel… · `10-20 11:41`
-2. 🟣 Merged PR [#14744](https://github.com/QwenLM/qwen-code/pull/14744) fix(acp): avoid splitting surrogate pairs when truncating turn text · `10-20 11:41`
-3. 🔀 Opened PR [#14830](https://github.com/QwenLM/qwen-code/pull/14830) fix(core): keep a producer-declared truncation bit when raw size is unknown · `10-20 11:16`
-4. ✅ Closed issue [#14772](https://github.com/QwenLM/qwen-code/issues/14772) Main CI failed: Managed Agent gate on 81e83de6b6ec · `10-20 11:12`
-5. ✅ Closed issue [#14810](https://github.com/QwenLM/qwen-code/issues/14810) Main CI failed: Managed Agent gate on f36d2ee77c24 · `10-20 11:11`
+1. ✅ Closed issue [#14871](https://github.com/QwenLM/qwen-code/issues/14871) Main CI failed: Qwen Code CI on 6cb0073ddd34 · `10-20 18:52`
+2. ✅ Closed issue [#14866](https://github.com/QwenLM/qwen-code/issues/14866) Main CI failed: Qwen Code CI on 8d37c8704308 · `10-20 18:52`
+3. ✅ Closed issue [#14887](https://github.com/QwenLM/qwen-code/issues/14887) ci: managed-agent checkstyle fails on main, reddening every managed-agent PR's gate · `10-20 17:46`
+4. 🔀 Opened PR [#14886](https://github.com/QwenLM/qwen-code/pull/14886) docs(gate): say what an all-skipped review run leaves behind · `10-20 17:40`
+5. 🔀 Opened PR [#14885](https://github.com/QwenLM/qwen-code/pull/14885) \[DO NOT MERGE\] test(ci): verify the code-owner review gate · `10-20 17:31`
 
 <!--END_SECTION:activity-->
 
