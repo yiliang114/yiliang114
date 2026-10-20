@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **323** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 314 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 5 · [omp-web](https://github.com/ddallabenetta/omp-web) 1 · +3 more
+> 🟣 **316** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 307 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 5 · [omp-web](https://github.com/ddallabenetta/omp-web) 1 · +3 more
 
-1. ✅ Closed issue [#14769](https://github.com/QwenLM/qwen-code/issues/14769) Main CI failed: Qwen Code CI — src/managed-runtime/embedded-harness-scheduler.test.ts \>… · `10-20 04:38`
-2. ✅ Closed issue [#14699](https://github.com/QwenLM/qwen-code/issues/14699) Main CI failed: Managed Agent gate — HostedSessionRelayFaultGatesIT.fg9bRefusedJournalCom… · `10-20 02:06`
-3. 📝 Opened issue [#14753](https://github.com/QwenLM/qwen-code/issues/14753) Main CI failed: SDK Java — EventTransportBrokerGate.thePostCommitPathDoesNotRegress… · `10-20 01:21`
-4. ✅ Closed issue [#14508](https://github.com/QwenLM/qwen-code/issues/14508) Telemetry: emit reasoning effort as a span attribute (\`gen\_ai.request.reasoning\_effort\`) · `10-20 01:07`
-5. 🟣 Merged PR [#14716](https://github.com/QwenLM/qwen-code/pull/14716) fix(managed-agent): align fault gates with unsettled-append recovery · `10-20 00:26`
+1. ✅ Closed issue [#13913](https://github.com/QwenLM/qwen-code/issues/13913) Deferred review findings from PR #13748: fix(acp-bridge): display declared Channel… · `10-20 11:41`
+2. 🟣 Merged PR [#14744](https://github.com/QwenLM/qwen-code/pull/14744) fix(acp): avoid splitting surrogate pairs when truncating turn text · `10-20 11:41`
+3. 🔀 Opened PR [#14830](https://github.com/QwenLM/qwen-code/pull/14830) fix(core): keep a producer-declared truncation bit when raw size is unknown · `10-20 11:16`
+4. ✅ Closed issue [#14772](https://github.com/QwenLM/qwen-code/issues/14772) Main CI failed: Managed Agent gate on 81e83de6b6ec · `10-20 11:12`
+5. ✅ Closed issue [#14810](https://github.com/QwenLM/qwen-code/issues/14810) Main CI failed: Managed Agent gate on f36d2ee77c24 · `10-20 11:11`
 
 <!--END_SECTION:activity-->
 
