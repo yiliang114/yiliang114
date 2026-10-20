@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **324** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 315 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 5 · [omp-web](https://github.com/ddallabenetta/omp-web) 1 · +3 more
+> 🟣 **327** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 318 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 5 · [omp-web](https://github.com/ddallabenetta/omp-web) 1 · +3 more
 
-1. 🔀 Opened PR [#14924](https://github.com/QwenLM/qwen-code/pull/14924) fix(web-shell): align Managed Session titles, file access and the Workspace row · `10-20 23:34`
-2. 🔀 Opened PR [#14923](https://github.com/QwenLM/qwen-code/pull/14923) fix(cli): report a zenity 4 display failure instead of a silent cancel · `10-20 23:17`
-3. 📝 Opened issue [#14918](https://github.com/QwenLM/qwen-code/issues/14918) bug(web-shell): a failed Managed Agent request becomes raw text at the top of the pane… · `10-20 22:46`
-4. 🔀 Opened PR [#14912](https://github.com/QwenLM/qwen-code/pull/14912) fix(ci): queue the sdk-java host lock first-come-first-serve (#14743) · `10-20 21:01`
-5. ✅ Closed issue [#14894](https://github.com/QwenLM/qwen-code/issues/14894) Main CI failed: Managed Agent gate on 159f8d0266b3 · `10-20 20:52`
+1. ✅ Closed issue [#14949](https://github.com/QwenLM/qwen-code/issues/14949) Main CI failed: Managed Agent gate on 670a382f2041 · `10-21 05:10`
+2. ✅ Closed issue [#14950](https://github.com/QwenLM/qwen-code/issues/14950) Main CI failed: Managed Agent gate on 26eb1fb1dc58 · `10-21 05:09`
+3. ✅ Closed issue [#14942](https://github.com/QwenLM/qwen-code/issues/14942) Main CI failed: Managed Agent gate on a3f2ced094be · `10-21 03:09`
+4. ✅ Closed issue [#14940](https://github.com/QwenLM/qwen-code/issues/14940) Main CI failed: Managed Agent gate on 9345c4ed1df4 · `10-21 03:09`
+5. ✅ Closed issue [#14945](https://github.com/QwenLM/qwen-code/issues/14945) Main CI failed: Managed Agent gate on dc8b523d3966 · `10-21 03:08`
 
 <!--END_SECTION:activity-->
 
