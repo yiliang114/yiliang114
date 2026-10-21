@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **327** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 318 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 5 · [omp-web](https://github.com/ddallabenetta/omp-web) 1 · +3 more
+> 🟣 **317** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 310 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 3 · [omp-web](https://github.com/ddallabenetta/omp-web) 1 · +3 more
 
-1. ✅ Closed issue [#14949](https://github.com/QwenLM/qwen-code/issues/14949) Main CI failed: Managed Agent gate on 670a382f2041 · `10-21 05:10`
-2. ✅ Closed issue [#14950](https://github.com/QwenLM/qwen-code/issues/14950) Main CI failed: Managed Agent gate on 26eb1fb1dc58 · `10-21 05:09`
-3. ✅ Closed issue [#14942](https://github.com/QwenLM/qwen-code/issues/14942) Main CI failed: Managed Agent gate on a3f2ced094be · `10-21 03:09`
-4. ✅ Closed issue [#14940](https://github.com/QwenLM/qwen-code/issues/14940) Main CI failed: Managed Agent gate on 9345c4ed1df4 · `10-21 03:09`
-5. ✅ Closed issue [#14945](https://github.com/QwenLM/qwen-code/issues/14945) Main CI failed: Managed Agent gate on dc8b523d3966 · `10-21 03:08`
+1. 🟣 Merged PR [#14924](https://github.com/QwenLM/qwen-code/pull/14924) fix(web-shell): align Managed Session titles, file access and the Workspace row · `10-21 11:06`
+2. ✅ Closed issue [#14968](https://github.com/QwenLM/qwen-code/issues/14968) Main CI failed: E2E Tests — cli/qwen-serve-client-mcp.test.ts \[… · `10-21 10:37`
+3. 📝 Opened issue [#14973](https://github.com/QwenLM/qwen-code/issues/14973) Deferred review findings from PR #14129: feat(core): skip re-injecting an unchanged… · `10-21 09:23`
+4. ✅ Closed issue [#14961](https://github.com/QwenLM/qwen-code/issues/14961) Main CI failed: Qwen Code CI — scripts/tests/workflow-size.test.js \> … \>… · `10-21 08:51`
+5. 📝 Opened issue [#14971](https://github.com/QwenLM/qwen-code/issues/14971) ci(sdk-java): follow-ups from #14936 — MariaDB coverage is now unfalsifiable, and stale… · `10-21 08:46`
 
 <!--END_SECTION:activity-->
 
