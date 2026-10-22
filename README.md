@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **333** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 325 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 4 · [omp-web](https://github.com/ddallabenetta/omp-web) 1 · +3 more
+> 🟣 **100** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 96 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 3 · [omp-web](https://github.com/ddallabenetta/omp-web) 1
 
-1. 🟣 Merged PR [#15003](https://github.com/QwenLM/qwen-code/pull/15003) feat(ci): restore a MariaDB leg for the non-Hosted IT family · `10-22 19:24`
-2. 🟣 Merged PR [#15073](https://github.com/QwenLM/qwen-code/pull/15073) test(core): pin the no-upstream branch shape the web-shell push hint reads · `10-22 19:04`
-3. 🟣 Merged PR [#15158](https://github.com/QwenLM/qwen-code/pull/15158) test(managed-agent): atomically claim MCP fixture closes · `10-22 17:47`
-4. ✅ Closed issue [#15074](https://github.com/QwenLM/qwen-code/issues/15074) test(managed-agent): #15046 follow-ups — sync the D7-2 acceptance criterion bilingually… · `10-22 17:45`
-5. 🟣 Merged PR [#15154](https://github.com/QwenLM/qwen-code/pull/15154) test(managed-agent): pin durable recovery park acceptance · `10-22 17:45`
+1. 📝 Opened issue [#15248](https://github.com/QwenLM/qwen-code/issues/15248) ci(sdk-java): runtime broker timing tests flake 3/3 on GitHub-hosted runners, blocking… · `10-23 00:50`
+2. ✅ Closed issue [#12277](https://github.com/QwenLM/qwen-code/issues/12277) serve: Local Control enable fails with EADDRINUSE when the daemon's ephemeral port is… · `10-23 00:15`
+3. 🔀 Opened PR [#15246](https://github.com/QwenLM/qwen-code/pull/15246) perf(memory): retain unchanged legacy catalog snapshots · `10-22 23:51`
+4. 🟣 Merged PR [#15053](https://github.com/QwenLM/qwen-code/pull/15053) fix(core): make Anthropic global cache scope opt-in on every base URL · `10-22 21:09`
+5. 🟣 Merged PR [#15157](https://github.com/QwenLM/qwen-code/pull/15157) feat(managed-agent): add filtered session title queries · `10-22 20:46`
 
 <!--END_SECTION:activity-->
 
