@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **324** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 316 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 4 · [omp-web](https://github.com/ddallabenetta/omp-web) 1 · +3 more
+> 🟣 **333** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 325 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 4 · [omp-web](https://github.com/ddallabenetta/omp-web) 1 · +3 more
 
-1. 🔀 Opened PR [#15158](https://github.com/QwenLM/qwen-code/pull/15158) test(managed-agent): atomically claim MCP fixture closes · `10-22 11:57`
-2. 🔀 Opened PR [#15157](https://github.com/QwenLM/qwen-code/pull/15157) feat(managed-agent): add filtered session title queries · `10-22 11:51`
-3. 🔀 Opened PR [#15155](https://github.com/QwenLM/qwen-code/pull/15155) fix(managed-agent): narrow Hosted tool profiles to Todo · `10-22 11:25`
-4. 🔀 Opened PR [#15154](https://github.com/QwenLM/qwen-code/pull/15154) test(managed-agent): pin durable recovery park acceptance · `10-22 11:24`
-5. 🟣 Merged PR [#15142](https://github.com/QwenLM/qwen-code/pull/15142) fix(ci): enroll the OpenTUI parity tests in the no-AK lane · `10-22 11:16`
+1. 🟣 Merged PR [#15003](https://github.com/QwenLM/qwen-code/pull/15003) feat(ci): restore a MariaDB leg for the non-Hosted IT family · `10-22 19:24`
+2. 🟣 Merged PR [#15073](https://github.com/QwenLM/qwen-code/pull/15073) test(core): pin the no-upstream branch shape the web-shell push hint reads · `10-22 19:04`
+3. 🟣 Merged PR [#15158](https://github.com/QwenLM/qwen-code/pull/15158) test(managed-agent): atomically claim MCP fixture closes · `10-22 17:47`
+4. ✅ Closed issue [#15074](https://github.com/QwenLM/qwen-code/issues/15074) test(managed-agent): #15046 follow-ups — sync the D7-2 acceptance criterion bilingually… · `10-22 17:45`
+5. 🟣 Merged PR [#15154](https://github.com/QwenLM/qwen-code/pull/15154) test(managed-agent): pin durable recovery park acceptance · `10-22 17:45`
 
 <!--END_SECTION:activity-->
 
