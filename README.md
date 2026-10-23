@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **335** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 327 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 4 · [omp-web](https://github.com/ddallabenetta/omp-web) 1 · +3 more
+> 🟣 **324** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 317 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 4 · [omp-web](https://github.com/ddallabenetta/omp-web) 1 · +2 more
 
-1. 🔀 Opened PR [#15279](https://github.com/QwenLM/qwen-code/pull/15279) fix(acp): stop blanking replay App html that cannot reclaim bytes · `10-23 02:46`
-2. 📝 Opened issue [#15247](https://github.com/QwenLM/qwen-code/issues/15247) feat(runtime-broker): add an HTTP-backed external Runtime provisioner for Session workers · `10-23 02:07`
-3. ✅ Closed issue [#11394](https://github.com/QwenLM/qwen-code/issues/11394) test(e2e): sdk-typescript docker leg shares one QWEN\_HOME; memory prefetch eats… · `10-23 01:48`
-4. ✅ Closed issue [#13556](https://github.com/QwenLM/qwen-code/issues/13556) sed -i simulation misreads backslash escapes inside bracket expressions · `10-23 01:21`
-5. 🔀 Opened PR [#15261](https://github.com/QwenLM/qwen-code/pull/15261) feat(runtime-broker): add HTTP-backed external scratch workers · `10-23 01:19`
+1. 🟣 Merged PR [#15053](https://github.com/QwenLM/qwen-code/pull/15053) fix(core): make Anthropic global cache scope opt-in on every base URL · `10-22 21:09`
+2. 🟣 Merged PR [#15157](https://github.com/QwenLM/qwen-code/pull/15157) feat(managed-agent): add filtered session title queries · `10-22 20:46`
+3. 🟣 Merged PR [#15003](https://github.com/QwenLM/qwen-code/pull/15003) feat(ci): restore a MariaDB leg for the non-Hosted IT family · `10-22 19:24`
+4. 🟣 Merged PR [#15073](https://github.com/QwenLM/qwen-code/pull/15073) test(core): pin the no-upstream branch shape the web-shell push hint reads · `10-22 19:04`
+5. 🟣 Merged PR [#15158](https://github.com/QwenLM/qwen-code/pull/15158) test(managed-agent): atomically claim MCP fixture closes · `10-22 17:47`
 
 <!--END_SECTION:activity-->
 
