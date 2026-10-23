@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **329** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 322 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 4 · [omp-web](https://github.com/ddallabenetta/omp-web) 1 · +2 more
+> 🟣 **337** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 329 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 4 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 1 · +3 more
 
-1. 🔀 Opened PR [#15356](https://github.com/QwenLM/qwen-code/pull/15356) test(cli): cover workspace-scope aux model persistence in ModelDialog · `10-23 18:28`
-2. 🔀 Opened PR [#15355](https://github.com/QwenLM/qwen-code/pull/15355) fix(release): skip cua-sdk publish dry-run when the version is already on npm · `10-23 18:25`
-3. 🟣 Merged PR [#15279](https://github.com/QwenLM/qwen-code/pull/15279) fix(acp): stop blanking replay App html that cannot reclaim bytes · `10-23 15:58`
-4. 📝 Opened issue [#15341](https://github.com/QwenLM/qwen-code/issues/15341) test(cli): hosted-harness-session hasActivePrompt assertion flips under extreme ECS host… · `10-23 15:53`
-5. 🔀 Opened PR [#15342](https://github.com/QwenLM/qwen-code/pull/15342) fix(scripts): support linux/arm64 in lint runner setup · `10-23 15:48`
+1. 🟣 Merged PR [#15370](https://github.com/QwenLM/qwen-code/pull/15370) test(cli): stop assuming one build's CA loader and sleep semantics · [qwen-code](https://github.com/QwenLM/qwen-code) · `10-24 00:23`
+2. 🟣 Merged PR [#15364](https://github.com/QwenLM/qwen-code/pull/15364) fix(ci): route web shell smoke to ARM64 independently · [qwen-code](https://github.com/QwenLM/qwen-code) · `10-24 00:02`
+3. 🟣 Merged PR [#15374](https://github.com/QwenLM/qwen-code/pull/15374) test(core): give the paged-outcomes turn a CI-sized timeout · [qwen-code](https://github.com/QwenLM/qwen-code) · `10-23 23:54`
+4. 🚀 Released [v0.1.2](https://github.com/yiliang114/dsh-session-deck/releases/tag/v0.1.2) DSH Session Deck 0.1.2 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) · `10-23 23:44`
+5. 🔀 Opened PR [#15379](https://github.com/QwenLM/qwen-code/pull/15379) ci: retain raw JUnit reports for same-repo runs · [qwen-code](https://github.com/QwenLM/qwen-code) · `10-23 23:40`
 
 <!--END_SECTION:activity-->
 
