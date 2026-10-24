@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **349** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 339 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 4 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 3 · +3 more
+> 🟣 **357** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 346 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 4 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 3 · +4 more
 
-1. 🟣 Merged PR [#3](https://github.com/yiliang114/dsh-session-deck/pull/3) feat: add archived session recovery and completion reminders · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) · `10-24 23:15`
-2. 🔀 Opened PR [#15455](https://github.com/QwenLM/qwen-code/pull/15455) test(managed-agent): count the permission-rules columns in the schema inventory · [qwen-code](https://github.com/QwenLM/qwen-code) · `10-24 23:03`
-3. 🟣 Merged PR [#15228](https://github.com/QwenLM/qwen-code/pull/15228) fix(cli): harden serve token resolution against project env injection · [qwen-code](https://github.com/QwenLM/qwen-code) · `10-24 22:52`
-4. 🔀 Opened PR [#15451](https://github.com/QwenLM/qwen-code/pull/15451) test(managed-agent): assert web\_fetch in the Hosted workspace gate fixture · [qwen-code](https://github.com/QwenLM/qwen-code) · `10-24 21:53`
-5. 🟣 Merged PR [#15391](https://github.com/QwenLM/qwen-code/pull/15391) fix(core): count only well-formed snapshots toward the workflow retention cap · [qwen-code](https://github.com/QwenLM/qwen-code) · `10-24 21:47`
+1. 🔀 Opened PR [#15475](https://github.com/QwenLM/qwen-code/pull/15475) test(ci): pin the disk-pressure collector revision and FULL\_PAYLOAD run bodies · `10-25 02:25`
+2. ✅ Closed issue [#15424](https://github.com/QwenLM/qwen-code/issues/15424) docs(design): the scheduled-task gate design's probe examples fail when copied into a… · `10-25 01:54`
+3. 🔀 Opened PR [#15471](https://github.com/QwenLM/qwen-code/pull/15471) fix(ci): file main CI failures whose successor has not settled · `10-25 01:36`
+4. 🟣 Merged PR [#15469](https://github.com/QwenLM/qwen-code/pull/15469) test(managed-agent): correct the CSI inventory column count after #15448 · `10-25 01:29`
+5. 🟣 Merged PR [#15455](https://github.com/QwenLM/qwen-code/pull/15455) fix(managed-agent): restore the module and cli lanes after #15448 · `10-25 01:26`
 
 <!--END_SECTION:activity-->
 
