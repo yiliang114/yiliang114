@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **341** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 332 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 4 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 2 · +3 more
+> 🟣 **349** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 339 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 4 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 3 · +3 more
 
-1. 🔀 Opened PR [#15434](https://github.com/QwenLM/qwen-code/pull/15434) fix(serve): probe X11 display reachability before advertising the native directory picker · `10-24 18:24`
-2. 🟣 Merged PR [#15410](https://github.com/QwenLM/qwen-code/pull/15410) feat(ci): fail fast when a pool host drifts off the font baseline · `10-24 18:09`
-3. 🔀 Opened PR [#15432](https://github.com/QwenLM/qwen-code/pull/15432) test(managed-agent): retry the Hosted boot when a probed port is taken · `10-24 17:39`
-4. 🔀 Opened PR [#15429](https://github.com/QwenLM/qwen-code/pull/15429) test(core): isolate outcomes-test retries from the dispatch gate · `10-24 17:16`
-5. ✅ Closed issue [#15402](https://github.com/QwenLM/qwen-code/issues/15402) VS Code companion: copying selected transcript text (Ctrl+C / context-menu Copy) stopped… · `10-24 16:54`
+1. 🟣 Merged PR [#3](https://github.com/yiliang114/dsh-session-deck/pull/3) feat: add archived session recovery and completion reminders · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) · `10-24 23:15`
+2. 🔀 Opened PR [#15455](https://github.com/QwenLM/qwen-code/pull/15455) test(managed-agent): count the permission-rules columns in the schema inventory · [qwen-code](https://github.com/QwenLM/qwen-code) · `10-24 23:03`
+3. 🟣 Merged PR [#15228](https://github.com/QwenLM/qwen-code/pull/15228) fix(cli): harden serve token resolution against project env injection · [qwen-code](https://github.com/QwenLM/qwen-code) · `10-24 22:52`
+4. 🔀 Opened PR [#15451](https://github.com/QwenLM/qwen-code/pull/15451) test(managed-agent): assert web\_fetch in the Hosted workspace gate fixture · [qwen-code](https://github.com/QwenLM/qwen-code) · `10-24 21:53`
+5. 🟣 Merged PR [#15391](https://github.com/QwenLM/qwen-code/pull/15391) fix(core): count only well-formed snapshots toward the workflow retention cap · [qwen-code](https://github.com/QwenLM/qwen-code) · `10-24 21:47`
 
 <!--END_SECTION:activity-->
 
