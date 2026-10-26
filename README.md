@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **379** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 367 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 4 · +4 more
+> 🟣 **367** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 355 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 4 · +4 more
 
-1. 🟣 Merged PR [#15520](https://github.com/QwenLM/qwen-code/pull/15520) docs(design): external Hosted Workspace profile (phase 2) · `10-26 01:42`
-2. ✅ Closed issue [#15477](https://github.com/QwenLM/qwen-code/issues/15477) Main CI failed: Qwen Code CI — src/serve/hosted-harness-session.test.ts \> … \> settles… · `10-26 01:00`
-3. ✅ Closed issue [#15341](https://github.com/QwenLM/qwen-code/issues/15341) test(cli): hosted-harness-session hasActivePrompt assertion flips under extreme ECS host… · `10-26 01:00`
-4. 🟣 Merged PR [#15551](https://github.com/QwenLM/qwen-code/pull/15551) test(cli): budget the flaky hosted-harness waits through the settle policy · `10-26 00:51`
-5. 🔀 Opened PR [#15561](https://github.com/QwenLM/qwen-code/pull/15561) fix(ci): route the tui-parity changes gate to the ECS pool for trusted PRs · `10-26 00:51`
+1. ✅ Closed issue [#15587](https://github.com/QwenLM/qwen-code/issues/15587) Main CI failed: Managed Agent gate — SurfaceAdmissionAcceptanceTest.belowReadAndBelowFami… · `10-26 11:54`
+2. 🔀 Opened PR [#15605](https://github.com/QwenLM/qwen-code/pull/15605) fix(ci): bound setup-java on the pool and fall back to the tool cache · `10-26 11:48`
+3. ✅ Closed issue [#12989](https://github.com/QwenLM/qwen-code/issues/12989) Deferred review findings from PR #12965: ci(sdk-java): guard Flyway version uniqueness… · `10-26 11:40`
+4. ✅ Closed issue [#15596](https://github.com/QwenLM/qwen-code/issues/15596) SDK Release Failed for v0.1.23 on 2026-10-26 · `10-26 11:25`
+5. 🔀 Opened PR [#15601](https://github.com/QwenLM/qwen-code/pull/15601) chore(release): sdk-typescript v0.1.23 · `10-26 11:24`
 
 <!--END_SECTION:activity-->
 
