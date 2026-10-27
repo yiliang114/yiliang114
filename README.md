@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **382** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 370 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 4 · +4 more
+> 🟣 **373** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 361 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 4 · +4 more
 
-1. 🔀 Opened PR [#15685](https://github.com/QwenLM/qwen-code/pull/15685) feat(managed-agent): enable external files with verified close · `10-27 06:01`
-2. 🔀 Opened PR [#15684](https://github.com/QwenLM/qwen-code/pull/15684) feat(managed-agent): materialize inert external workspaces · `10-27 05:58`
-3. 📝 Opened issue [#15677](https://github.com/QwenLM/qwen-code/issues/15677) ci(tui-parity): installed-distribution darwin-x64 leg fails 5 of 6 runs on GitHub-hosted… · `10-27 04:03`
-4. 📝 Opened issue [#15674](https://github.com/QwenLM/qwen-code/issues/15674) Deferred review findings from PR #15441: fix(acp): carry rewind identity through daemon… · `10-27 03:07`
-5. 🔀 Opened PR [#15659](https://github.com/QwenLM/qwen-code/pull/15659) feat(acp): display teammate activity without affecting leader output \[13902 C/3\] · `10-26 23:23`
+1. 🟣 Merged PR [#15623](https://github.com/QwenLM/qwen-code/pull/15623) fix(ci): preserve setup-java JDKs during pool fallback · `10-27 11:54`
+2. ✅ Closed issue [#15677](https://github.com/QwenLM/qwen-code/issues/15677) ci(tui-parity): installed-distribution darwin-x64 leg fails 5 of 6 runs on GitHub-hosted… · `10-27 11:13`
+3. 🟣 Merged PR [#15692](https://github.com/QwenLM/qwen-code/pull/15692) test(integration): widen the ready-prompt budget on GitHub-hosted macOS x64 · `10-27 11:13`
+4. 🟣 Merged PR [#15644](https://github.com/QwenLM/qwen-code/pull/15644) fix(ci): deepen until the lint scope's own acceptance holds · `10-27 09:52`
+5. 🔀 Opened PR [#15685](https://github.com/QwenLM/qwen-code/pull/15685) feat(managed-agent): enable external files with verified close · `10-27 06:01`
 
 <!--END_SECTION:activity-->
 
