@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **373** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 361 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 4 · +4 more
+> 🟣 **377** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 365 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 4 · +4 more
 
-1. 🟣 Merged PR [#15623](https://github.com/QwenLM/qwen-code/pull/15623) fix(ci): preserve setup-java JDKs during pool fallback · `10-27 11:54`
-2. ✅ Closed issue [#15677](https://github.com/QwenLM/qwen-code/issues/15677) ci(tui-parity): installed-distribution darwin-x64 leg fails 5 of 6 runs on GitHub-hosted… · `10-27 11:13`
-3. 🟣 Merged PR [#15692](https://github.com/QwenLM/qwen-code/pull/15692) test(integration): widen the ready-prompt budget on GitHub-hosted macOS x64 · `10-27 11:13`
-4. 🟣 Merged PR [#15644](https://github.com/QwenLM/qwen-code/pull/15644) fix(ci): deepen until the lint scope's own acceptance holds · `10-27 09:52`
-5. 🔀 Opened PR [#15685](https://github.com/QwenLM/qwen-code/pull/15685) feat(managed-agent): enable external files with verified close · `10-27 06:01`
+1. ✅ Closed issue [#15705](https://github.com/QwenLM/qwen-code/issues/15705) release: close the failure-notification issue once a re-run of the same run succeeds · `10-27 17:43`
+2. 🟣 Merged PR [#15711](https://github.com/QwenLM/qwen-code/pull/15711) fix(release): close the failure issue once a re-run passes · `10-27 17:43`
+3. 🟣 Merged PR [#15654](https://github.com/QwenLM/qwen-code/pull/15654) feat(managed-agent): add the external-workspace provisioning prerequisite (#15512) · `10-27 17:08`
+4. ✅ Closed issue [#15527](https://github.com/QwenLM/qwen-code/issues/15527) managed-agent: follow-ups recorded after the automation scanner row pool merged (#15442) · `10-27 16:52`
+5. 🟣 Merged PR [#15632](https://github.com/QwenLM/qwen-code/pull/15632) refactor(managed-agent): close the scanner row-pool residues (#15527) · `10-27 16:52`
 
 <!--END_SECTION:activity-->
 
