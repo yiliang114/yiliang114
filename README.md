@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **390** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 378 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 4 · +4 more
+> 🟣 **378** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 366 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 4 · +4 more
 
-1. 📝 Opened issue [#15820](https://github.com/QwenLM/qwen-code/issues/15820) full tier is red on main itself: ManagedAgentPackagingIT roster contradiction and a… · `10-29 05:59`
-2. 📝 Opened issue [#15819](https://github.com/QwenLM/qwen-code/issues/15819) Deferred review findings from PR #15807: fix(cli): prevent provider menu overlap in… · `10-29 04:47`
-3. 🔀 Opened PR [#15818](https://github.com/QwenLM/qwen-code/pull/15818) fix(cli): map held pidfile lock and identity refusals to one stderr line · `10-29 04:43`
-4. 📝 Opened issue [#15805](https://github.com/QwenLM/qwen-code/issues/15805) test(managed-agent): unqualified JdbcTemplate injection points left over from #15718… · `10-29 01:49`
-5. 🟣 Merged PR [#15778](https://github.com/QwenLM/qwen-code/pull/15778) perf(web-templates): reclaim 92 KB of the HTML export renderer bundle · `10-28 22:52`
+1. 🔀 Opened PR [#15832](https://github.com/QwenLM/qwen-code/pull/15832) fix(release): reduce hosted runner queue delays · `10-29 12:53`
+2. 🟣 Merged PR [#15825](https://github.com/QwenLM/qwen-code/pull/15825) fix(release): unblock Managed runtime 0.26.3 backfill · `10-29 11:54`
+3. 🔀 Opened PR [#15830](https://github.com/QwenLM/qwen-code/pull/15830) fix(ci): exempt surefire-bound IT classes from the failsafe roster · `10-29 11:52`
+4. 🟣 Merged PR [#15809](https://github.com/QwenLM/qwen-code/pull/15809) test(managed-agent): qualify test fixtures onto the managed JdbcTemplate · `10-29 11:42`
+5. 🟣 Merged PR [#15818](https://github.com/QwenLM/qwen-code/pull/15818) fix(cli): map held pidfile lock and identity refusals to one stderr line · `10-29 11:16`
 
 <!--END_SECTION:activity-->
 
