@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **383** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 371 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 4 · +4 more
+> 🟣 **388** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 376 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 4 · +4 more
 
-1. 📝 Opened issue [#15861](https://github.com/QwenLM/qwen-code/issues/15861) ci(smoke): web-shell host-directory-picker smoke times out on Add Workspace dialog… · `10-29 20:35`
-2. 🔀 Opened PR [#15858](https://github.com/QwenLM/qwen-code/pull/15858) fix(ci): use the runner proxy for RocketMQ downloads · `10-29 19:14`
-3. 🔀 Opened PR [#15854](https://github.com/QwenLM/qwen-code/pull/15854) perf(release): reuse verified native audio prebuilds across releases · `10-29 18:45`
-4. 🟣 Merged PR [#15848](https://github.com/QwenLM/qwen-code/pull/15848) fix(acp): keep setCoreValue resolving when the output-language write fails · `10-29 18:08`
-5. 🟣 Merged PR [#15842](https://github.com/QwenLM/qwen-code/pull/15842) test(managed-agent): verify journal constraint rollback across databases · `10-29 18:07`
+1. 🟣 Merged PR [#15889](https://github.com/QwenLM/qwen-code/pull/15889) test(install): isolate Windows fixtures from persistent PATH · `10-30 04:41`
+2. 🟣 Merged PR [#15884](https://github.com/QwenLM/qwen-code/pull/15884) fix(ci): use runner temp for Web Shell browser smoke · `10-30 03:42`
+3. 🔀 Opened PR [#15888](https://github.com/QwenLM/qwen-code/pull/15888) fix(ci): partition the complete macOS test suite into bounded jobs · `10-30 02:47`
+4. 🔀 Opened PR [#15887](https://github.com/QwenLM/qwen-code/pull/15887) feat(serve): enable remote access from settings without restarting · `10-30 02:38`
+5. 🔀 Opened PR [#15886](https://github.com/QwenLM/qwen-code/pull/15886) fix(ci): isolate web-shell smoke from shared runner networks · `10-30 02:34`
 
 <!--END_SECTION:activity-->
 
