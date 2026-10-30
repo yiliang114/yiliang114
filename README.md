@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **387** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 375 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 4 · +4 more
+> 🟣 **389** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 377 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 4 · +4 more
 
-1. 🟣 Merged PR [#15912](https://github.com/QwenLM/qwen-code/pull/15912) test(managed): count only accepted cancellation takeovers · `10-30 19:43`
-2. 🟣 Merged PR [#15886](https://github.com/QwenLM/qwen-code/pull/15886) fix(ci): isolate web-shell smoke from shared runner networks · `10-30 19:43`
-3. 🟣 Merged PR [#15914](https://github.com/QwenLM/qwen-code/pull/15914) docs(ci): correct the qwen-autofix job cap and budget table to match the workflow · `10-30 19:42`
-4. 🟣 Merged PR [#15854](https://github.com/QwenLM/qwen-code/pull/15854) perf(release): reuse verified native audio prebuilds across releases · `10-30 19:27`
-5. 🟣 Merged PR [#15910](https://github.com/QwenLM/qwen-code/pull/15910) test(managed-agent): retry the items read through a lagging projection · `10-30 18:25`
+1. 🔀 Opened PR [#15943](https://github.com/QwenLM/qwen-code/pull/15943) refactor(review): build the all-zero DriveReport through one factory · `10-31 03:37`
+2. 🔀 Opened PR [#15940](https://github.com/QwenLM/qwen-code/pull/15940) fix(vscode): gate the companion vitest worker cap on the shared pool · `10-31 02:37`
+3. 🔀 Opened PR [#15937](https://github.com/QwenLM/qwen-code/pull/15937) fix(ci): exempt non-TUI packages from the parity impact gate · `10-31 01:47`
+4. 🔀 Opened PR [#15934](https://github.com/QwenLM/qwen-code/pull/15934) fix(review): route isAoneHostFamily through the shared host normalizer · `10-31 01:24`
+5. ✅ Closed issue [#13232](https://github.com/QwenLM/qwen-code/issues/13232) /context shows a 1M context window as 1000.0k tokens · `10-31 00:51`
 
 <!--END_SECTION:activity-->
 
