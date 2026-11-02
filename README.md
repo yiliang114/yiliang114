@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **384** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 373 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 3 · +4 more
+> 🟣 **377** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 366 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 3 · +4 more
 
-1. ✅ Closed issue [#15600](https://github.com/QwenLM/qwen-code/issues/15600) Headless -p refuses read-only shell commands that use 2\>&1: fd duplication is parsed as… · `11-02 00:51`
-2. ✅ Closed issue [#15537](https://github.com/QwenLM/qwen-code/issues/15537) bug(core): drained loop warning can be lost before model send while telemetry records… · `11-02 00:43`
-3. ✅ Closed issue [#12514](https://github.com/QwenLM/qwen-code/issues/12514) Session-commit registration does not cover every path or spelling that can land a commit… · `11-02 00:43`
-4. 🟣 Merged PR [#16073](https://github.com/QwenLM/qwen-code/pull/16073) fix(core): use the amend delta for loosely spelled amend commits · `11-02 00:43`
-5. 🔀 Opened PR [#16085](https://github.com/QwenLM/qwen-code/pull/16085) test(cli): guard settings reference against schema drift · `11-01 23:26`
+1. 🟣 Merged PR [#16104](https://github.com/QwenLM/qwen-code/pull/16104) fix(web-shell): put the list-failure notice under the tabs, not above them · `11-02 12:50`
+2. ✅ Closed issue [#16092](https://github.com/QwenLM/qwen-code/issues/16092) Main CI failed: SDK Java — HostedWorkspaceToolTurnIT.cancellationRequiresPhysicalSettleme… · `11-02 12:43`
+3. ✅ Closed issue [#12132](https://github.com/QwenLM/qwen-code/issues/12132) Deferred review findings from PR #12128: fix(ci): retry transient E2E build artifact… · `11-02 11:38`
+4. 🟣 Merged PR [#16082](https://github.com/QwenLM/qwen-code/pull/16082) fix(web-shell): surface Managed session list failures · `11-02 10:41`
+5. 🔀 Opened PR [#16097](https://github.com/QwenLM/qwen-code/pull/16097) fix(vscode): bucket session history by calendar week · `11-02 09:22`
 
 <!--END_SECTION:activity-->
 
