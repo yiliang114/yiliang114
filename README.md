@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **382** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 371 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 3 · +4 more
+> 🟣 **392** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 381 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 3 · +4 more
 
-1. 🔀 Reopened PR [#16151](https://github.com/QwenLM/qwen-code/pull/16151) fix(ci): interleave PR review endpoint cohorts and report final routes · `11-03 01:09`
-2. 🔀 Opened PR [#16154](https://github.com/QwenLM/qwen-code/pull/16154) fix(ci): repair desktop RPM dependency and teardown checks · `11-03 01:05`
-3. 🟣 Merged PR [#16130](https://github.com/QwenLM/qwen-code/pull/16130) feat(ci): let the PR review canary cohort carry its own endpoint · `11-02 23:22`
-4. ✅ Closed issue [#13106](https://github.com/QwenLM/qwen-code/issues/13106) fix(core): cd segments silently drop redirect targets from Write deny checks · `11-02 22:03`
-5. 🟣 Merged PR [#16129](https://github.com/QwenLM/qwen-code/pull/16129) fix(core): report redirects on cd segments · `11-02 22:03`
+1. 🔀 Opened PR [#16211](https://github.com/QwenLM/qwen-code/pull/16211) fix(ci): run desktop smoke headless on rpm roots without Xvfb · `11-03 21:47`
+2. 🔀 Opened PR [#16210](https://github.com/QwenLM/qwen-code/pull/16210) fix(vscode): keep the embedded-bundle guard failure a readable assertion · `11-03 21:28`
+3. 🟣 Merged PR [#16070](https://github.com/QwenLM/qwen-code/pull/16070) ci: scope triage finalize concurrency to PR runs · `11-03 20:45`
+4. ✅ Closed issue [#16039](https://github.com/QwenLM/qwen-code/issues/16039) Sandbox image for 0.26.5 not published: release build job failed · `11-03 20:28`
+5. ✅ Closed issue [#16063](https://github.com/QwenLM/qwen-code/issues/16063) VS Code companion spontaneously opens the extension's bundled generated-ui/main.js… · `11-03 19:38`
 
 <!--END_SECTION:activity-->
 
