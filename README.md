@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **392** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 381 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 3 · +4 more
+> 🟣 **398** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 387 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 3 · +4 more
 
-1. 🔀 Opened PR [#16211](https://github.com/QwenLM/qwen-code/pull/16211) fix(ci): run desktop smoke headless on rpm roots without Xvfb · `11-03 21:47`
-2. 🔀 Opened PR [#16210](https://github.com/QwenLM/qwen-code/pull/16210) fix(vscode): keep the embedded-bundle guard failure a readable assertion · `11-03 21:28`
-3. 🟣 Merged PR [#16070](https://github.com/QwenLM/qwen-code/pull/16070) ci: scope triage finalize concurrency to PR runs · `11-03 20:45`
-4. ✅ Closed issue [#16039](https://github.com/QwenLM/qwen-code/issues/16039) Sandbox image for 0.26.5 not published: release build job failed · `11-03 20:28`
-5. ✅ Closed issue [#16063](https://github.com/QwenLM/qwen-code/issues/16063) VS Code companion spontaneously opens the extension's bundled generated-ui/main.js… · `11-03 19:38`
+1. 🟣 Merged PR [#16218](https://github.com/QwenLM/qwen-code/pull/16218) fix(ci): probe the apt mirror so mainland E2E hosts can build the sandbox image · `11-04 05:52`
+2. 🟣 Merged PR [#16222](https://github.com/QwenLM/qwen-code/pull/16222) test(integration): install the local extension fixture from a subdirectory · `11-04 04:01`
+3. 🟣 Merged PR [#16177](https://github.com/QwenLM/qwen-code/pull/16177) fix(core): attribute monitor and workflow notifications to the registering turn · `11-04 01:42`
+4. 🔀 Opened PR [#16224](https://github.com/QwenLM/qwen-code/pull/16224) test(integration): give the ACP parity rig a scratch runtime directory · `11-04 01:16`
+5. ✅ Closed issue [#16158](https://github.com/QwenLM/qwen-code/issues/16158) bug(core): OpenRouter \`:exacto\` model ids fall back to the default context window · `11-04 00:42`
 
 <!--END_SECTION:activity-->
 
