@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **393** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 382 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 3 · +4 more
+> 🟣 **399** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 388 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 3 · +4 more
 
-1. ✅ Closed issue [#16152](https://github.com/QwenLM/qwen-code/issues/16152) Main CI failed: Desktop Checks — Desktop Checks \> … \> Install rpm build-root… · `11-04 12:50`
-2. 🔀 Opened PR [#16264](https://github.com/QwenLM/qwen-code/pull/16264) fix(core): headless project-hook trust requires the folder-trust feature · `11-04 11:44`
-3. 🟣 Merged PR [#16261](https://github.com/QwenLM/qwen-code/pull/16261) fix(ci): repin the RHEL 10 rpm root to the current stream10 digest · `11-04 11:14`
-4. 🟣 Merged PR [#16067](https://github.com/QwenLM/qwen-code/pull/16067) fix(ci): resume linter archive downloads · `11-04 10:53`
-5. ✅ Closed issue [#16251](https://github.com/QwenLM/qwen-code/issues/16251) Release Failed for v0.26.6-nightly.20261103.42aeddc6d7 on 2026-11-03 · `11-04 10:51`
+1. 📝 Opened issue [#16317](https://github.com/QwenLM/qwen-code/issues/16317) ci: release-sdk build-sdk lane rebuilds apt cold on mainland hosts — apply the shared… · `11-04 21:51`
+2. 🔀 Opened PR [#16316](https://github.com/QwenLM/qwen-code/pull/16316) fix(cli): keep project hook approval env inside the workspace · `11-04 21:32`
+3. 📝 Opened issue [#16313](https://github.com/QwenLM/qwen-code/issues/16313) bug(cli): approved project hooks never fire in the docker sandbox lane (E2E hook tests… · `11-04 20:34`
+4. ✅ Closed issue [#15970](https://github.com/QwenLM/qwen-code/issues/15970) ci: qwen-autofix.yml is at 458KB of the 500KB silent-failure limit · `11-04 19:50`
+5. 🟣 Merged PR [#16069](https://github.com/QwenLM/qwen-code/pull/16069) ci: reclaim qwen-autofix workflow headroom · `11-04 19:50`
 
 <!--END_SECTION:activity-->
 
