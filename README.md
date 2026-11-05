@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **401** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 390 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 3 · +4 more
+> 🟣 **398** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 387 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 3 · +4 more
 
-1. ✅ Closed issue [#16340](https://github.com/QwenLM/qwen-code/issues/16340) Docs: Qwen3.x on vLLM/SGLang under a custom --served-model-name loses thinking control… · `11-05 06:44`
-2. ✅ Closed issue [#16313](https://github.com/QwenLM/qwen-code/issues/16313) bug(cli): approved project hooks never fire in the docker sandbox lane (E2E hook tests… · `11-05 02:11`
-3. 🟣 Merged PR [#16316](https://github.com/QwenLM/qwen-code/pull/16316) fix(cli): keep project hook approval env inside the workspace · `11-05 02:10`
-4. 🟣 Merged PR [#16328](https://github.com/QwenLM/qwen-code/pull/16328) fix(ci): pin COREPACK\_HOME for Linux test shards on cold-HOME runs · `11-05 01:19`
-5. 🔀 Opened PR [#16324](https://github.com/QwenLM/qwen-code/pull/16324) feat(web-shell): let managed sessions reuse the host shell and ChatPane · `11-05 00:11`
+1. ✅ Closed issue [#16189](https://github.com/QwenLM/qwen-code/issues/16189) Main CI failed: Managed Agent gate — HostedAutomationFaultGatesIT.fg11cHarnessCrashesNeve… · `11-05 13:55`
+2. ✅ Closed issue [#16265](https://github.com/QwenLM/qwen-code/issues/16265) Main CI failed: Managed Agent gate — WorkspaceMigrationMySqlIT.legacyCwdSettlementWaiting… · `11-05 13:55`
+3. ✅ Closed issue [#16346](https://github.com/QwenLM/qwen-code/issues/16346) Main CI failed: Managed Agent gate — ClassSizeRatchetTest.productionClassesStayWithinThei… · `11-05 13:54`
+4. ✅ Closed issue [#16347](https://github.com/QwenLM/qwen-code/issues/16347) Main CI failed: Qwen Code CI — daemon/session/DaemonSessionProvider.test.tsx \> … \>… · `11-05 11:37`
+5. 🔀 Opened PR [#16358](https://github.com/QwenLM/qwen-code/pull/16358) fix(web-shell): defer rewind capacity-latch re-open publish past the rebuild commit… · `11-05 11:10`
 
 <!--END_SECTION:activity-->
 
