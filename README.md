@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **399** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 387 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 3 · +5 more
+> 🟣 **402** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 390 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 3 · +5 more
 
-1. ✅ Closed issue [#16279](https://github.com/QwenLM/qwen-code/issues/16279) bug(web-shell): generated-ui retention e2e never dispatches the continue request… · `11-06 21:21`
-2. ✅ Closed issue [#16431](https://github.com/QwenLM/qwen-code/issues/16431) Main CI failed: Managed Agent gate — ManagedAgentServerIntegrationTest.theTitleBoundIsEnf… · `11-06 21:15`
-3. 🟣 Merged PR [#16447](https://github.com/QwenLM/qwen-code/pull/16447) fix(managed-agent): settle a title the dispatcher claimed first · `11-06 21:15`
-4. 🟣 Merged PR [#16446](https://github.com/QwenLM/qwen-code/pull/16446) test(managed-agent): retarget the lifecycle IT and retry snapshot claim deadlocks · `11-06 21:15`
-5. ✅ Closed issue [#15712](https://github.com/QwenLM/qwen-code/issues/15712) Main CI failed: E2E Tests — interactive/tui-foreground-shell.test.ts \> keeps PTY bytes… · `11-06 20:28`
+1. 🟣 Merged PR [#16476](https://github.com/QwenLM/qwen-code/pull/16476) fix(ci): refresh host assets on older PR checkouts · `11-07 01:42`
+2. 🟣 Merged PR [#16456](https://github.com/QwenLM/qwen-code/pull/16456) test(web-shell): unit-test settings development route · `11-07 00:44`
+3. 🟣 Merged PR [#16469](https://github.com/QwenLM/qwen-code/pull/16469) test(serve): cover the workspace\_runtime\_stop boot-time conjunction · `11-07 00:42`
+4. ✅ Closed issue [#16419](https://github.com/QwenLM/qwen-code/issues/16419) Main CI failed: SDK Java — ToolPublicationLifecycleMySqlIT.receiptAndReplayDoNotDeadlockW… · `11-07 00:27`
+5. 📝 Opened issue [#16471](https://github.com/QwenLM/qwen-code/issues/16471) web-shell: managed-host review suggestions deferred from #16200 · `11-06 23:11`
 
 <!--END_SECTION:activity-->
 
