@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **392** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 381 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 3 · +4 more
+> 🟣 **399** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 387 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 3 · +5 more
 
-1. 🔀 Opened PR [#16432](https://github.com/QwenLM/qwen-code/pull/16432) fix(cli): surface workflow agent approvals in the interactive TUI (#16425) · `11-06 13:34`
-2. ✅ Closed issue [#16308](https://github.com/QwenLM/qwen-code/issues/16308) bug(core): Llama 3.2 Vision, Llama 4, LLaVA, Pixtral and Mistral Small 3.1/3.2 are… · `11-06 02:43`
-3. ✅ Closed issue [#16322](https://github.com/QwenLM/qwen-code/issues/16322) Main CI failed: E2E Tests — cli/tool-hook-context.test.ts \> … \> ACP: delivers PreToolUse… · `11-05 23:54`
-4. 🔀 Opened PR [#16404](https://github.com/QwenLM/qwen-code/pull/16404) fix(cli): surface stacked-skill overflow in non-interactive and ACP runs · `11-05 23:34`
-5. 🟣 Merged PR [#16390](https://github.com/QwenLM/qwen-code/pull/16390) fix(cli): forward the folder-trust store into the container sandbox · `11-05 22:46`
+1. ✅ Closed issue [#16279](https://github.com/QwenLM/qwen-code/issues/16279) bug(web-shell): generated-ui retention e2e never dispatches the continue request… · `11-06 21:21`
+2. ✅ Closed issue [#16431](https://github.com/QwenLM/qwen-code/issues/16431) Main CI failed: Managed Agent gate — ManagedAgentServerIntegrationTest.theTitleBoundIsEnf… · `11-06 21:15`
+3. 🟣 Merged PR [#16447](https://github.com/QwenLM/qwen-code/pull/16447) fix(managed-agent): settle a title the dispatcher claimed first · `11-06 21:15`
+4. 🟣 Merged PR [#16446](https://github.com/QwenLM/qwen-code/pull/16446) test(managed-agent): retarget the lifecycle IT and retry snapshot claim deadlocks · `11-06 21:15`
+5. ✅ Closed issue [#15712](https://github.com/QwenLM/qwen-code/issues/15712) Main CI failed: E2E Tests — interactive/tui-foreground-shell.test.ts \> keeps PTY bytes… · `11-06 20:28`
 
 <!--END_SECTION:activity-->
 
