@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **402** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 390 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 3 · +5 more
+> 🟣 **398** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 386 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 3 · +5 more
 
-1. 🟣 Merged PR [#16476](https://github.com/QwenLM/qwen-code/pull/16476) fix(ci): refresh host assets on older PR checkouts · `11-07 01:42`
-2. 🟣 Merged PR [#16456](https://github.com/QwenLM/qwen-code/pull/16456) test(web-shell): unit-test settings development route · `11-07 00:44`
-3. 🟣 Merged PR [#16469](https://github.com/QwenLM/qwen-code/pull/16469) test(serve): cover the workspace\_runtime\_stop boot-time conjunction · `11-07 00:42`
-4. ✅ Closed issue [#16419](https://github.com/QwenLM/qwen-code/issues/16419) Main CI failed: SDK Java — ToolPublicationLifecycleMySqlIT.receiptAndReplayDoNotDeadlockW… · `11-07 00:27`
-5. 📝 Opened issue [#16471](https://github.com/QwenLM/qwen-code/issues/16471) web-shell: managed-host review suggestions deferred from #16200 · `11-06 23:11`
+1. ✅ Closed issue [#12993](https://github.com/QwenLM/qwen-code/issues/12993) Deferred review findings from PR #12975: fix(runtime-broker): Close the deferred W0c-2… · `11-07 12:50`
+2. 🟣 Merged PR [#16460](https://github.com/QwenLM/qwen-code/pull/16460) fix(serve): treat a payload-invalid start reply as a definite refusal · `11-07 12:50`
+3. 📝 Opened issue [#16520](https://github.com/QwenLM/qwen-code/issues/16520) fix(managed-agent): resident external workspace bindings have no shipped… · `11-07 12:50`
+4. 📝 Opened issue [#16519](https://github.com/QwenLM/qwen-code/issues/16519) fix(managed-agent): EPHEMERAL workspace registration skips cross-tenant host-path… · `11-07 12:50`
+5. 📝 Opened issue [#16514](https://github.com/QwenLM/qwen-code/issues/16514) Isolate external PR CI with disposable runners · `11-07 11:37`
 
 <!--END_SECTION:activity-->
 
