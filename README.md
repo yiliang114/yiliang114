@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **398** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 386 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 3 · +5 more
+> 🟣 **404** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 392 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 3 · +5 more
 
-1. ✅ Closed issue [#12993](https://github.com/QwenLM/qwen-code/issues/12993) Deferred review findings from PR #12975: fix(runtime-broker): Close the deferred W0c-2… · `11-07 12:50`
-2. 🟣 Merged PR [#16460](https://github.com/QwenLM/qwen-code/pull/16460) fix(serve): treat a payload-invalid start reply as a definite refusal · `11-07 12:50`
-3. 📝 Opened issue [#16520](https://github.com/QwenLM/qwen-code/issues/16520) fix(managed-agent): resident external workspace bindings have no shipped… · `11-07 12:50`
-4. 📝 Opened issue [#16519](https://github.com/QwenLM/qwen-code/issues/16519) fix(managed-agent): EPHEMERAL workspace registration skips cross-tenant host-path… · `11-07 12:50`
-5. 📝 Opened issue [#16514](https://github.com/QwenLM/qwen-code/issues/16514) Isolate external PR CI with disposable runners · `11-07 11:37`
+1. 🟣 Merged PR [#16512](https://github.com/QwenLM/qwen-code/pull/16512) fix(channels): keep a delivered turn completed when the notice send fails · `11-07 18:40`
+2. 🟣 Merged PR [#16203](https://github.com/QwenLM/qwen-code/pull/16203) fix(web-shell): close out managed-host review threads from #15928 · `11-07 17:45`
+3. ✅ Closed issue [#15973](https://github.com/QwenLM/qwen-code/issues/15973) test(ci): harden the TUI parity workspace reconciliation (deferred from #15937) · `11-07 17:42`
+4. 🟣 Merged PR [#16274](https://github.com/QwenLM/qwen-code/pull/16274) fix(core): keep the user's instruction last in the model request · `11-07 16:43`
+5. 🟣 Merged PR [#16281](https://github.com/QwenLM/qwen-code/pull/16281) fix(ci): probe the host egress proxy so mainland release hosts can build the sandbox image · `11-07 16:31`
 
 <!--END_SECTION:activity-->
 
