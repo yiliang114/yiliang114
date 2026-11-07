@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **404** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 392 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 3 · +5 more
+> 🟣 **408** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 396 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 3 · +5 more
 
-1. 🟣 Merged PR [#16512](https://github.com/QwenLM/qwen-code/pull/16512) fix(channels): keep a delivered turn completed when the notice send fails · `11-07 18:40`
-2. 🟣 Merged PR [#16203](https://github.com/QwenLM/qwen-code/pull/16203) fix(web-shell): close out managed-host review threads from #15928 · `11-07 17:45`
-3. ✅ Closed issue [#15973](https://github.com/QwenLM/qwen-code/issues/15973) test(ci): harden the TUI parity workspace reconciliation (deferred from #15937) · `11-07 17:42`
-4. 🟣 Merged PR [#16274](https://github.com/QwenLM/qwen-code/pull/16274) fix(core): keep the user's instruction last in the model request · `11-07 16:43`
-5. 🟣 Merged PR [#16281](https://github.com/QwenLM/qwen-code/pull/16281) fix(ci): probe the host egress proxy so mainland release hosts can build the sandbox image · `11-07 16:31`
+1. 🟣 Merged PR [#16551](https://github.com/QwenLM/qwen-code/pull/16551) fix(ci): route external PR CI directly to disposable runners · `11-08 02:17`
+2. 🟣 Merged PR [#16541](https://github.com/QwenLM/qwen-code/pull/16541) docs(daemon): document session-scoped permission vote for channel auto-approve · `11-08 01:41`
+3. 🔀 Opened PR [#16554](https://github.com/QwenLM/qwen-code/pull/16554) fix(web-shell): remove productScope gating on managed provider capabilities · `11-08 00:40`
+4. 🔀 Opened PR [#16553](https://github.com/QwenLM/qwen-code/pull/16553) fix(web-shell): remove productScope gating on managed provider capabilities · `11-08 00:37`
+5. 🟣 Merged PR [#16079](https://github.com/QwenLM/qwen-code/pull/16079) fix(core): surface Anthropic refusal details · `11-07 23:42`
 
 <!--END_SECTION:activity-->
 
