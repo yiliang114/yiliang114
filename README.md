@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **408** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 396 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 3 · +5 more
+> 🟣 **400** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 389 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 3 · +4 more
 
-1. 🟣 Merged PR [#16551](https://github.com/QwenLM/qwen-code/pull/16551) fix(ci): route external PR CI directly to disposable runners · `11-08 02:17`
-2. 🟣 Merged PR [#16541](https://github.com/QwenLM/qwen-code/pull/16541) docs(daemon): document session-scoped permission vote for channel auto-approve · `11-08 01:41`
-3. 🔀 Opened PR [#16554](https://github.com/QwenLM/qwen-code/pull/16554) fix(web-shell): remove productScope gating on managed provider capabilities · `11-08 00:40`
-4. 🔀 Opened PR [#16553](https://github.com/QwenLM/qwen-code/pull/16553) fix(web-shell): remove productScope gating on managed provider capabilities · `11-08 00:37`
-5. 🟣 Merged PR [#16079](https://github.com/QwenLM/qwen-code/pull/16079) fix(core): surface Anthropic refusal details · `11-07 23:42`
+1. ✅ Closed issue [#16400](https://github.com/QwenLM/qwen-code/issues/16400) Release Failed for v0.26.8 on 2026-11-05 · `11-08 13:09`
+2. 🟣 Merged PR [#16591](https://github.com/QwenLM/qwen-code/pull/16591) ci: raise the ephemeral runner slot cap to 64 per host · `11-08 12:58`
+3. 🔀 Opened PR [#16592](https://github.com/QwenLM/qwen-code/pull/16592) feat(ci): support HTTP proxy in ephemeral runner containers · `11-08 12:36`
+4. 🟣 Merged PR [#16554](https://github.com/QwenLM/qwen-code/pull/16554) fix(web-shell): remove productScope gating on managed provider capabilities · `11-08 11:18`
+5. ✅ Closed issue [#13987](https://github.com/QwenLM/qwen-code/issues/13987) docs(tools): add You.com free MCP to the web search MCP services · `11-08 10:50`
 
 <!--END_SECTION:activity-->
 
