@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **400** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 389 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 3 · +4 more
+> 🟣 **405** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 394 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 3 · +4 more
 
-1. ✅ Closed issue [#16400](https://github.com/QwenLM/qwen-code/issues/16400) Release Failed for v0.26.8 on 2026-11-05 · `11-08 13:09`
-2. 🟣 Merged PR [#16591](https://github.com/QwenLM/qwen-code/pull/16591) ci: raise the ephemeral runner slot cap to 64 per host · `11-08 12:58`
-3. 🔀 Opened PR [#16592](https://github.com/QwenLM/qwen-code/pull/16592) feat(ci): support HTTP proxy in ephemeral runner containers · `11-08 12:36`
-4. 🟣 Merged PR [#16554](https://github.com/QwenLM/qwen-code/pull/16554) fix(web-shell): remove productScope gating on managed provider capabilities · `11-08 11:18`
-5. ✅ Closed issue [#13987](https://github.com/QwenLM/qwen-code/issues/13987) docs(tools): add You.com free MCP to the web search MCP services · `11-08 10:50`
+1. ✅ Closed issue [#16616](https://github.com/QwenLM/qwen-code/issues/16616) ci: cross-job QWEN\_HOME pollution on shared runners kills PR review with settings.json… · `11-08 20:42`
+2. 🟣 Merged PR [#16618](https://github.com/QwenLM/qwen-code/pull/16618) fix(ci): stop cross-job qwen-home pollution from killing PR review · `11-08 20:42`
+3. 🔀 Opened PR [#16619](https://github.com/QwenLM/qwen-code/pull/16619) fix(ci): cover hz hosts in the fleet qwen update and pin both prefixes · `11-08 19:32`
+4. ✅ Closed issue [#16605](https://github.com/QwenLM/qwen-code/issues/16605) Fix 13 pre-existing Java test failures on #16023 branch (masked by compile break) · `11-08 19:10`
+5. 🔀 Opened PR [#16617](https://github.com/QwenLM/qwen-code/pull/16617) ci: route the Test aggregate gate and web-shell visuals capture to the disposable pool · `11-08 18:06`
 
 <!--END_SECTION:activity-->
 
