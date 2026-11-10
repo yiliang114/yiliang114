@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **405** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 395 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 3 · +3 more
+> 🟣 **407** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 397 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 3 · +3 more
 
-1. 🔀 Opened PR [#16823](https://github.com/QwenLM/qwen-code/pull/16823) fix(managed-agent): restore shared catalogs in existing schema APIs · `11-10 21:14`
-2. 📝 Opened issue [#16821](https://github.com/QwenLM/qwen-code/issues/16821) perf(web-shell): narrow sidebarless multi-live polling to displayed live workspaces · `11-10 21:04`
-3. 🟣 Merged PR [#16452](https://github.com/QwenLM/qwen-code/pull/16452) fix(deps)!: upgrade dependencies shipped by SDK and Web Shell · `11-10 20:42`
-4. 🟣 Merged PR [#16805](https://github.com/QwenLM/qwen-code/pull/16805) fix(cli): only enable sandbox debugging for explicit DEBUG values · `11-10 20:42`
-5. 📝 Opened issue [#16816](https://github.com/QwenLM/qwen-code/issues/16816) bug(browser-use): Zod 4 hangs on the second parse of a deep locator plan · `11-10 19:55`
+1. ✅ Closed issue [#16848](https://github.com/QwenLM/qwen-code/issues/16848) docs(providers): document Wiro AI under OpenAI-compatible providers · `11-11 04:46`
+2. 📝 Opened issue [#16842](https://github.com/QwenLM/qwen-code/issues/16842) managed-agent: startup gate refuses business-only catalogs after shared-catalog handling… · `11-11 01:46`
+3. 📝 Opened issue [#16832](https://github.com/QwenLM/qwen-code/issues/16832) ci: manual PR re-review channel is dead — qwen-code-pr-review.yml gates on… · `11-11 01:02`
+4. 🟣 Merged PR [#16128](https://github.com/QwenLM/qwen-code/pull/16128) fix(core): reject recycled PIDs in runtime session status · `11-10 23:42`
+5. 🟣 Merged PR [#16324](https://github.com/QwenLM/qwen-code/pull/16324) feat(web-shell): let managed sessions reuse the host shell · `11-10 23:17`
 
 <!--END_SECTION:activity-->
 
