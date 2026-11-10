@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **401** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 391 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 3 · +3 more
+> 🟣 **405** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 395 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 3 · +3 more
 
-1. 🟣 Merged PR [#16540](https://github.com/QwenLM/qwen-code/pull/16540) fix(core): decode ANSI-C words and the -c option terminator with bash's rules · `11-10 01:43`
-2. 📝 Opened issue [#16757](https://github.com/QwenLM/qwen-code/issues/16757) bug(core): non-UTF-8 ANSI-C bytes collapse to U+FFFD, so shell path guards miss the file… · `11-10 00:21`
-3. 🟣 Merged PR [#16713](https://github.com/QwenLM/qwen-code/pull/16713) fix(ci): only delete label-recovered registrations GitHub reports offline · `11-09 17:43`
-4. 🟣 Merged PR [#16715](https://github.com/QwenLM/qwen-code/pull/16715) fix(web-shell): let hosts own the composer add menu · `11-09 16:22`
-5. 🟣 Merged PR [#16705](https://github.com/QwenLM/qwen-code/pull/16705) fix(ci): add bounded, idempotent retry to the SDK release branch push · `11-09 13:42`
+1. 🔀 Opened PR [#16823](https://github.com/QwenLM/qwen-code/pull/16823) fix(managed-agent): restore shared catalogs in existing schema APIs · `11-10 21:14`
+2. 📝 Opened issue [#16821](https://github.com/QwenLM/qwen-code/issues/16821) perf(web-shell): narrow sidebarless multi-live polling to displayed live workspaces · `11-10 21:04`
+3. 🟣 Merged PR [#16452](https://github.com/QwenLM/qwen-code/pull/16452) fix(deps)!: upgrade dependencies shipped by SDK and Web Shell · `11-10 20:42`
+4. 🟣 Merged PR [#16805](https://github.com/QwenLM/qwen-code/pull/16805) fix(cli): only enable sandbox debugging for explicit DEBUG values · `11-10 20:42`
+5. 📝 Opened issue [#16816](https://github.com/QwenLM/qwen-code/issues/16816) bug(browser-use): Zod 4 hangs on the second parse of a deep locator plan · `11-10 19:55`
 
 <!--END_SECTION:activity-->
 
