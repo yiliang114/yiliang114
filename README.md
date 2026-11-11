@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **404** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 394 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 3 · +3 more
+> 🟣 **418** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 408 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 3 · +3 more
 
-1. 🟣 Merged PR [#16871](https://github.com/QwenLM/qwen-code/pull/16871) fix(ci): preserve live ephemeral runners past their age threshold · `11-11 13:15`
-2. 🔀 Opened PR [#16878](https://github.com/QwenLM/qwen-code/pull/16878) fix(cli): tolerate missing container $HOME and create sandbox home dir · `11-11 13:10`
-3. 🟣 Merged PR [#16823](https://github.com/QwenLM/qwen-code/pull/16823) fix(managed-agent): restore shared catalogs in existing schema APIs · `11-11 11:18`
-4. 🟣 Merged PR [#15161](https://github.com/QwenLM/qwen-code/pull/15161) feat(managed-mcp): propose live-only selection capacity · `11-11 11:18`
-5. 🔀 Opened PR [#16869](https://github.com/QwenLM/qwen-code/pull/16869) fix(web-shell): reconcile acknowledged managed model changes · `11-11 11:12`
+1. 📝 Opened issue [#16942](https://github.com/QwenLM/qwen-code/issues/16942) managed-agent Java CI never runs for feature-branch-base PRs · `11-11 21:46`
+2. 🔀 Opened PR [#16940](https://github.com/QwenLM/qwen-code/pull/16940) ci: complete test badge coverage and harden load-sensitive unit/E2E tests · `11-11 21:28`
+3. 🔀 Opened PR [#16939](https://github.com/QwenLM/qwen-code/pull/16939) fix(ci): heal pool runner leftovers that break checkout and corepack · `11-11 21:12`
+4. ✅ Closed issue [#16899](https://github.com/QwenLM/qwen-code/issues/16899) ci: github\_ci\_only PRs skip Prettier — the post-merge lint gap (#16872 class) remains… · `11-11 20:59`
+5. 🟣 Merged PR [#16920](https://github.com/QwenLM/qwen-code/pull/16920) ci: run Prettier on github-ci-only PRs to close the remaining post-merge lint gap · `11-11 20:59`
 
 <!--END_SECTION:activity-->
 
