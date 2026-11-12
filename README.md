@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **421** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 411 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 3 · +3 more
+> 🟣 **433** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 423 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 3 · +3 more
 
-1. ✅ Closed issue [#16959](https://github.com/QwenLM/qwen-code/issues/16959) deflake: integration-tests/interactive/tui-agent-loop-parity.test.ts › Ink TUI agent… · `11-12 03:43`
-2. 🔀 Opened PR [#16965](https://github.com/QwenLM/qwen-code/pull/16965) fix(ci): refresh the ci.yml workflow-size baseline · `11-12 03:29`
-3. 📝 Opened issue [#16958](https://github.com/QwenLM/qwen-code/issues/16958) ci: three verified follow-ups from the lint-gate and pool hardening cluster (heap-cap… · `11-12 00:58`
-4. 🟣 Merged PR [#16951](https://github.com/QwenLM/qwen-code/pull/16951) ci: bake the pool's browsers into its image and cap the container typecheck heap · `11-12 00:43`
-5. 🟣 Merged PR [#16940](https://github.com/QwenLM/qwen-code/pull/16940) ci: complete test badge coverage and harden load-sensitive unit/E2E tests · `11-12 00:43`
+1. 🟣 Merged PR [#17033](https://github.com/QwenLM/qwen-code/pull/17033) ci: bake the standalone runtime archives into the ephemeral image · `11-12 22:36`
+2. ✅ Closed issue [#16875](https://github.com/QwenLM/qwen-code/issues/16875) Let the model run dynamic workflows in the background in ACP clients (Web Shell) · `11-12 21:13`
+3. 🟣 Merged PR [#17011](https://github.com/QwenLM/qwen-code/pull/17011) ci: classify the disk floor refusal, and keep survey checkouts off /tmp · `11-12 21:09`
+4. 🟣 Merged PR [#17041](https://github.com/QwenLM/qwen-code/pull/17041) docs(browser-use): attribute the bundle-size gap to esbuild's path comments · `11-12 20:57`
+5. 🔀 Opened PR [#17042](https://github.com/QwenLM/qwen-code/pull/17042) fix(permissions): see the write in a \`\>\|\` clobber redirect · `11-12 20:49`
 
 <!--END_SECTION:activity-->
 
