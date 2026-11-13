@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **423** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 413 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 3 · +3 more
+> 🟣 **424** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 414 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 3 · +3 more
 
-1. 🟣 Merged PR [#17163](https://github.com/QwenLM/qwen-code/pull/17163) fix(deps): remove obsolete ExcelJS archive dependency paths · `11-13 20:51`
-2. 🟣 Merged PR [#17070](https://github.com/QwenLM/qwen-code/pull/17070) refactor(acp): replace host turn flags with explicit inputs · `11-13 18:04`
-3. ✅ Closed issue [#17137](https://github.com/QwenLM/qwen-code/issues/17137) bug(web-shell): an unconfirmed send in another conversation disables the composer… · `11-13 17:40`
-4. 🟣 Merged PR [#17140](https://github.com/QwenLM/qwen-code/pull/17140) fix(web-shell): keep the composer editable for a foreign unconfirmed send · `11-13 17:40`
-5. 📝 Opened issue [#17135](https://github.com/QwenLM/qwen-code/issues/17135) fix(runtime-broker): identity-free extension-status probe cannot resolve shared… · `11-13 15:22`
+1. 🔀 Opened PR [#17180](https://github.com/QwenLM/qwen-code/pull/17180) Verify agent loop execution across Managed entry points · `11-14 01:05`
+2. ✅ Closed issue [#17131](https://github.com/QwenLM/qwen-code/issues/17131) Main CI failed: E2E Tests — interactive/tui-agent-loop-parity.test.ts \> … \> 'two reads… · `11-14 00:42`
+3. ✅ Closed issue [#16947](https://github.com/QwenLM/qwen-code/issues/16947) Main CI failed: E2E Tests — interactive/tui-agent-loop-parity.test.ts \> … \> 'a retry… · `11-14 00:42`
+4. ✅ Closed issue [#16787](https://github.com/QwenLM/qwen-code/issues/16787) Main CI failed: E2E Tests — interactive/tui-agent-loop-parity.test.ts \> … \> 'an approved… · `11-14 00:42`
+5. ✅ Closed issue [#16505](https://github.com/QwenLM/qwen-code/issues/16505) Main CI failed: E2E Tests — interactive/ink-agent-loop-parity.test.ts \> … \> 'an approved… · `11-14 00:42`
 
 <!--END_SECTION:activity-->
 
