@@ -10,11 +10,11 @@
 
 > 🟣 **413** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 403 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 3 · +3 more
 
-1. 📝 Opened issue [#17222](https://github.com/QwenLM/qwen-code/issues/17222) ci: pick\_runner routes fork-internal PRs to the upstream ECS fleet and queues forever · `11-14 13:13`
-2. 📝 Opened issue [#17221](https://github.com/QwenLM/qwen-code/issues/17221) ci: pin the cron side of the failure-report schedule arm · `11-14 13:09`
-3. 🟣 Merged PR [#17178](https://github.com/QwenLM/qwen-code/pull/17178) fix(ci): route classify\_pr by association and admit dispatch to the fleet · `11-14 13:02`
-4. 🟣 Merged PR [#17180](https://github.com/QwenLM/qwen-code/pull/17180) Verify agent loop execution across Managed entry points · `11-14 13:02`
-5. 🔀 Opened PR [#17218](https://github.com/QwenLM/qwen-code/pull/17218) feat(acp): route live and read-only Agent Host sessions through the shared tool batch · `11-14 12:38`
+1. 📝 Opened issue [#17247](https://github.com/QwenLM/qwen-code/issues/17247) managed-agent: public child-agent delegation is refused on external-workspace profiles… · `11-14 20:48`
+2. ✅ Closed issue [#17243](https://github.com/QwenLM/qwen-code/issues/17243) deflake: integrations/external-context/src/provider-extension-local.test.ts › local… · `11-14 20:45`
+3. ✅ Closed issue [#17217](https://github.com/QwenLM/qwen-code/issues/17217) deflake: integration-tests/interactive/tui-agent-loop-parity.test.ts › Ink TUI agent… · `11-14 18:43`
+4. ✅ Closed issue [#12563](https://github.com/QwenLM/qwen-code/issues/12563) Deferred review findings from PR #12494: test(serve): tolerate workspace\_runtime\_stop… · `11-14 17:06`
+5. ✅ Closed issue [#12313](https://github.com/QwenLM/qwen-code/issues/12313) Deferred review findings from PR #12258: fix(mcp): Make App resource limits configurable… · `11-14 17:06`
 
 <!--END_SECTION:activity-->
 
