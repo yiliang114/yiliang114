@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **413** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 403 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 3 · +3 more
+> 🟣 **414** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 404 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 3 · +3 more
 
-1. 📝 Opened issue [#17247](https://github.com/QwenLM/qwen-code/issues/17247) managed-agent: public child-agent delegation is refused on external-workspace profiles… · `11-14 20:48`
-2. ✅ Closed issue [#17243](https://github.com/QwenLM/qwen-code/issues/17243) deflake: integrations/external-context/src/provider-extension-local.test.ts › local… · `11-14 20:45`
-3. ✅ Closed issue [#17217](https://github.com/QwenLM/qwen-code/issues/17217) deflake: integration-tests/interactive/tui-agent-loop-parity.test.ts › Ink TUI agent… · `11-14 18:43`
-4. ✅ Closed issue [#12563](https://github.com/QwenLM/qwen-code/issues/12563) Deferred review findings from PR #12494: test(serve): tolerate workspace\_runtime\_stop… · `11-14 17:06`
-5. ✅ Closed issue [#12313](https://github.com/QwenLM/qwen-code/issues/12313) Deferred review findings from PR #12258: fix(mcp): Make App resource limits configurable… · `11-14 17:06`
+1. 🔀 Opened PR [#17286](https://github.com/QwenLM/qwen-code/pull/17286) docs(design): Hosted Harness loop evaluation draft · `11-15 01:44`
+2. 🔀 Opened PR [#17283](https://github.com/QwenLM/qwen-code/pull/17283) docs(design): agent-loop capability ledger draft for the 1.0 migration tracker · `11-15 01:42`
+3. 🔀 Opened PR [#17282](https://github.com/QwenLM/qwen-code/pull/17282) ci(review): opt the review prebuild into the #9556 execution sandbox · `11-15 01:40`
+4. 🔀 Opened PR [#17281](https://github.com/QwenLM/qwen-code/pull/17281) fix(managed-agent): read inherited extension configuration at its committed state · `11-15 01:39`
+5. 🔀 Opened PR [#17279](https://github.com/QwenLM/qwen-code/pull/17279) ci: route trusted PR jobs off the disposable pool · `11-15 01:27`
 
 <!--END_SECTION:activity-->
 
