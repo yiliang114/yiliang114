@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **424** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 414 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 3 · +3 more
+> 🟣 **413** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 403 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 3 · +3 more
 
-1. 🔀 Opened PR [#17180](https://github.com/QwenLM/qwen-code/pull/17180) Verify agent loop execution across Managed entry points · `11-14 01:05`
-2. ✅ Closed issue [#17131](https://github.com/QwenLM/qwen-code/issues/17131) Main CI failed: E2E Tests — interactive/tui-agent-loop-parity.test.ts \> … \> 'two reads… · `11-14 00:42`
-3. ✅ Closed issue [#16947](https://github.com/QwenLM/qwen-code/issues/16947) Main CI failed: E2E Tests — interactive/tui-agent-loop-parity.test.ts \> … \> 'a retry… · `11-14 00:42`
-4. ✅ Closed issue [#16787](https://github.com/QwenLM/qwen-code/issues/16787) Main CI failed: E2E Tests — interactive/tui-agent-loop-parity.test.ts \> … \> 'an approved… · `11-14 00:42`
-5. ✅ Closed issue [#16505](https://github.com/QwenLM/qwen-code/issues/16505) Main CI failed: E2E Tests — interactive/ink-agent-loop-parity.test.ts \> … \> 'an approved… · `11-14 00:42`
+1. 📝 Opened issue [#17222](https://github.com/QwenLM/qwen-code/issues/17222) ci: pick\_runner routes fork-internal PRs to the upstream ECS fleet and queues forever · `11-14 13:13`
+2. 📝 Opened issue [#17221](https://github.com/QwenLM/qwen-code/issues/17221) ci: pin the cron side of the failure-report schedule arm · `11-14 13:09`
+3. 🟣 Merged PR [#17178](https://github.com/QwenLM/qwen-code/pull/17178) fix(ci): route classify\_pr by association and admit dispatch to the fleet · `11-14 13:02`
+4. 🟣 Merged PR [#17180](https://github.com/QwenLM/qwen-code/pull/17180) Verify agent loop execution across Managed entry points · `11-14 13:02`
+5. 🔀 Opened PR [#17218](https://github.com/QwenLM/qwen-code/pull/17218) feat(acp): route live and read-only Agent Host sessions through the shared tool batch · `11-14 12:38`
 
 <!--END_SECTION:activity-->
 
