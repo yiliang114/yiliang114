@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **414** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 404 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 3 · +3 more
+> 🟣 **406** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 396 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 3 · +3 more
 
-1. 🔀 Opened PR [#17286](https://github.com/QwenLM/qwen-code/pull/17286) docs(design): Hosted Harness loop evaluation draft · `11-15 01:44`
-2. 🔀 Opened PR [#17283](https://github.com/QwenLM/qwen-code/pull/17283) docs(design): agent-loop capability ledger draft for the 1.0 migration tracker · `11-15 01:42`
-3. 🔀 Opened PR [#17282](https://github.com/QwenLM/qwen-code/pull/17282) ci(review): opt the review prebuild into the #9556 execution sandbox · `11-15 01:40`
-4. 🔀 Opened PR [#17281](https://github.com/QwenLM/qwen-code/pull/17281) fix(managed-agent): read inherited extension configuration at its committed state · `11-15 01:39`
-5. 🔀 Opened PR [#17279](https://github.com/QwenLM/qwen-code/pull/17279) ci: route trusted PR jobs off the disposable pool · `11-15 01:27`
+1. 🔀 Opened PR [#17330](https://github.com/QwenLM/qwen-code/pull/17330) test(cli): cover the shared batch host inputs on cron and notification turns · `11-15 12:43`
+2. ✅ Closed issue [#17053](https://github.com/QwenLM/qwen-code/issues/17053) TypeScript SDK: transport negotiation can hang while reading the capabilities response… · `11-15 12:42`
+3. 🟣 Merged PR [#17218](https://github.com/QwenLM/qwen-code/pull/17218) feat(acp): route live and read-only Agent Host sessions through the shared tool batch · `11-15 12:21`
+4. ✅ Closed issue [#17260](https://github.com/QwenLM/qwen-code/issues/17260) \[managed-agent\] Stale public-child CANCELLING turn loops forever in recovery after… · `11-15 12:01`
+5. 🟣 Merged PR [#17273](https://github.com/QwenLM/qwen-code/pull/17273) fix(managed-agent): settle stale public-child recovery as terminal instead of retrying… · `11-15 12:00`
 
 <!--END_SECTION:activity-->
 
