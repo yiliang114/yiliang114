@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **406** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 396 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 3 · +3 more
+> 🟣 **408** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 398 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 3 · +3 more
 
-1. 🔀 Opened PR [#17330](https://github.com/QwenLM/qwen-code/pull/17330) test(cli): cover the shared batch host inputs on cron and notification turns · `11-15 12:43`
-2. ✅ Closed issue [#17053](https://github.com/QwenLM/qwen-code/issues/17053) TypeScript SDK: transport negotiation can hang while reading the capabilities response… · `11-15 12:42`
-3. 🟣 Merged PR [#17218](https://github.com/QwenLM/qwen-code/pull/17218) feat(acp): route live and read-only Agent Host sessions through the shared tool batch · `11-15 12:21`
-4. ✅ Closed issue [#17260](https://github.com/QwenLM/qwen-code/issues/17260) \[managed-agent\] Stale public-child CANCELLING turn loops forever in recovery after… · `11-15 12:01`
-5. 🟣 Merged PR [#17273](https://github.com/QwenLM/qwen-code/pull/17273) fix(managed-agent): settle stale public-child recovery as terminal instead of retrying… · `11-15 12:00`
+1. 🟣 Merged PR [#15684](https://github.com/QwenLM/qwen-code/pull/15684) feat(managed-agent): enable external workspace execution · `11-15 21:40`
+2. ✅ Closed issue [#17348](https://github.com/QwenLM/qwen-code/issues/17348) deflake: packages/web-shell/daemon/session/DaemonSessionProvider.test.tsx ›… · `11-15 20:42`
+3. ✅ Closed issue [#10850](https://github.com/QwenLM/qwen-code/issues/10850) ci: Dependency CVE audit fails repo-wide on new fast-uri/qs/uuid advisories (main… · `11-15 20:07`
+4. ✅ Closed issue [#17252](https://github.com/QwenLM/qwen-code/issues/17252) deflake: packages/web-shell/client/e2e/web-shell.turn-navigation-scroll-follow.spec.ts ›… · `11-15 19:43`
+5. 🔀 Opened PR [#17357](https://github.com/QwenLM/qwen-code/pull/17357) feat(managed-agent): run a foreground Shell on an external worker whose capture the… · `11-15 19:10`
 
 <!--END_SECTION:activity-->
 
