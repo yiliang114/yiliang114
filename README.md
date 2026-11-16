@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **408** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 398 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 3 · +3 more
+> 🟣 **393** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 384 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 2 · +3 more
 
-1. 📝 Opened issue [#17383](https://github.com/QwenLM/qwen-code/issues/17383) Managed Runtime Broker: session stuck in RECOVERY\_BLOCKED after create timeout, no user… · `11-16 03:32`
-2. 📝 Opened issue [#17381](https://github.com/QwenLM/qwen-code/issues/17381) Managed hooks reject supported description and statusMessage metadata during extension… · `11-16 03:21`
-3. 📝 Opened issue [#17380](https://github.com/QwenLM/qwen-code/issues/17380) managed-agent: pre-admission Turn fails with hosted\_harness\_unavailable while Workspace… · `11-16 03:13`
-4. ✅ Closed issue [#17363](https://github.com/QwenLM/qwen-code/issues/17363) deflake: integration-tests/cli/acp-agent-loop-parity.test.ts › ACP agent loop parity… · `11-15 23:42`
-5. ✅ Closed issue [#17344](https://github.com/QwenLM/qwen-code/issues/17344) deflake: packages/core/src/code-mode/code-mode.test.ts › isolated code mode host \> does… · `11-15 22:42`
+1. 🔀 Opened PR [#17412](https://github.com/QwenLM/qwen-code/pull/17412) fix(managed-agent): resolve external execution actor through child session lineage · `11-16 12:18`
+2. 📝 Opened issue [#17408](https://github.com/QwenLM/qwen-code/issues/17408) \[managed-agent\] ChildResultRelay spins in binding forever when bound sessions use… · `11-16 11:52`
+3. 📝 Opened issue [#17407](https://github.com/QwenLM/qwen-code/issues/17407) \[managed-agent\] External-files child session turn fails terminally with… · `11-16 11:52`
+4. ✅ Closed issue [#17297](https://github.com/QwenLM/qwen-code/issues/17297) Release Failed for v0.27.3-nightly.20261114.90be7c869f on 2026-11-15 · `11-16 11:12`
+5. 📝 Opened issue [#17383](https://github.com/QwenLM/qwen-code/issues/17383) Managed Runtime Broker: session stuck in RECOVERY\_BLOCKED after create timeout, no user… · `11-16 03:32`
 
 <!--END_SECTION:activity-->
 
