@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **383** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 374 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 2 · +3 more
+> 🟣 **385** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 376 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 2 · +3 more
 
-1. ✅ Closed issue [#17135](https://github.com/QwenLM/qwen-code/issues/17135) fix(runtime-broker): identity-free extension-status probe cannot resolve shared… · `11-17 00:42`
-2. 🔀 Opened PR [#17478](https://github.com/QwenLM/qwen-code/pull/17478) feat(managed-agent): add external Shell worker profile and publication producer \[17357… · `11-16 23:14`
-3. 🔀 Opened PR [#17474](https://github.com/QwenLM/qwen-code/pull/17474) feat(managed-agent): wire external foreground Shell into Broker and Control Plane \[17357… · `11-16 22:38`
-4. 🔀 Opened PR [#17473](https://github.com/QwenLM/qwen-code/pull/17473) feat(managed-agent): add external Shell worker profile and publication producer \[17357… · `11-16 22:38`
-5. 🔀 Opened PR [#17472](https://github.com/QwenLM/qwen-code/pull/17472) feat(managed-agent): share resident external Workspace across sessions \[16023 B/2\] · `11-16 22:38`
+1. ✅ Closed issue [#17558](https://github.com/QwenLM/qwen-code/issues/17558) deflake: packages/channels/dingtalk/src/managed-dingtalk-adapter.test.ts › managed… · `11-17 22:43`
+2. 🔀 Opened PR [#17557](https://github.com/QwenLM/qwen-code/pull/17557) fix(web-shell): stabilize managed recovery verdicts and polling · `11-17 20:34`
+3. 🟣 Merged PR [#17549](https://github.com/QwenLM/qwen-code/pull/17549) fix(triage): fail closed when QWEN\_TRIAGE\_DRAFT\_DIR is unset in CI · `11-17 20:17`
+4. 📝 Opened issue [#17555](https://github.com/QwenLM/qwen-code/issues/17555) fix(web-shell): align managed recovery UI with termination settlement and… · `11-17 20:06`
+5. 📝 Opened issue [#17543](https://github.com/QwenLM/qwen-code/issues/17543) fix(managed-agent): recovery recheck requires a live harness and cannot settle from… · `11-17 18:50`
 
 <!--END_SECTION:activity-->
 
