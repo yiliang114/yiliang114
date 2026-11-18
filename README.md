@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **375** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 366 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 2 · +3 more
+> 🟣 **376** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 367 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [qwen-code-docs](https://github.com/QwenLM/qwen-code-docs) 2 · +3 more
 
-1. ✅ Closed issue [#17558](https://github.com/QwenLM/qwen-code/issues/17558) deflake: packages/channels/dingtalk/src/managed-dingtalk-adapter.test.ts › managed… · `11-17 22:43`
-2. 🔀 Opened PR [#17557](https://github.com/QwenLM/qwen-code/pull/17557) fix(web-shell): align managed errors with DAC and stabilize recovery · `11-17 20:34`
-3. 🟣 Merged PR [#17549](https://github.com/QwenLM/qwen-code/pull/17549) fix(triage): fail closed when QWEN\_TRIAGE\_DRAFT\_DIR is unset in CI · `11-17 20:17`
-4. 📝 Opened issue [#17555](https://github.com/QwenLM/qwen-code/issues/17555) fix(web-shell): align managed recovery UI with termination settlement and… · `11-17 20:06`
-5. 📝 Opened issue [#17543](https://github.com/QwenLM/qwen-code/issues/17543) fix(managed-agent): recovery recheck requires a live harness and cannot settle from… · `11-17 18:50`
+1. 📝 Opened issue [#17727](https://github.com/QwenLM/qwen-code/issues/17727) bug(managed-agent): after a 409 on first message submit, "retry the same request" is… · `11-18 21:08`
+2. 📝 Opened issue [#17714](https://github.com/QwenLM/qwen-code/issues/17714) feat(managed-agent): support or gracefully degrade mcp/hooks contributions in… · `11-18 19:40`
+3. 📝 Opened issue [#17695](https://github.com/QwenLM/qwen-code/issues/17695) test(managed-agent): close test-coverage gaps from PR #17471 review · `11-18 14:21`
+4. ✅ Closed issue [#17555](https://github.com/QwenLM/qwen-code/issues/17555) fix(web-shell): align managed recovery UI with termination settlement and… · `11-18 12:38`
+5. 🟣 Merged PR [#17557](https://github.com/QwenLM/qwen-code/pull/17557) fix(web-shell): align managed errors with DAC and stabilize recovery · `11-18 12:38`
 
 <!--END_SECTION:activity-->
 
