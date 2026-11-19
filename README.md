@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **359** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 352 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness) 1 · +2 more
+> 🟣 **368** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 361 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness) 1 · +2 more
 
-1. ✅ Closed issue [#17761](https://github.com/QwenLM/qwen-code/issues/17761) deflake: packages/cli/src/serve/server.test.ts › Unified SSE admission/occupancy (issue… · `11-19 06:43`
-2. 📝 Opened issue [#17750](https://github.com/QwenLM/qwen-code/issues/17750) managed-agent-server: ToolPublicationContract incompatible with networknt… · `11-19 02:26`
-3. 📝 Opened issue [#17754](https://github.com/QwenLM/qwen-code/issues/17754) bug(managed-agent): executable extension modes leave ordinary Linux hosts with no option… · `11-19 01:43`
-4. ✅ Closed issue [#16346](https://github.com/QwenLM/qwen-code/issues/16346) Main CI failed: Managed Agent gate — ClassSizeRatchetTest.productionClassesStayWithinThei… · `11-19 01:43`
-5. 🔀 Opened PR [#17752](https://github.com/QwenLM/qwen-code/pull/17752) fix(managed-agent-server): adapt ToolPublicationContract to networknt… · `11-19 01:03`
+1. 🟣 Merged PR [#17841](https://github.com/QwenLM/qwen-code/pull/17841) test(serve): share clamp fixture and pin socket pruning · `11-19 21:50`
+2. 🔀 Opened PR [#17848](https://github.com/QwenLM/qwen-code/pull/17848) fix(ci): use live review bot for manual re-review · `11-19 21:47`
+3. 🔀 Opened PR [#17847](https://github.com/QwenLM/qwen-code/pull/17847) fix(web-shell): add the ru entries for the experimental.mods settings · `11-19 21:45`
+4. ✅ Closed issue [#17221](https://github.com/QwenLM/qwen-code/issues/17221) ci: pin the cron side of the failure-report schedule arm · `11-19 19:49`
+5. 🟣 Merged PR [#17829](https://github.com/QwenLM/qwen-code/pull/17829) test(ci): assert scheduled workflows retain cron triggers · `11-19 19:49`
 
 <!--END_SECTION:activity-->
 
