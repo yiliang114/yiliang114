@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **368** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 361 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness) 1 · +2 more
+> 🟣 **350** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 343 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness) 1 · +2 more
 
-1. 🟣 Merged PR [#17841](https://github.com/QwenLM/qwen-code/pull/17841) test(serve): share clamp fixture and pin socket pruning · `11-19 21:50`
-2. 🔀 Opened PR [#17848](https://github.com/QwenLM/qwen-code/pull/17848) fix(ci): use live review bot for manual re-review · `11-19 21:47`
-3. 🔀 Opened PR [#17847](https://github.com/QwenLM/qwen-code/pull/17847) fix(web-shell): add the ru entries for the experimental.mods settings · `11-19 21:45`
-4. ✅ Closed issue [#17221](https://github.com/QwenLM/qwen-code/issues/17221) ci: pin the cron side of the failure-report schedule arm · `11-19 19:49`
-5. 🟣 Merged PR [#17829](https://github.com/QwenLM/qwen-code/pull/17829) test(ci): assert scheduled workflows retain cron triggers · `11-19 19:49`
+1. 🔀 Opened PR [#17883](https://github.com/QwenLM/qwen-code/pull/17883) fix(web-shell): keep mobile Send above software keyboard · `11-20 06:36`
+2. 🔀 Opened PR [#17881](https://github.com/QwenLM/qwen-code/pull/17881) fix(ci): route autofix reviews through live bot · `11-20 05:46`
+3. 📝 Opened issue [#17880](https://github.com/QwenLM/qwen-code/issues/17880) ci: replace remaining qwen-code-ci-bot references in precheck and release sync · `11-20 05:28`
+4. 🔀 Opened PR [#17879](https://github.com/QwenLM/qwen-code/pull/17879) fix(ci): isolate verify scratch in runner temp · `11-20 05:20`
+5. 🔀 Opened PR [#17876](https://github.com/QwenLM/qwen-code/pull/17876) fix(core): resolve dotted DeepSeek catalog limits · `11-20 04:27`
 
 <!--END_SECTION:activity-->
 
