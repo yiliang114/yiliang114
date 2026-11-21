@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **353** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 346 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness) 1 · +2 more
+> 🟣 **344** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 337 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness) 1 · +2 more
 
-1. 🟣 Merged PR [#17949](https://github.com/QwenLM/qwen-code/pull/17949) fix(managed-agent): create the ephemeral Runtime state directory before spawning · `11-21 00:54`
-2. 🔀 Opened PR [#17951](https://github.com/QwenLM/qwen-code/pull/17951) fix(release): resume a partial release instead of refusing its retry · `11-21 00:46`
-3. 🔀 Opened PR [#17950](https://github.com/QwenLM/qwen-code/pull/17950) fix(release): resume a partial release instead of refusing its retry · `11-21 00:43`
-4. ✅ Closed issue [#17188](https://github.com/QwenLM/qwen-code/issues/17188) DeepSeek V3.1 and V3.2 fall back to the generic DeepSeek output limit · `11-20 19:28`
-5. 🟣 Merged PR [#17876](https://github.com/QwenLM/qwen-code/pull/17876) fix(core): resolve dotted DeepSeek catalog limits · `11-20 19:28`
+1. ✅ Closed issue [#17628](https://github.com/QwenLM/qwen-code/issues/17628) fix(cli): command migration can overwrite a newly created Markdown file · `11-21 10:43`
+2. 🟣 Merged PR [#17873](https://github.com/QwenLM/qwen-code/pull/17873) fix(cli): preserve command migration destinations · `11-21 10:43`
+3. 🟣 Merged PR [#17967](https://github.com/QwenLM/qwen-code/pull/17967) test(ci): wait for RocketMQ listeners to clear after stop · `11-21 09:20`
+4. 🔀 Opened PR [#17965](https://github.com/QwenLM/qwen-code/pull/17965) fix(managed-agent): create the ephemeral Runtime state directory at spawn time · `11-21 09:00`
+5. ✅ Closed issue [#17039](https://github.com/QwenLM/qwen-code/issues/17039) ci: make the Managed Agent gate name stable so it can become a required check · `11-21 08:26`
 
 <!--END_SECTION:activity-->
 
