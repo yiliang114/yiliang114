@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **344** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 337 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness) 1 · +2 more
+> 🟣 **351** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 344 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness) 1 · +2 more
 
-1. ✅ Closed issue [#17628](https://github.com/QwenLM/qwen-code/issues/17628) fix(cli): command migration can overwrite a newly created Markdown file · `11-21 10:43`
-2. 🟣 Merged PR [#17873](https://github.com/QwenLM/qwen-code/pull/17873) fix(cli): preserve command migration destinations · `11-21 10:43`
-3. 🟣 Merged PR [#17967](https://github.com/QwenLM/qwen-code/pull/17967) test(ci): wait for RocketMQ listeners to clear after stop · `11-21 09:20`
-4. 🔀 Opened PR [#17965](https://github.com/QwenLM/qwen-code/pull/17965) fix(managed-agent): create the ephemeral Runtime state directory at spawn time · `11-21 09:00`
-5. ✅ Closed issue [#17039](https://github.com/QwenLM/qwen-code/issues/17039) ci: make the Managed Agent gate name stable so it can become a required check · `11-21 08:26`
+1. 🟣 Merged PR [#18040](https://github.com/QwenLM/qwen-code/pull/18040) fix(ci): refuse verification without a prepared scratch directory · `11-22 02:07`
+2. ✅ Closed issue [#17859](https://github.com/QwenLM/qwen-code/issues/17859) \[Web Shell\] iOS Safari keyboard covers Send on the welcome screen · `11-22 01:47`
+3. 🟣 Merged PR [#17883](https://github.com/QwenLM/qwen-code/pull/17883) fix(web-shell): keep mobile Send above software keyboard · `11-22 01:47`
+4. 📝 Opened issue [#18043](https://github.com/QwenLM/qwen-code/issues/18043) fix(core): protect web\_fetch binary-only spill from microcompaction clearing (F5 / R2-1… · `11-22 01:29`
+5. 📝 Opened issue [#18042](https://github.com/QwenLM/qwen-code/issues/18042) fix(core): #17875 post-merge follow-up — media-strip drops the recovery handle (F1) +… · `11-22 01:20`
 
 <!--END_SECTION:activity-->
 
