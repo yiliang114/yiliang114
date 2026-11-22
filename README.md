@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **351** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 344 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness) 1 · +2 more
+> 🟣 **342** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 336 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 4 · [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness) 1 · +1 more
 
-1. 🟣 Merged PR [#18040](https://github.com/QwenLM/qwen-code/pull/18040) fix(ci): refuse verification without a prepared scratch directory · `11-22 02:07`
-2. ✅ Closed issue [#17859](https://github.com/QwenLM/qwen-code/issues/17859) \[Web Shell\] iOS Safari keyboard covers Send on the welcome screen · `11-22 01:47`
-3. 🟣 Merged PR [#17883](https://github.com/QwenLM/qwen-code/pull/17883) fix(web-shell): keep mobile Send above software keyboard · `11-22 01:47`
-4. 📝 Opened issue [#18043](https://github.com/QwenLM/qwen-code/issues/18043) fix(core): protect web\_fetch binary-only spill from microcompaction clearing (F5 / R2-1… · `11-22 01:29`
-5. 📝 Opened issue [#18042](https://github.com/QwenLM/qwen-code/issues/18042) fix(core): #17875 post-merge follow-up — media-strip drops the recovery handle (F1) +… · `11-22 01:20`
+1. 🔀 Opened PR [#18085](https://github.com/QwenLM/qwen-code/pull/18085) refactor(managed-agent): move publication OSS scope naming to the contract · `11-22 13:34`
+2. 🟣 Merged PR [#18076](https://github.com/QwenLM/qwen-code/pull/18076) test(managed-agent): gate the four durable existing-dir preflight tests to Linux · `11-22 13:09`
+3. ✅ Closed issue [#9780](https://github.com/QwenLM/qwen-code/issues/9780) Deferred review findings from PR #9657 · `11-22 12:38`
+4. 📝 Opened issue [#18077](https://github.com/QwenLM/qwen-code/issues/18077) chore(managed-agent): ToolPublicationDataStore exceeds the class-size ratchet (2485 \>… · `11-22 11:56`
+5. 🔀 Opened PR [#18075](https://github.com/QwenLM/qwen-code/pull/18075) fix(deps): clear the current high-and-critical prod audit findings · `11-22 11:44`
 
 <!--END_SECTION:activity-->
 
