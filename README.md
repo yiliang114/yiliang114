@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **303** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 301 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 1 · [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness) 1
+> 🟣 **305** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 303 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 1 · [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness) 1
 
-1. ✅ Closed issue [#17201](https://github.com/QwenLM/qwen-code/issues/17201) Release Failed for v0.27.2-nightly.20261113.6f754be654 on 2026-11-13 · [qwen-code](https://github.com/QwenLM/qwen-code) · `11-24 16:01`
-2. 🔀 Opened PR [#18238](https://github.com/QwenLM/qwen-code/pull/18238) fix(ci): keep the main failure reporter filing without its PAT · [qwen-code](https://github.com/QwenLM/qwen-code) · `11-24 15:59`
-3. 🔀 Opened PR [#16](https://github.com/QwenLM/qwen-code-action/pull/16) fix: harden agent trust boundaries against prompt injection and secret exposure · [qwen-code-action](https://github.com/QwenLM/qwen-code-action) · `11-24 15:37`
-4. 🔀 Reopened PR [#18207](https://github.com/QwenLM/qwen-code/pull/18207) fix(managed-agent): bound the actor id test by its UTF-16 column · [qwen-code](https://github.com/QwenLM/qwen-code) · `11-24 12:15`
-5. ✅ Closed issue [#10635](https://github.com/QwenLM/qwen-code/issues/10635) Deferred review findings from PR #10611 · [qwen-code](https://github.com/QwenLM/qwen-code) · `11-23 17:13`
+1. ✅ Closed issue [#18244](https://github.com/QwenLM/qwen-code/issues/18244) Release Failed for v0.28.3-nightly.20261124.56c15cf502 on 2026-11-24 · `11-25 02:46`
+2. ✅ Closed issue [#18241](https://github.com/QwenLM/qwen-code/issues/18241) Release Failed for v0.28.3-nightly.20261124.7862c3eef3 on 2026-11-24 · `11-25 02:46`
+3. 🔀 Opened PR [#18282](https://github.com/QwenLM/qwen-code/pull/18282) fix(triage): fall back to GITHUB\_TOKEN when bot PATs are absent · `11-25 01:57`
+4. 🔀 Opened PR [#18270](https://github.com/QwenLM/qwen-code/pull/18270) fix(ci): keep fork PR code and forged approval markers away from CI credentials · `11-24 23:37`
+5. 🟣 Merged PR [#18238](https://github.com/QwenLM/qwen-code/pull/18238) fix(ci): keep the main failure reporter filing without its PAT · `11-24 19:19`
 
 <!--END_SECTION:activity-->
 
