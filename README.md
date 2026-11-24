@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **331** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 326 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 3 · [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness) 1 · +1 more
+> 🟣 **303** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 301 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 1 · [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness) 1
 
-1. ✅ Closed issue [#10635](https://github.com/QwenLM/qwen-code/issues/10635) Deferred review findings from PR #10611 · `11-23 17:13`
-2. ✅ Closed issue [#9427](https://github.com/QwenLM/qwen-code/issues/9427) Deferred review findings from PR #9421 · `11-23 17:10`
-3. 🟣 Merged PR [#18100](https://github.com/QwenLM/qwen-code/pull/18100) fix(managed-agent): admit session skills on external Workspace creation · `11-23 12:55`
-4. 🔀 Opened PR [#18129](https://github.com/QwenLM/qwen-code/pull/18129) fix(managed-agent): align v1 runtime store, approvals, and Web Shell skill preparation · `11-23 00:44`
-5. 🔀 Opened PR [#18116](https://github.com/QwenLM/qwen-code/pull/18116) feat(web-shell): support session-required Skills menus · `11-22 22:38`
+1. ✅ Closed issue [#17201](https://github.com/QwenLM/qwen-code/issues/17201) Release Failed for v0.27.2-nightly.20261113.6f754be654 on 2026-11-13 · [qwen-code](https://github.com/QwenLM/qwen-code) · `11-24 16:01`
+2. 🔀 Opened PR [#18238](https://github.com/QwenLM/qwen-code/pull/18238) fix(ci): keep the main failure reporter filing without its PAT · [qwen-code](https://github.com/QwenLM/qwen-code) · `11-24 15:59`
+3. 🔀 Opened PR [#16](https://github.com/QwenLM/qwen-code-action/pull/16) fix: harden agent trust boundaries against prompt injection and secret exposure · [qwen-code-action](https://github.com/QwenLM/qwen-code-action) · `11-24 15:37`
+4. 🔀 Reopened PR [#18207](https://github.com/QwenLM/qwen-code/pull/18207) fix(managed-agent): bound the actor id test by its UTF-16 column · [qwen-code](https://github.com/QwenLM/qwen-code) · `11-24 12:15`
+5. ✅ Closed issue [#10635](https://github.com/QwenLM/qwen-code/issues/10635) Deferred review findings from PR #10611 · [qwen-code](https://github.com/QwenLM/qwen-code) · `11-23 17:13`
 
 <!--END_SECTION:activity-->
 
