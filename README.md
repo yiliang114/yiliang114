@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **305** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 303 · [dsh-session-deck](https://github.com/yiliang114/dsh-session-deck) 1 · [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness) 1
+> 🟣 **275** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 274 · [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness) 1
 
-1. ✅ Closed issue [#18244](https://github.com/QwenLM/qwen-code/issues/18244) Release Failed for v0.28.3-nightly.20261124.56c15cf502 on 2026-11-24 · `11-25 02:46`
-2. ✅ Closed issue [#18241](https://github.com/QwenLM/qwen-code/issues/18241) Release Failed for v0.28.3-nightly.20261124.7862c3eef3 on 2026-11-24 · `11-25 02:46`
-3. 🔀 Opened PR [#18282](https://github.com/QwenLM/qwen-code/pull/18282) fix(triage): fall back to GITHUB\_TOKEN when bot PATs are absent · `11-25 01:57`
-4. 🔀 Opened PR [#18270](https://github.com/QwenLM/qwen-code/pull/18270) fix(ci): keep fork PR code and forged approval markers away from CI credentials · `11-24 23:37`
-5. 🟣 Merged PR [#18238](https://github.com/QwenLM/qwen-code/pull/18238) fix(ci): keep the main failure reporter filing without its PAT · `11-24 19:19`
+1. 🟣 Merged PR [#18310](https://github.com/QwenLM/qwen-code/pull/18310) fix(ci): scope Managed Agent fast checks by changed paths · `11-25 14:51`
+2. 🔀 Opened PR [#18319](https://github.com/QwenLM/qwen-code/pull/18319) fix(web-shell): pass the reasoning selection at standalone session creation · `11-25 13:19`
+3. 🔀 Opened PR [#18315](https://github.com/QwenLM/qwen-code/pull/18315) test(serve): pin the clock in scheduled-tasks reseat assertions · `11-25 12:51`
+4. 🔀 Opened PR [#18312](https://github.com/QwenLM/qwen-code/pull/18312) fix(cli): drain queued signals across a full loop turn before capture-tui exits · `11-25 12:04`
+5. 🔀 Opened PR [#18309](https://github.com/QwenLM/qwen-code/pull/18309) fix(release): fetch sparse checkout blobs with retries · `11-25 11:48`
 
 <!--END_SECTION:activity-->
 
