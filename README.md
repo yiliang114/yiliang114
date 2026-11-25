@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **275** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 274 · [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness) 1
+> 🟣 **282** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 281 · [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness) 1
 
-1. 🟣 Merged PR [#18310](https://github.com/QwenLM/qwen-code/pull/18310) fix(ci): scope Managed Agent fast checks by changed paths · `11-25 14:51`
-2. 🔀 Opened PR [#18319](https://github.com/QwenLM/qwen-code/pull/18319) fix(web-shell): pass the reasoning selection at standalone session creation · `11-25 13:19`
-3. 🔀 Opened PR [#18315](https://github.com/QwenLM/qwen-code/pull/18315) test(serve): pin the clock in scheduled-tasks reseat assertions · `11-25 12:51`
-4. 🔀 Opened PR [#18312](https://github.com/QwenLM/qwen-code/pull/18312) fix(cli): drain queued signals across a full loop turn before capture-tui exits · `11-25 12:04`
-5. 🔀 Opened PR [#18309](https://github.com/QwenLM/qwen-code/pull/18309) fix(release): fetch sparse checkout blobs with retries · `11-25 11:48`
+1. 🔀 Opened PR [#18377](https://github.com/QwenLM/qwen-code/pull/18377) test(core): retry workflow-runner temp-dir cleanup on ENOTEMPTY · `11-26 01:30`
+2. ✅ Closed issue [#18341](https://github.com/QwenLM/qwen-code/issues/18341) Main CI failed: Qwen Code CI — scripts/tests/install-script.test.js \[… · `11-26 01:24`
+3. ✅ Closed issue [#18354](https://github.com/QwenLM/qwen-code/issues/18354) Release Failed for v0.28.5 on 2026-11-25 · `11-26 01:23`
+4. ✅ Closed issue [#18375](https://github.com/QwenLM/qwen-code/issues/18375) Release Failed for N/A on 2026-11-25 · `11-26 01:23`
+5. ✅ Closed issue [#18372](https://github.com/QwenLM/qwen-code/issues/18372) Release Failed for v0.28.5 on 2026-11-25 · `11-26 01:23`
 
 <!--END_SECTION:activity-->
 
