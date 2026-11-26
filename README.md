@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **282** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 281 · [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness) 1
+> 🟣 **267** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 266 · [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness) 1
 
-1. 🔀 Opened PR [#18377](https://github.com/QwenLM/qwen-code/pull/18377) test(core): retry workflow-runner temp-dir cleanup on ENOTEMPTY · `11-26 01:30`
-2. ✅ Closed issue [#18341](https://github.com/QwenLM/qwen-code/issues/18341) Main CI failed: Qwen Code CI — scripts/tests/install-script.test.js \[… · `11-26 01:24`
-3. ✅ Closed issue [#18354](https://github.com/QwenLM/qwen-code/issues/18354) Release Failed for v0.28.5 on 2026-11-25 · `11-26 01:23`
-4. ✅ Closed issue [#18375](https://github.com/QwenLM/qwen-code/issues/18375) Release Failed for N/A on 2026-11-25 · `11-26 01:23`
-5. ✅ Closed issue [#18372](https://github.com/QwenLM/qwen-code/issues/18372) Release Failed for v0.28.5 on 2026-11-25 · `11-26 01:23`
+1. 📝 Opened issue [#18407](https://github.com/QwenLM/qwen-code/issues/18407) Web Shell: expose the auto-compaction threshold in Settings · [qwen-code](https://github.com/QwenLM/qwen-code) · `11-26 13:36`
+2. 🔀 Opened PR [#18](https://github.com/QwenLM/qwen-code-action/pull/18) fix: strip the model API key from the agent environment · [qwen-code-action](https://github.com/QwenLM/qwen-code-action) · `11-26 11:31`
+3. 🟣 Merged PR [#18395](https://github.com/QwenLM/qwen-code/pull/18395) test(integration): skip input history suite in Docker · [qwen-code](https://github.com/QwenLM/qwen-code) · `11-26 10:21`
+4. 📝 Opened issue [#18394](https://github.com/QwenLM/qwen-code/issues/18394) ci(web-shell): E2E smoke still fails on shared ARM64 pool from ERR\_NETWORK\_CHANGED… · [qwen-code](https://github.com/QwenLM/qwen-code) · `11-26 10:20`
+5. 🟣 Merged PR [#18377](https://github.com/QwenLM/qwen-code/pull/18377) fix(web-shell): keep private core imports out of published declarations · [qwen-code](https://github.com/QwenLM/qwen-code) · `11-26 08:10`
 
 <!--END_SECTION:activity-->
 
