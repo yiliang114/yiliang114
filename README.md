@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **267** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 266 · [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness) 1
+> 🟣 **274** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 273 · [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness) 1
 
-1. 📝 Opened issue [#18407](https://github.com/QwenLM/qwen-code/issues/18407) Web Shell: expose the auto-compaction threshold in Settings · [qwen-code](https://github.com/QwenLM/qwen-code) · `11-26 13:36`
-2. 🔀 Opened PR [#18](https://github.com/QwenLM/qwen-code-action/pull/18) fix: strip the model API key from the agent environment · [qwen-code-action](https://github.com/QwenLM/qwen-code-action) · `11-26 11:31`
-3. 🟣 Merged PR [#18395](https://github.com/QwenLM/qwen-code/pull/18395) test(integration): skip input history suite in Docker · [qwen-code](https://github.com/QwenLM/qwen-code) · `11-26 10:21`
-4. 📝 Opened issue [#18394](https://github.com/QwenLM/qwen-code/issues/18394) ci(web-shell): E2E smoke still fails on shared ARM64 pool from ERR\_NETWORK\_CHANGED… · [qwen-code](https://github.com/QwenLM/qwen-code) · `11-26 10:20`
-5. 🟣 Merged PR [#18377](https://github.com/QwenLM/qwen-code/pull/18377) fix(web-shell): keep private core imports out of published declarations · [qwen-code](https://github.com/QwenLM/qwen-code) · `11-26 08:10`
+1. 🔀 Opened PR [#18473](https://github.com/QwenLM/qwen-code/pull/18473) fix(ci): re-pin the RHEL 10 rpm build root to the current stream10 digest · [qwen-code](https://github.com/QwenLM/qwen-code) · `11-27 03:31`
+2. 🔀 Opened PR [#18470](https://github.com/QwenLM/qwen-code/pull/18470) fix(ci): isolate fork review model credentials · [qwen-code](https://github.com/QwenLM/qwen-code) · `11-27 02:11`
+3. 🔀 Opened PR [#18468](https://github.com/QwenLM/qwen-code/pull/18468) refactor(managed-agent): extract child session admission · [qwen-code](https://github.com/QwenLM/qwen-code) · `11-27 01:53`
+4. 🔀 Opened PR [#31](https://github.com/QwenLM/qwen-code-examples/pull/31) fix(ci): cut write tokens from the build matrix and pin the release chain · [qwen-code-examples](https://github.com/QwenLM/qwen-code-examples) · `11-27 01:52`
+5. 🟣 Merged PR [#18458](https://github.com/QwenLM/qwen-code/pull/18458) ci: retire the main-CI failure backlog and land the fixes behind it · [qwen-code](https://github.com/QwenLM/qwen-code) · `11-27 01:27`
 
 <!--END_SECTION:activity-->
 
