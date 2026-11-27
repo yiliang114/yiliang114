@@ -8,13 +8,13 @@
 
 <!--START_SECTION:activity-->
 
-> 🟣 **274** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 273 · [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness) 1
+> 🟣 **264** PRs merged in the last 30 days — [qwen-code](https://github.com/QwenLM/qwen-code) 263 · [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness) 1
 
-1. 🔀 Opened PR [#18473](https://github.com/QwenLM/qwen-code/pull/18473) fix(ci): re-pin the RHEL 10 rpm build root to the current stream10 digest · [qwen-code](https://github.com/QwenLM/qwen-code) · `11-27 03:31`
-2. 🔀 Opened PR [#18470](https://github.com/QwenLM/qwen-code/pull/18470) fix(ci): isolate fork review model credentials · [qwen-code](https://github.com/QwenLM/qwen-code) · `11-27 02:11`
-3. 🔀 Opened PR [#18468](https://github.com/QwenLM/qwen-code/pull/18468) refactor(managed-agent): extract child session admission · [qwen-code](https://github.com/QwenLM/qwen-code) · `11-27 01:53`
-4. 🔀 Opened PR [#31](https://github.com/QwenLM/qwen-code-examples/pull/31) fix(ci): cut write tokens from the build matrix and pin the release chain · [qwen-code-examples](https://github.com/QwenLM/qwen-code-examples) · `11-27 01:52`
-5. 🟣 Merged PR [#18458](https://github.com/QwenLM/qwen-code/pull/18458) ci: retire the main-CI failure backlog and land the fixes behind it · [qwen-code](https://github.com/QwenLM/qwen-code) · `11-27 01:27`
+1. 🔀 Opened PR [#18496](https://github.com/QwenLM/qwen-code/pull/18496) fix(ci): create the SDK GitHub release with the CI bot PAT · `11-27 13:16`
+2. 🟣 Merged PR [#18479](https://github.com/QwenLM/qwen-code/pull/18479) fix(ci): provision the managed OSS MySQL test database · `11-27 13:11`
+3. 🟣 Merged PR [#18468](https://github.com/QwenLM/qwen-code/pull/18468) refactor(managed-agent): extract child session admission · `11-27 12:57`
+4. 🔀 Opened PR [#18494](https://github.com/QwenLM/qwen-code/pull/18494) fix(core): stop worktree snapshot capture from freezing the daemon event loop · `11-27 12:51`
+5. 🔀 Opened PR [#18491](https://github.com/QwenLM/qwen-code/pull/18491) fix(desktop): fail the AppImage smoke check when a host library is bundled · `11-27 12:25`
 
 <!--END_SECTION:activity-->
 
